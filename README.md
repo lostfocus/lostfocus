@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-(I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty.)
+I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty. But until I do, here is [my blog](https://lostfocus.de/):
+
+--- 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **lostfocus/lostfocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
