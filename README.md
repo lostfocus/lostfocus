@@ -4,8 +4,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 
 --- 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- POST-LIST:START -->
+<!-- POST-LIST:END -->
 
 <!--
 **lostfocus/lostfocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
