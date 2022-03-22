@@ -10,6 +10,11 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Thanks, GPG. 🥹](https://lostfocus.de/2022/03/21/230427/)
 - [⭐️ Hannah Gadsby on her autism diagnosis: ‘I’ve always been plagued by a sense that I…](https://lostfocus.de/2022/03/20/230419/)
 - [⭐️ Why the Nineties rocked](https://lostfocus.de/2022/03/20/230417/)
+- [Went for my stupid walk for my stupid mental health. Did not work. Well, it…](https://lostfocus.de/2022/03/19/230415/)
+- [⭐️ How Motörhead &amp; &quot;Ace of Spades&quot; United The Punks &amp; Metalheads | New British Canon](https://lostfocus.de/2022/03/19/230413/)
+- [⭐️ Eponymous Laws Part I: Laws of the Internet](https://lostfocus.de/2022/03/17/230412/)
+- [⭐️ Slobbing out and giving up: why are so many people going ‘goblin mode’?](https://lostfocus.de/2022/03/17/230411/)
+- [⭐️ Context Collapse · roytang.net](https://lostfocus.de/2022/03/16/230409/)
 <!-- POST-LIST:END -->
 
 <!--
