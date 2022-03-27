@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Haven&#39;t seen a hexagon profile image in a while. I guess immediately blocking them helps.](https://lostfocus.de/2022/03/26/230444/)
 - [⭐️ What is the Web?](https://lostfocus.de/2022/03/25/230442/)
 - [⭐️ Mozilla’s vision for the evolution of the Web](https://lostfocus.de/2022/03/25/230441/)
 - [⭐️ I built a receipt printer for GitHub issues](https://lostfocus.de/2022/03/25/230437/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Okay, this one is very funny.](https://lostfocus.de/2022/03/21/230424/)
 - [⭐️ If depression was a dude](https://lostfocus.de/2022/03/21/230421/)
 - [Thanks, GPG. 🥹](https://lostfocus.de/2022/03/21/230427/)
-- [⭐️ Hannah Gadsby on her autism diagnosis: ‘I’ve always been plagued by a sense that I…](https://lostfocus.de/2022/03/20/230419/)
 <!-- POST-LIST:END -->
 
 <!--
