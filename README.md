@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Nicolas Cage Can Explain It All](https://lostfocus.de/2022/03/27/230446/)
 - [Haven&#39;t seen a hexagon profile image in a while. I guess immediately blocking them helps.](https://lostfocus.de/2022/03/26/230444/)
 - [⭐️ What is the Web?](https://lostfocus.de/2022/03/25/230442/)
 - [⭐️ Mozilla’s vision for the evolution of the Web](https://lostfocus.de/2022/03/25/230441/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ How I built one of the top 20 most used Github Actions](https://lostfocus.de/2022/03/22/230430/)
 - [Okay, this one is very funny.](https://lostfocus.de/2022/03/21/230424/)
 - [⭐️ If depression was a dude](https://lostfocus.de/2022/03/21/230421/)
-- [Thanks, GPG. 🥹](https://lostfocus.de/2022/03/21/230427/)
 <!-- POST-LIST:END -->
 
 <!--
