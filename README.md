@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Nobody Works Eight Hours A Day, And You Are An Idiot If You Think They…](https://lostfocus.de/2022/03/31/230473/)
 - [There is a special place in hell for people who change state or even delete…](https://lostfocus.de/2022/03/30/230464/)
 - [Jira](https://lostfocus.de/2022/03/30/230461/)
 - [⭐️ Why The Indieweb?](https://lostfocus.de/2022/03/30/230458/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [My attention span has deteriorated to the point that I forgot what I wanted to…](https://lostfocus.de/2022/03/29/230448/)
 - [⭐️ Nicolas Cage Can Explain It All](https://lostfocus.de/2022/03/27/230446/)
 - [Haven&#39;t seen a hexagon profile image in a while. I guess immediately blocking them helps.](https://lostfocus.de/2022/03/26/230444/)
-- [⭐️ What is the Web?](https://lostfocus.de/2022/03/25/230442/)
 <!-- POST-LIST:END -->
 
 <!--
