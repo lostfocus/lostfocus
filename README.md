@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Slow Horses](https://lostfocus.de/2022/04/04/slow-horses/)
 - [⭐️ A few things to know before stealing my 914](https://lostfocus.de/2022/04/01/230477/)
 - [I&#39;m seriously baffled by people who, when faced with an option to upload a profile…](https://lostfocus.de/2022/04/01/230475/)
 - [⭐️ Nobody Works Eight Hours A Day, And You Are An Idiot If You Think They…](https://lostfocus.de/2022/03/31/230473/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I&#39;ve started to use this emoji 😀 and it makes my messages look so unhinged.…](https://lostfocus.de/2022/03/30/230456/)
 - [It seems like the more the Docker for Mac is optimized for the ARM chips…](https://lostfocus.de/2022/03/29/230453/)
 - [⭐️ The People Who Draw Rocks](https://lostfocus.de/2022/03/29/230450/)
-- [My attention span has deteriorated to the point that I forgot what I wanted to…](https://lostfocus.de/2022/03/29/230448/)
 <!-- POST-LIST:END -->
 
 <!--
