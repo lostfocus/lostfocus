@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Colin Devroe](https://lostfocus.de/2022/04/08/230493/)
 - [Thing I am learning about myself lately: as soon as my backend code doesn&#39;t primarily…](https://lostfocus.de/2022/04/06/230488/)
 - [⭐️ How To Turn Your Passion Into A Business Without Sacrifice - James Hoffmann](https://lostfocus.de/2022/04/06/230486/)
 - [⭐️ I Don&#39;t Have a Good Title for This Video.](https://lostfocus.de/2022/04/06/230485/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Nobody Works Eight Hours A Day, And You Are An Idiot If You Think They…](https://lostfocus.de/2022/03/31/230473/)
 - [There is a special place in hell for people who change state or even delete…](https://lostfocus.de/2022/03/30/230464/)
 - [Jira](https://lostfocus.de/2022/03/30/230461/)
-- [⭐️ Why The Indieweb?](https://lostfocus.de/2022/03/30/230458/)
 <!-- POST-LIST:END -->
 
 <!--
