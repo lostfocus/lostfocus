@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ If YouTube Polyglots Were Honest](https://lostfocus.de/2022/04/12/230503/)
+- [⭐️ On Web 3.0, capitalism and money – Manu](https://lostfocus.de/2022/04/12/230501/)
+- [I looked at the BeReal-App and decided it would be too real for me. None…](https://lostfocus.de/2022/04/12/230496/)
 - [⭐️ Colin Devroe](https://lostfocus.de/2022/04/08/230493/)
 - [Thing I am learning about myself lately: as soon as my backend code doesn&#39;t primarily…](https://lostfocus.de/2022/04/06/230488/)
 - [⭐️ How To Turn Your Passion Into A Business Without Sacrifice - James Hoffmann](https://lostfocus.de/2022/04/06/230486/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Slow Horses](https://lostfocus.de/2022/04/04/slow-horses/)
 - [⭐️ A few things to know before stealing my 914](https://lostfocus.de/2022/04/01/230477/)
 - [I&#39;m seriously baffled by people who, when faced with an option to upload a profile…](https://lostfocus.de/2022/04/01/230475/)
-- [⭐️ Nobody Works Eight Hours A Day, And You Are An Idiot If You Think They…](https://lostfocus.de/2022/03/31/230473/)
-- [There is a special place in hell for people who change state or even delete…](https://lostfocus.de/2022/03/30/230464/)
-- [Jira](https://lostfocus.de/2022/03/30/230461/)
 <!-- POST-LIST:END -->
 
 <!--
