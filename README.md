@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Ultimate Happy Hardcore Mashup](https://lostfocus.de/2022/04/14/230513/)
+- [Maybe I&#39;ll just switch off all devices for good and become one of those model…](https://lostfocus.de/2022/04/14/230511/)
 - [⭐️ 69420](https://lostfocus.de/2022/04/13/230509/)
 - [⭐️ U+237C ⍼ RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://lostfocus.de/2022/04/13/230507/)
 - [I&#39;m now at a point where a nap during the lunch break is 60% likely…](https://lostfocus.de/2022/04/13/230506/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ If YouTube Polyglots Were Honest](https://lostfocus.de/2022/04/12/230503/)
 - [⭐️ On Web 3.0, capitalism and money – Manu](https://lostfocus.de/2022/04/12/230501/)
 - [I looked at the BeReal-App and decided it would be too real for me. None…](https://lostfocus.de/2022/04/12/230496/)
-- [⭐️ Colin Devroe](https://lostfocus.de/2022/04/08/230493/)
-- [Thing I am learning about myself lately: as soon as my backend code doesn&#39;t primarily…](https://lostfocus.de/2022/04/06/230488/)
 <!-- POST-LIST:END -->
 
 <!--
