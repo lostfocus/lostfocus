@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I’d probably shovel dung like most of us.](https://lostfocus.de/2022/04/25/230520/)
+- [Is everything a bit shit lately or is that just my filter bubble?](https://lostfocus.de/2022/04/25/230517/)
+- [Likes https://contrachrome.com/.](https://lostfocus.de/2022/04/25/230515/)
 - [⭐️ Ultimate Happy Hardcore Mashup](https://lostfocus.de/2022/04/14/230513/)
 - [Maybe I&#39;ll just switch off all devices for good and become one of those model…](https://lostfocus.de/2022/04/14/230511/)
 - [⭐️ 69420](https://lostfocus.de/2022/04/13/230509/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I&#39;m now at a point where a nap during the lunch break is 60% likely…](https://lostfocus.de/2022/04/13/230506/)
 - [⭐️ Thoughts on Blogging, 2022 Edition · roytang.net](https://lostfocus.de/2022/04/13/230505/)
 - [⭐️ gilest.org: What using RSS feeds feels like](https://lostfocus.de/2022/04/13/230504/)
-- [⭐️ If YouTube Polyglots Were Honest](https://lostfocus.de/2022/04/12/230503/)
-- [⭐️ On Web 3.0, capitalism and money – Manu](https://lostfocus.de/2022/04/12/230501/)
-- [I looked at the BeReal-App and decided it would be too real for me. None…](https://lostfocus.de/2022/04/12/230496/)
 <!-- POST-LIST:END -->
 
 <!--
