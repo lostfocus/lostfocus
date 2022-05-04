@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I’m too dumb for Knotwords and I’m not sure how to process that.](https://lostfocus.de/2022/05/03/230571/)
+- [⭐️ FerrarGIS](https://lostfocus.de/2022/05/03/230569/)
 - [⭐️ b-unicycling&#39;s Diary | Archaeological Discovery | OpenStreetMap](https://lostfocus.de/2022/04/30/230568/)
 - [⭐️ PSY - &#39;That That &lpar;prod. &amp; feat. SUGA of BTS&rpar;&#39; MV](https://lostfocus.de/2022/04/29/230567/)
 - [⭐️ MONDO GROSSO / 惑星タントラ [Vocal:齋藤飛鳥&lpar;乃木坂46&rpar;] &lpar;TANTRAVE Mix&rpar; XR DJ LIVE @NEWVIEW DOMMUNE](https://lostfocus.de/2022/04/29/230564/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Trust](https://lostfocus.de/2022/04/27/230556/)
 - [Something I need to learn: both of these things can be true at the same…](https://lostfocus.de/2022/04/27/230529/)
 - [Oh well.](https://lostfocus.de/2022/04/26/230524/)
-- [I’d probably shovel dung like most of us.](https://lostfocus.de/2022/04/25/230520/)
-- [Is everything a bit shit lately or is that just my filter bubble?](https://lostfocus.de/2022/04/25/230517/)
 <!-- POST-LIST:END -->
 
 <!--
