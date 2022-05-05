@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ PSY - &#39;이제는 &lpar;Now&rpar;&#39; feat. 화사 &lpar;Hwa Sa&rpar; Performance Video](https://lostfocus.de/2022/05/04/230576/)
+- [Ah, yes. The season of the double act &quot;So nice to finally go back to…](https://lostfocus.de/2022/05/04/230574/)
 - [I’m too dumb for Knotwords and I’m not sure how to process that.](https://lostfocus.de/2022/05/03/230571/)
 - [⭐️ FerrarGIS](https://lostfocus.de/2022/05/03/230569/)
 - [⭐️ b-unicycling&#39;s Diary | Archaeological Discovery | OpenStreetMap](https://lostfocus.de/2022/04/30/230568/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Angelheaded Hipsters Burning for the Ancient Heavenly Connection · EmilyGorcenski.com](https://lostfocus.de/2022/04/29/230563/)
 - [Oh great. Another neighbor has gotten some construction equipment.](https://lostfocus.de/2022/04/27/230558/)
 - [⭐️ Trust](https://lostfocus.de/2022/04/27/230556/)
-- [Something I need to learn: both of these things can be true at the same…](https://lostfocus.de/2022/04/27/230529/)
-- [Oh well.](https://lostfocus.de/2022/04/26/230524/)
 <!-- POST-LIST:END -->
 
 <!--
