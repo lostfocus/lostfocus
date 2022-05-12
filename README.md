@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [With the arrival of a little backhoe I can now proudly say that all my…](https://lostfocus.de/2022/05/11/230586/)
+- [I thought it was a good idea to listen to the Lost Highway soundtrack first…](https://lostfocus.de/2022/05/11/230583/)
 - [⭐️ Who made these circles in the Sahara?](https://lostfocus.de/2022/05/10/230579/)
 - [⭐️ 【UE5】etchū-daimon station - 越中大門駅](https://lostfocus.de/2022/05/10/230578/)
 - [⭐️ Coke Studio | Season 14 | Pasoori | Ali Sethi x Shae Gill](https://lostfocus.de/2022/05/09/230577/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I’m too dumb for Knotwords and I’m not sure how to process that.](https://lostfocus.de/2022/05/03/230571/)
 - [⭐️ FerrarGIS](https://lostfocus.de/2022/05/03/230569/)
 - [⭐️ b-unicycling&#39;s Diary | Archaeological Discovery | OpenStreetMap](https://lostfocus.de/2022/04/30/230568/)
-- [⭐️ PSY - &#39;That That &lpar;prod. &amp; feat. SUGA of BTS&rpar;&#39; MV](https://lostfocus.de/2022/04/29/230567/)
-- [⭐️ MONDO GROSSO / 惑星タントラ [Vocal:齋藤飛鳥&lpar;乃木坂46&rpar;] &lpar;TANTRAVE Mix&rpar; XR DJ LIVE @NEWVIEW DOMMUNE](https://lostfocus.de/2022/04/29/230564/)
 <!-- POST-LIST:END -->
 
 <!--
