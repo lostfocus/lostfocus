@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ A dev&#39;s thoughts on developer productivity](https://lostfocus.de/2022/05/17/230602/)
+- [In reply to https://cdevroe.com/2022/05/17/11399/.](https://lostfocus.de/2022/05/17/230600/)
 - [Likes https://scribe.rip/@fosta/on-design-thinking-8426ecf328b3.](https://lostfocus.de/2022/05/16/230599/)
 - [⭐️ Pearls Before Swine by Stephan Pastis for May 16, 2022 | GoComics.com](https://lostfocus.de/2022/05/16/230598/)
 - [⭐️ WPSR](https://lostfocus.de/2022/05/15/230597/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I thought it was a good idea to listen to the Lost Highway soundtrack first…](https://lostfocus.de/2022/05/11/230583/)
 - [⭐️ Who made these circles in the Sahara?](https://lostfocus.de/2022/05/10/230579/)
 - [⭐️ 【UE5】etchū-daimon station - 越中大門駅](https://lostfocus.de/2022/05/10/230578/)
-- [⭐️ Coke Studio | Season 14 | Pasoori | Ali Sethi x Shae Gill](https://lostfocus.de/2022/05/09/230577/)
-- [⭐️ PSY - &#39;이제는 &lpar;Now&rpar;&#39; feat. 화사 &lpar;Hwa Sa&rpar; Performance Video](https://lostfocus.de/2022/05/04/230576/)
 <!-- POST-LIST:END -->
 
 <!--
