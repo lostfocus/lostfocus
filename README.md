@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [In reply to https://jamesg.blog/2022/05/19/owning-my-links/.](https://lostfocus.de/2022/05/19/230603/)
 - [⭐️ A dev&#39;s thoughts on developer productivity](https://lostfocus.de/2022/05/17/230602/)
 - [In reply to https://cdevroe.com/2022/05/17/11399/.](https://lostfocus.de/2022/05/17/230600/)
 - [Likes https://scribe.rip/@fosta/on-design-thinking-8426ecf328b3.](https://lostfocus.de/2022/05/16/230599/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [With the arrival of a little backhoe I can now proudly say that all my…](https://lostfocus.de/2022/05/11/230586/)
 - [I thought it was a good idea to listen to the Lost Highway soundtrack first…](https://lostfocus.de/2022/05/11/230583/)
 - [⭐️ Who made these circles in the Sahara?](https://lostfocus.de/2022/05/10/230579/)
-- [⭐️ 【UE5】etchū-daimon station - 越中大門駅](https://lostfocus.de/2022/05/10/230578/)
 <!-- POST-LIST:END -->
 
 <!--
