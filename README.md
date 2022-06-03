@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [They actually called a pig pokemon Lechonk and if that isn’t an amazing pun, I…](https://lostfocus.de/2022/06/02/230619/)
+- [The selection of late 70s Japanese big band disco pop in all of those streaming…](https://lostfocus.de/2022/06/02/230616/)
 - [⭐️ Selfish And Wrong: This Person Who Just Got Surgery Actually Tried Taking Up A Friend’s…](https://lostfocus.de/2022/06/01/230614/)
 - [⭐️ Flip Coords](https://lostfocus.de/2022/06/01/230612/)
 - [⭐️ 20 Jahre bloggen!](https://lostfocus.de/2022/06/01/230611/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [In reply to https://jamesg.blog/2022/05/19/owning-my-links/.](https://lostfocus.de/2022/05/19/230603/)
 - [⭐️ A dev&#39;s thoughts on developer productivity](https://lostfocus.de/2022/05/17/230602/)
 - [In reply to https://cdevroe.com/2022/05/17/11399/.](https://lostfocus.de/2022/05/17/230600/)
-- [Likes https://scribe.rip/@fosta/on-design-thinking-8426ecf328b3.](https://lostfocus.de/2022/05/16/230599/)
-- [⭐️ Pearls Before Swine by Stephan Pastis for May 16, 2022 | GoComics.com](https://lostfocus.de/2022/05/16/230598/)
 <!-- POST-LIST:END -->
 
 <!--
