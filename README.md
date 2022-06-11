@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I went to bed early yesterday and got up early today. I&#39;ve been ✨ productive…](https://lostfocus.de/2022/06/10/230628/)
 - [The calendar app on my watch is really bad at keeping up with the highly…](https://lostfocus.de/2022/06/09/230624/)
 - [⭐️ Influencer Creep — Real Life](https://lostfocus.de/2022/06/09/230622/)
 - [⭐️ The Road to Burnout is Paved With Context Switching](https://lostfocus.de/2022/06/09/230621/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Flip Coords](https://lostfocus.de/2022/06/01/230612/)
 - [⭐️ 20 Jahre bloggen!](https://lostfocus.de/2022/06/01/230611/)
 - [⭐️ Play Back Part2 / プレイバック パート２ - Momoe Yamaguchi / 山口百恵（English Subtitles / 英語字幕）](https://lostfocus.de/2022/06/01/230610/)
-- [Opened twitter dot com, didn&#39;t see a single tweet by someone I followed. Well done,…](https://lostfocus.de/2022/05/20/230605/)
 <!-- POST-LIST:END -->
 
 <!--
