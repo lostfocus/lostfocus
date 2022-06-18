@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ I Should Be Able to Mute America](https://lostfocus.de/2022/06/17/230638/)
 - [⭐️ Mundane chores are all the rage in gaming](https://lostfocus.de/2022/06/15/230637/)
 - [Just like everybody I switched from Spotify to Apple Music a couple of months back.…](https://lostfocus.de/2022/06/15/230635/)
 - [[gallery size=full columns=1]](https://lostfocus.de/2022/06/12/230632/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ The Road to Burnout is Paved With Context Switching](https://lostfocus.de/2022/06/09/230621/)
 - [They actually called a pig pokemon Lechonk and if that isn’t an amazing pun, I…](https://lostfocus.de/2022/06/02/230619/)
 - [The selection of late 70s Japanese big band disco pop in all of those streaming…](https://lostfocus.de/2022/06/02/230616/)
-- [⭐️ Selfish And Wrong: This Person Who Just Got Surgery Actually Tried Taking Up A Friend’s…](https://lostfocus.de/2022/06/01/230614/)
 <!-- POST-LIST:END -->
 
 <!--
