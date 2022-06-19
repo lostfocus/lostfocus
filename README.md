@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I think what I like most about the Microsoft Flight Simulator are the 30 minutes…](https://lostfocus.de/2022/06/18/230640/)
 - [⭐️ I Should Be Able to Mute America](https://lostfocus.de/2022/06/17/230638/)
 - [⭐️ Mundane chores are all the rage in gaming](https://lostfocus.de/2022/06/15/230637/)
 - [Just like everybody I switched from Spotify to Apple Music a couple of months back.…](https://lostfocus.de/2022/06/15/230635/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Influencer Creep — Real Life](https://lostfocus.de/2022/06/09/230622/)
 - [⭐️ The Road to Burnout is Paved With Context Switching](https://lostfocus.de/2022/06/09/230621/)
 - [They actually called a pig pokemon Lechonk and if that isn’t an amazing pun, I…](https://lostfocus.de/2022/06/02/230619/)
-- [The selection of late 70s Japanese big band disco pop in all of those streaming…](https://lostfocus.de/2022/06/02/230616/)
 <!-- POST-LIST:END -->
 
 <!--
