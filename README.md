@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I’m not sure which one I like the most.](https://lostfocus.de/2022/06/22/im-not-sure-which-one-i-like-the-most/)
 - [⭐️ The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses | Quanta Magazine](https://lostfocus.de/2022/06/20/230645/)
 - [I think what I like most about the Microsoft Flight Simulator are the 30 minutes…](https://lostfocus.de/2022/06/18/230640/)
 - [⭐️ I Should Be Able to Mute America](https://lostfocus.de/2022/06/17/230638/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I went to bed early yesterday and got up early today. I&#39;ve been ✨ productive…](https://lostfocus.de/2022/06/10/230628/)
 - [The calendar app on my watch is really bad at keeping up with the highly…](https://lostfocus.de/2022/06/09/230624/)
 - [⭐️ Influencer Creep — Real Life](https://lostfocus.de/2022/06/09/230622/)
-- [⭐️ The Road to Burnout is Paved With Context Switching](https://lostfocus.de/2022/06/09/230621/)
 <!-- POST-LIST:END -->
 
 <!--
