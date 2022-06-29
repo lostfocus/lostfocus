@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [That new Insta360 thing looks pretty cool but is way too expensive for what I&#39;d…](https://lostfocus.de/2022/06/28/230669/)
+- [There&#39;s a vibratory hammer at the construction site next door and it sounds like any…](https://lostfocus.de/2022/06/28/230665/)
 - [⭐️ Make &#39;Star Wars&#39; Weird Again](https://lostfocus.de/2022/06/23/230659/)
 - [I’m not sure which one I like the most.](https://lostfocus.de/2022/06/22/im-not-sure-which-one-i-like-the-most/)
 - [⭐️ The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses | Quanta Magazine](https://lostfocus.de/2022/06/20/230645/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Mundane chores are all the rage in gaming](https://lostfocus.de/2022/06/15/230637/)
 - [Just like everybody I switched from Spotify to Apple Music a couple of months back.…](https://lostfocus.de/2022/06/15/230635/)
 - [[gallery size=full columns=1]](https://lostfocus.de/2022/06/12/230632/)
-- [I went to bed early yesterday and got up early today. I&#39;ve been ✨ productive…](https://lostfocus.de/2022/06/10/230628/)
-- [The calendar app on my watch is really bad at keeping up with the highly…](https://lostfocus.de/2022/06/09/230624/)
 <!-- POST-LIST:END -->
 
 <!--
