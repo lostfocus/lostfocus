@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Not many things humble you more than having to justify your programming &lpar;and variable naming!&rpar;…](https://lostfocus.de/2022/06/29/230672/)
 - [That new Insta360 thing looks pretty cool but is way too expensive for what I&#39;d…](https://lostfocus.de/2022/06/28/230669/)
 - [There&#39;s a vibratory hammer at the construction site next door and it sounds like any…](https://lostfocus.de/2022/06/28/230665/)
 - [⭐️ Make &#39;Star Wars&#39; Weird Again](https://lostfocus.de/2022/06/23/230659/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ I Should Be Able to Mute America](https://lostfocus.de/2022/06/17/230638/)
 - [⭐️ Mundane chores are all the rage in gaming](https://lostfocus.de/2022/06/15/230637/)
 - [Just like everybody I switched from Spotify to Apple Music a couple of months back.…](https://lostfocus.de/2022/06/15/230635/)
-- [[gallery size=full columns=1]](https://lostfocus.de/2022/06/12/230632/)
 <!-- POST-LIST:END -->
 
 <!--
