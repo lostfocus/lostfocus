@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ The truth about internet trolls](https://lostfocus.de/2022/07/01/230675/)
+- [⭐️ Why Is It Impossible To Make Another Good Jurassic Movie?](https://lostfocus.de/2022/07/01/230674/)
 - [Not many things humble you more than having to justify your programming &lpar;and variable naming!&rpar;…](https://lostfocus.de/2022/06/29/230672/)
 - [That new Insta360 thing looks pretty cool but is way too expensive for what I&#39;d…](https://lostfocus.de/2022/06/28/230669/)
 - [There&#39;s a vibratory hammer at the construction site next door and it sounds like any…](https://lostfocus.de/2022/06/28/230665/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses | Quanta Magazine](https://lostfocus.de/2022/06/20/230645/)
 - [I think what I like most about the Microsoft Flight Simulator are the 30 minutes…](https://lostfocus.de/2022/06/18/230640/)
 - [⭐️ I Should Be Able to Mute America](https://lostfocus.de/2022/06/17/230638/)
-- [⭐️ Mundane chores are all the rage in gaming](https://lostfocus.de/2022/06/15/230637/)
-- [Just like everybody I switched from Spotify to Apple Music a couple of months back.…](https://lostfocus.de/2022/06/15/230635/)
 <!-- POST-LIST:END -->
 
 <!--
