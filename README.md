@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [It’s pretty astonishing how long I stared at the cold pasta water until I realized…](https://lostfocus.de/2022/07/06/230680/)
+- [⭐️ Did the early medieval era ever really take place?](https://lostfocus.de/2022/07/06/230678/)
+- [⭐️ GTA V GeoGuesser](https://lostfocus.de/2022/07/06/230677/)
 - [⭐️ The truth about internet trolls](https://lostfocus.de/2022/07/01/230675/)
 - [⭐️ Why Is It Impossible To Make Another Good Jurassic Movie?](https://lostfocus.de/2022/07/01/230674/)
 - [Not many things humble you more than having to justify your programming &lpar;and variable naming!&rpar;…](https://lostfocus.de/2022/06/29/230672/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [There&#39;s a vibratory hammer at the construction site next door and it sounds like any…](https://lostfocus.de/2022/06/28/230665/)
 - [⭐️ Make &#39;Star Wars&#39; Weird Again](https://lostfocus.de/2022/06/23/230659/)
 - [I’m not sure which one I like the most.](https://lostfocus.de/2022/06/22/im-not-sure-which-one-i-like-the-most/)
-- [⭐️ The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses | Quanta Magazine](https://lostfocus.de/2022/06/20/230645/)
-- [I think what I like most about the Microsoft Flight Simulator are the 30 minutes…](https://lostfocus.de/2022/06/18/230640/)
-- [⭐️ I Should Be Able to Mute America](https://lostfocus.de/2022/06/17/230638/)
 <!-- POST-LIST:END -->
 
 <!--
