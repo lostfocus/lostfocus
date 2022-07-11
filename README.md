@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Pet Shop Boys - It&#39;s A Sin &lpar;Glastonbury 2022&rpar;](https://lostfocus.de/2022/07/10/230683/)
 - [It’s pretty astonishing how long I stared at the cold pasta water until I realized…](https://lostfocus.de/2022/07/06/230680/)
 - [⭐️ Did the early medieval era ever really take place?](https://lostfocus.de/2022/07/06/230678/)
 - [⭐️ GTA V GeoGuesser](https://lostfocus.de/2022/07/06/230677/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [That new Insta360 thing looks pretty cool but is way too expensive for what I&#39;d…](https://lostfocus.de/2022/06/28/230669/)
 - [There&#39;s a vibratory hammer at the construction site next door and it sounds like any…](https://lostfocus.de/2022/06/28/230665/)
 - [⭐️ Make &#39;Star Wars&#39; Weird Again](https://lostfocus.de/2022/06/23/230659/)
-- [I’m not sure which one I like the most.](https://lostfocus.de/2022/06/22/im-not-sure-which-one-i-like-the-most/)
 <!-- POST-LIST:END -->
 
 <!--
