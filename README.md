@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Oh.](https://lostfocus.de/2022/07/14/230691/)
 - [⭐️ How Primitive Building Videos Are Staged](https://lostfocus.de/2022/07/12/230688/)
 - [⭐️ Stealth Camping In Roundabout](https://lostfocus.de/2022/07/12/230687/)
 - [For quite some time in the late 90s I didn&#39;t realize that Laura Lemay and…](https://lostfocus.de/2022/07/12/230685/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ GTA V GeoGuesser](https://lostfocus.de/2022/07/06/230677/)
 - [⭐️ The truth about internet trolls](https://lostfocus.de/2022/07/01/230675/)
 - [⭐️ Why Is It Impossible To Make Another Good Jurassic Movie?](https://lostfocus.de/2022/07/01/230674/)
-- [Not many things humble you more than having to justify your programming &lpar;and variable naming!&rpar;…](https://lostfocus.de/2022/06/29/230672/)
 <!-- POST-LIST:END -->
 
 <!--
