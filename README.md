@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Jurassic Park — LAUREN POLIZZI](https://lostfocus.de/2022/07/17/230698/)
 - [The little device pit in my Logitech keyboard is just a tiny little bit too…](https://lostfocus.de/2022/07/15/230695/)
 - [⭐️ Lou Montulli and the invention of cookie | Hidden Heroes](https://lostfocus.de/2022/07/15/230693/)
 - [Oh.](https://lostfocus.de/2022/07/14/230691/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Pet Shop Boys - It&#39;s A Sin &lpar;Glastonbury 2022&rpar;](https://lostfocus.de/2022/07/10/230683/)
 - [It’s pretty astonishing how long I stared at the cold pasta water until I realized…](https://lostfocus.de/2022/07/06/230680/)
 - [⭐️ Did the early medieval era ever really take place?](https://lostfocus.de/2022/07/06/230678/)
-- [⭐️ GTA V GeoGuesser](https://lostfocus.de/2022/07/06/230677/)
 <!-- POST-LIST:END -->
 
 <!--
