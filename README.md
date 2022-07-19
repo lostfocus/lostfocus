@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Note to self: if the only non-alcoholic drink in your fridge is cold brew coffee,…](https://lostfocus.de/2022/07/18/230702/)
+- [Why long-term plans don’t work and how to fix them](https://lostfocus.de/2022/07/18/why-long-term-plans-dont-work-and-how-to-fix-them/)
+- [⭐️ Haircut Practice by Adam Koford for July 18, 2022 | GoComics.com](https://lostfocus.de/2022/07/18/230699/)
 - [⭐️ Jurassic Park — LAUREN POLIZZI](https://lostfocus.de/2022/07/17/230698/)
 - [The little device pit in my Logitech keyboard is just a tiny little bit too…](https://lostfocus.de/2022/07/15/230695/)
 - [⭐️ Lou Montulli and the invention of cookie | Hidden Heroes](https://lostfocus.de/2022/07/15/230693/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ How Primitive Building Videos Are Staged](https://lostfocus.de/2022/07/12/230688/)
 - [⭐️ Stealth Camping In Roundabout](https://lostfocus.de/2022/07/12/230687/)
 - [For quite some time in the late 90s I didn&#39;t realize that Laura Lemay and…](https://lostfocus.de/2022/07/12/230685/)
-- [⭐️ Pet Shop Boys - It&#39;s A Sin &lpar;Glastonbury 2022&rpar;](https://lostfocus.de/2022/07/10/230683/)
-- [It’s pretty astonishing how long I stared at the cold pasta water until I realized…](https://lostfocus.de/2022/07/06/230680/)
-- [⭐️ Did the early medieval era ever really take place?](https://lostfocus.de/2022/07/06/230678/)
 <!-- POST-LIST:END -->
 
 <!--
