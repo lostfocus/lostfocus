@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [It’s just after 3am, I can’t sleep and that’s a bit annoying.](https://lostfocus.de/2022/07/19/230707/)
+- [I logged into Tumblr after a long time. Gone are all the boner pill ads,…](https://lostfocus.de/2022/07/18/230705/)
 - [Note to self: if the only non-alcoholic drink in your fridge is cold brew coffee,…](https://lostfocus.de/2022/07/18/230702/)
 - [Why long-term plans don’t work and how to fix them](https://lostfocus.de/2022/07/18/why-long-term-plans-dont-work-and-how-to-fix-them/)
 - [⭐️ Haircut Practice by Adam Koford for July 18, 2022 | GoComics.com](https://lostfocus.de/2022/07/18/230699/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Lou Montulli and the invention of cookie | Hidden Heroes](https://lostfocus.de/2022/07/15/230693/)
 - [Oh.](https://lostfocus.de/2022/07/14/230691/)
 - [⭐️ How Primitive Building Videos Are Staged](https://lostfocus.de/2022/07/12/230688/)
-- [⭐️ Stealth Camping In Roundabout](https://lostfocus.de/2022/07/12/230687/)
-- [For quite some time in the late 90s I didn&#39;t realize that Laura Lemay and…](https://lostfocus.de/2022/07/12/230685/)
 <!-- POST-LIST:END -->
 
 <!--
