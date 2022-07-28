@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Music Video VFX Magic With ATARASHII GAKKO!](https://lostfocus.de/2022/07/27/230719/)
+- [⭐️ HTML Emails: A Rant](https://lostfocus.de/2022/07/27/230717/)
 - [⭐️ Yngve&#39;s corner | So, you want to maintain a Chromium fork?](https://lostfocus.de/2022/07/26/230714/)
 - [Aaaaaaaaaaaaaaaaaaaah](https://lostfocus.de/2022/07/26/230711/)
 - [It’s just after 3am, I can’t sleep and that’s a bit annoying.](https://lostfocus.de/2022/07/19/230707/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Why long-term plans don’t work and how to fix them](https://lostfocus.de/2022/07/18/why-long-term-plans-dont-work-and-how-to-fix-them/)
 - [⭐️ Haircut Practice by Adam Koford for July 18, 2022 | GoComics.com](https://lostfocus.de/2022/07/18/230699/)
 - [⭐️ Jurassic Park — LAUREN POLIZZI](https://lostfocus.de/2022/07/17/230698/)
-- [The little device pit in my Logitech keyboard is just a tiny little bit too…](https://lostfocus.de/2022/07/15/230695/)
-- [⭐️ Lou Montulli and the invention of cookie | Hidden Heroes](https://lostfocus.de/2022/07/15/230693/)
 <!-- POST-LIST:END -->
 
 <!--
