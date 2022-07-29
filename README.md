@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Hm.](https://lostfocus.de/2022/07/28/230721/)
 - [⭐️ Music Video VFX Magic With ATARASHII GAKKO!](https://lostfocus.de/2022/07/27/230719/)
 - [⭐️ HTML Emails: A Rant](https://lostfocus.de/2022/07/27/230717/)
 - [⭐️ Yngve&#39;s corner | So, you want to maintain a Chromium fork?](https://lostfocus.de/2022/07/26/230714/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Note to self: if the only non-alcoholic drink in your fridge is cold brew coffee,…](https://lostfocus.de/2022/07/18/230702/)
 - [Why long-term plans don’t work and how to fix them](https://lostfocus.de/2022/07/18/why-long-term-plans-dont-work-and-how-to-fix-them/)
 - [⭐️ Haircut Practice by Adam Koford for July 18, 2022 | GoComics.com](https://lostfocus.de/2022/07/18/230699/)
-- [⭐️ Jurassic Park — LAUREN POLIZZI](https://lostfocus.de/2022/07/17/230698/)
 <!-- POST-LIST:END -->
 
 <!--
