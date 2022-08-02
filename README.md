@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ What’s the Deal With Water Bottles?](https://lostfocus.de/2022/08/01/230728/)
+- [⭐️ Rina Sawayama - Full Performance &lpar;Live on KEXP&rpar;](https://lostfocus.de/2022/08/01/230727/)
+- [You post this on main? For free?](https://lostfocus.de/2022/08/01/230725/)
 - [Hm.](https://lostfocus.de/2022/07/28/230721/)
 - [⭐️ Music Video VFX Magic With ATARASHII GAKKO!](https://lostfocus.de/2022/07/27/230719/)
 - [⭐️ HTML Emails: A Rant](https://lostfocus.de/2022/07/27/230717/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Aaaaaaaaaaaaaaaaaaaah](https://lostfocus.de/2022/07/26/230711/)
 - [It’s just after 3am, I can’t sleep and that’s a bit annoying.](https://lostfocus.de/2022/07/19/230707/)
 - [I logged into Tumblr after a long time. Gone are all the boner pill ads,…](https://lostfocus.de/2022/07/18/230705/)
-- [Note to self: if the only non-alcoholic drink in your fridge is cold brew coffee,…](https://lostfocus.de/2022/07/18/230702/)
-- [Why long-term plans don’t work and how to fix them](https://lostfocus.de/2022/07/18/why-long-term-plans-dont-work-and-how-to-fix-them/)
-- [⭐️ Haircut Practice by Adam Koford for July 18, 2022 | GoComics.com](https://lostfocus.de/2022/07/18/230699/)
 <!-- POST-LIST:END -->
 
 <!--
