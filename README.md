@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I&#39;m slightly miffed that the great bubble emoji 🫧 is not in Slack, yet.](https://lostfocus.de/2022/08/03/230739/)
+- [As soon as I see a &quot;code cleanup&quot; or &quot;refactoring&quot; commit message I can feel…](https://lostfocus.de/2022/08/03/230736/)
+- [⭐️ how fahrenheit fails you](https://lostfocus.de/2022/08/03/230734/)
 - [⭐️ Twenty Years of Blogging &lpar;More or Less&rpar; · roytang.net](https://lostfocus.de/2022/08/02/230733/)
 - [⭐️ This is what you&#39;re nostalgic for - The History of the Web](https://lostfocus.de/2022/08/02/230732/)
 - [Why do I even set the Slack status when people just randomly call me anyway?…](https://lostfocus.de/2022/08/02/230730/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Rina Sawayama - Full Performance &lpar;Live on KEXP&rpar;](https://lostfocus.de/2022/08/01/230727/)
 - [You post this on main? For free?](https://lostfocus.de/2022/08/01/230725/)
 - [Hm.](https://lostfocus.de/2022/07/28/230721/)
-- [⭐️ Music Video VFX Magic With ATARASHII GAKKO!](https://lostfocus.de/2022/07/27/230719/)
-- [⭐️ HTML Emails: A Rant](https://lostfocus.de/2022/07/27/230717/)
-- [⭐️ Yngve&#39;s corner | So, you want to maintain a Chromium fork?](https://lostfocus.de/2022/07/26/230714/)
 <!-- POST-LIST:END -->
 
 <!--
