@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Old jokes](https://lostfocus.de/2022/08/04/230742/)
 - [I&#39;m slightly miffed that the great bubble emoji 🫧 is not in Slack, yet.](https://lostfocus.de/2022/08/03/230739/)
 - [As soon as I see a &quot;code cleanup&quot; or &quot;refactoring&quot; commit message I can feel…](https://lostfocus.de/2022/08/03/230736/)
 - [⭐️ how fahrenheit fails you](https://lostfocus.de/2022/08/03/230734/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ What’s the Deal With Water Bottles?](https://lostfocus.de/2022/08/01/230728/)
 - [⭐️ Rina Sawayama - Full Performance &lpar;Live on KEXP&rpar;](https://lostfocus.de/2022/08/01/230727/)
 - [You post this on main? For free?](https://lostfocus.de/2022/08/01/230725/)
-- [Hm.](https://lostfocus.de/2022/07/28/230721/)
 <!-- POST-LIST:END -->
 
 <!--
