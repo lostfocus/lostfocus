@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ on leading a purposeless life](https://lostfocus.de/2022/08/16/230755/)
+- [Every evening I make my dinner spicy. Every morning I deeply regret it. One would…](https://lostfocus.de/2022/08/16/230751/)
 - [⭐️ Foundations · Matthias Ott – User Experience Designer](https://lostfocus.de/2022/08/10/230747/)
 - [All week long I listen to bad music and every Monday I&#39;m surprised to see…](https://lostfocus.de/2022/08/08/230745/)
 - [⭐️ Old jokes](https://lostfocus.de/2022/08/04/230742/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ how fahrenheit fails you](https://lostfocus.de/2022/08/03/230734/)
 - [⭐️ Twenty Years of Blogging &lpar;More or Less&rpar; · roytang.net](https://lostfocus.de/2022/08/02/230733/)
 - [⭐️ This is what you&#39;re nostalgic for - The History of the Web](https://lostfocus.de/2022/08/02/230732/)
-- [Why do I even set the Slack status when people just randomly call me anyway?…](https://lostfocus.de/2022/08/02/230730/)
-- [⭐️ What’s the Deal With Water Bottles?](https://lostfocus.de/2022/08/01/230728/)
 <!-- POST-LIST:END -->
 
 <!--
