@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Thanks, Spotify.](https://lostfocus.de/2022/08/18/230764/)
+- [On second thought, let&#39;s not go there. &#39;tis a silly place.](https://lostfocus.de/2022/08/17/230760/)
 - [It&#39;s a bit of a bummer that I&#39;m more often in repos than in repose.](https://lostfocus.de/2022/08/17/230757/)
 - [⭐️ on leading a purposeless life](https://lostfocus.de/2022/08/16/230755/)
 - [Every evening I make my dinner spicy. Every morning I deeply regret it. One would…](https://lostfocus.de/2022/08/16/230751/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Old jokes](https://lostfocus.de/2022/08/04/230742/)
 - [I&#39;m slightly miffed that the great bubble emoji 🫧 is not in Slack, yet.](https://lostfocus.de/2022/08/03/230739/)
 - [As soon as I see a &quot;code cleanup&quot; or &quot;refactoring&quot; commit message I can feel…](https://lostfocus.de/2022/08/03/230736/)
-- [⭐️ how fahrenheit fails you](https://lostfocus.de/2022/08/03/230734/)
-- [⭐️ Twenty Years of Blogging &lpar;More or Less&rpar; · roytang.net](https://lostfocus.de/2022/08/02/230733/)
 <!-- POST-LIST:END -->
 
 <!--
