@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Work ethics](https://lostfocus.de/2022/08/24/230774/)
 - [⭐️ What When Bad, An Unhelpful James Hoffmann Summary](https://lostfocus.de/2022/08/23/230773/)
 - [Thanks, Spotify.](https://lostfocus.de/2022/08/18/230764/)
 - [On second thought, let&#39;s not go there. &#39;tis a silly place.](https://lostfocus.de/2022/08/17/230760/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Foundations · Matthias Ott – User Experience Designer](https://lostfocus.de/2022/08/10/230747/)
 - [All week long I listen to bad music and every Monday I&#39;m surprised to see…](https://lostfocus.de/2022/08/08/230745/)
 - [⭐️ Old jokes](https://lostfocus.de/2022/08/04/230742/)
-- [I&#39;m slightly miffed that the great bubble emoji 🫧 is not in Slack, yet.](https://lostfocus.de/2022/08/03/230739/)
 <!-- POST-LIST:END -->
 
 <!--
