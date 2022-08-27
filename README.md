@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I saw Matt Berry trending and obviously my first reaction was &quot;Oh no.&quot; - but…](https://lostfocus.de/2022/08/26/230778/)
 - [If I could just take a nap for a month or two, that would be…](https://lostfocus.de/2022/08/25/230775/)
 - [⭐️ Work ethics](https://lostfocus.de/2022/08/24/230774/)
 - [⭐️ What When Bad, An Unhelpful James Hoffmann Summary](https://lostfocus.de/2022/08/23/230773/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ on leading a purposeless life](https://lostfocus.de/2022/08/16/230755/)
 - [Every evening I make my dinner spicy. Every morning I deeply regret it. One would…](https://lostfocus.de/2022/08/16/230751/)
 - [⭐️ Foundations · Matthias Ott – User Experience Designer](https://lostfocus.de/2022/08/10/230747/)
-- [All week long I listen to bad music and every Monday I&#39;m surprised to see…](https://lostfocus.de/2022/08/08/230745/)
 <!-- POST-LIST:END -->
 
 <!--
