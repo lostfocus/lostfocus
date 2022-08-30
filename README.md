@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Socialite, Widow, Jeweller, Spy: How a GRU Agent Charmed Her Way Into NATO Circles in…](https://lostfocus.de/2022/08/29/230782/)
+- [⭐️ After 3 Decades Notepad Can’t Still Be The Answer, Can It? – Interdependent Thoughts](https://lostfocus.de/2022/08/29/230781/)
 - [I saw Matt Berry trending and obviously my first reaction was &quot;Oh no.&quot; - but…](https://lostfocus.de/2022/08/26/230778/)
 - [If I could just take a nap for a month or two, that would be…](https://lostfocus.de/2022/08/25/230775/)
 - [⭐️ Work ethics](https://lostfocus.de/2022/08/24/230774/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [On second thought, let&#39;s not go there. &#39;tis a silly place.](https://lostfocus.de/2022/08/17/230760/)
 - [It&#39;s a bit of a bummer that I&#39;m more often in repos than in repose.](https://lostfocus.de/2022/08/17/230757/)
 - [⭐️ on leading a purposeless life](https://lostfocus.de/2022/08/16/230755/)
-- [Every evening I make my dinner spicy. Every morning I deeply regret it. One would…](https://lostfocus.de/2022/08/16/230751/)
-- [⭐️ Foundations · Matthias Ott – User Experience Designer](https://lostfocus.de/2022/08/10/230747/)
 <!-- POST-LIST:END -->
 
 <!--
