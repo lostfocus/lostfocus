@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [&quot;Verify your identity to escalate.&quot;](https://lostfocus.de/2022/09/01/230786/)
 - [⭐️ Things not available when someone blocks all cookies](https://lostfocus.de/2022/08/31/230785/)
 - [⭐️ Socialite, Widow, Jeweller, Spy: How a GRU Agent Charmed Her Way Into NATO Circles in…](https://lostfocus.de/2022/08/29/230782/)
 - [⭐️ After 3 Decades Notepad Can’t Still Be The Answer, Can It? – Interdependent Thoughts](https://lostfocus.de/2022/08/29/230781/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ What When Bad, An Unhelpful James Hoffmann Summary](https://lostfocus.de/2022/08/23/230773/)
 - [Thanks, Spotify.](https://lostfocus.de/2022/08/18/230764/)
 - [On second thought, let&#39;s not go there. &#39;tis a silly place.](https://lostfocus.de/2022/08/17/230760/)
-- [It&#39;s a bit of a bummer that I&#39;m more often in repos than in repose.](https://lostfocus.de/2022/08/17/230757/)
 <!-- POST-LIST:END -->
 
 <!--
