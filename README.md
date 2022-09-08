@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [This is also true for infrastructure configuration.](https://lostfocus.de/2022/09/07/230796/)
 - [Probably the best idea I&#39;ve seen in a long time. [via]](https://lostfocus.de/2022/09/03/230788/)
 - [&quot;Verify your identity to escalate.&quot;](https://lostfocus.de/2022/09/01/230786/)
 - [⭐️ Things not available when someone blocks all cookies](https://lostfocus.de/2022/08/31/230785/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [If I could just take a nap for a month or two, that would be…](https://lostfocus.de/2022/08/25/230775/)
 - [⭐️ Work ethics](https://lostfocus.de/2022/08/24/230774/)
 - [⭐️ What When Bad, An Unhelpful James Hoffmann Summary](https://lostfocus.de/2022/08/23/230773/)
-- [Thanks, Spotify.](https://lostfocus.de/2022/08/18/230764/)
 <!-- POST-LIST:END -->
 
 <!--
