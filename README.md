@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Introducing Meridian](https://lostfocus.de/2022/09/26/introducing-meridian/)
+- [A mysterious voice is haunting American Airlines’ in-flight announcements and nobody knows how](https://lostfocus.de/2022/09/26/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
 - [The droid in the new Star Wars series is called B2EMO.](https://lostfocus.de/2022/09/24/230845/)
 - [How platforms turn boring](https://lostfocus.de/2022/09/22/how-platforms-turn-boring/)
 - [Will Serving Real HTML Content Make A Website Faster? Let’s Experiment!](https://lostfocus.de/2022/09/22/will-serving-real-html-content-make-a-website-faster-lets-experiment/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Slack Reconsiders the ‘Green Dot’ Status Update](https://lostfocus.de/2022/09/19/slack-reconsiders-the-green-dot-status-update/)
 - [20 Mechanical Principles combined in a Useless Lego Machine](https://lostfocus.de/2022/09/19/20-mechanical-principles-combined-in-a-useless-lego-machine/)
 - [The 10-Year-Old Tweet That Still Defines the Internet](https://lostfocus.de/2022/09/19/the-10-year-old-tweet-that-still-defines-the-internet/)
-- [I don&#39;t even commit every 10 minutes.](https://lostfocus.de/2022/09/16/230826/)
-- [I actually quite like the new The Verge redesign.](https://lostfocus.de/2022/09/13/230823/)
 <!-- POST-LIST:END -->
 
 <!--
