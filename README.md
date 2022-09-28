@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I guess I&#39;ll stop complaining then.](https://lostfocus.de/2022/09/27/230858/)
+- [It’s too cold to just walk somewhere and sit on a bench.](https://lostfocus.de/2022/09/27/230855/)
 - [Introducing Meridian](https://lostfocus.de/2022/09/26/introducing-meridian/)
 - [A mysterious voice is haunting American Airlines’ in-flight announcements and nobody knows how](https://lostfocus.de/2022/09/26/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
 - [The droid in the new Star Wars series is called B2EMO.](https://lostfocus.de/2022/09/24/230845/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Museums on prescription: Brussels tests cultural visits to treat anxiety](https://lostfocus.de/2022/09/22/museums-on-prescription-brussels-tests-cultural-visits-to-treat-anxiety/)
 - [Oh god no why](https://lostfocus.de/2022/09/22/230837/)
 - [Slack Reconsiders the ‘Green Dot’ Status Update](https://lostfocus.de/2022/09/19/slack-reconsiders-the-green-dot-status-update/)
-- [20 Mechanical Principles combined in a Useless Lego Machine](https://lostfocus.de/2022/09/19/20-mechanical-principles-combined-in-a-useless-lego-machine/)
-- [The 10-Year-Old Tweet That Still Defines the Internet](https://lostfocus.de/2022/09/19/the-10-year-old-tweet-that-still-defines-the-internet/)
 <!-- POST-LIST:END -->
 
 <!--
