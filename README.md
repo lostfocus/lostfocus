@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Maker](https://lostfocus.de/2022/09/28/the-maker/)
 - [I guess I&#39;ll stop complaining then.](https://lostfocus.de/2022/09/27/230858/)
 - [It’s too cold to just walk somewhere and sit on a bench.](https://lostfocus.de/2022/09/27/230855/)
 - [Introducing Meridian](https://lostfocus.de/2022/09/26/introducing-meridian/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Will Serving Real HTML Content Make A Website Faster? Let’s Experiment!](https://lostfocus.de/2022/09/22/will-serving-real-html-content-make-a-website-faster-lets-experiment/)
 - [Museums on prescription: Brussels tests cultural visits to treat anxiety](https://lostfocus.de/2022/09/22/museums-on-prescription-brussels-tests-cultural-visits-to-treat-anxiety/)
 - [Oh god no why](https://lostfocus.de/2022/09/22/230837/)
-- [Slack Reconsiders the ‘Green Dot’ Status Update](https://lostfocus.de/2022/09/19/slack-reconsiders-the-green-dot-status-update/)
 <!-- POST-LIST:END -->
 
 <!--
