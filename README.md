@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ RHAPSODY - Dawn Of Victory &lpar;ACOUSTIC COVER feat. @Michalina Malisz &rpar;](https://lostfocus.de/2022/10/01/230867/)
 - [You learn something new every day. I always thought the word was “Gendamerie”](https://lostfocus.de/2022/09/29/230864/)
 - [The Maker](https://lostfocus.de/2022/09/28/the-maker/)
 - [I guess I&#39;ll stop complaining then.](https://lostfocus.de/2022/09/27/230858/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The droid in the new Star Wars series is called B2EMO.](https://lostfocus.de/2022/09/24/230845/)
 - [How platforms turn boring](https://lostfocus.de/2022/09/22/how-platforms-turn-boring/)
 - [Will Serving Real HTML Content Make A Website Faster? Let’s Experiment!](https://lostfocus.de/2022/09/22/will-serving-real-html-content-make-a-website-faster-lets-experiment/)
-- [Museums on prescription: Brussels tests cultural visits to treat anxiety](https://lostfocus.de/2022/09/22/museums-on-prescription-brussels-tests-cultural-visits-to-treat-anxiety/)
 <!-- POST-LIST:END -->
 
 <!--
