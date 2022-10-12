@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The irony of trying to get an appointment for a first assessment on World Mental…](https://lostfocus.de/2022/10/11/230873/)
 - [⭐️ Is the AI spell-casting metaphor harmful or helpful?](https://lostfocus.de/2022/10/07/230871/)
 - [Ugh.](https://lostfocus.de/2022/10/04/230869/)
 - [⭐️ RHAPSODY - Dawn Of Victory &lpar;ACOUSTIC COVER feat. @Michalina Malisz &rpar;](https://lostfocus.de/2022/10/01/230867/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [It’s too cold to just walk somewhere and sit on a bench.](https://lostfocus.de/2022/09/27/230855/)
 - [Introducing Meridian](https://lostfocus.de/2022/09/26/introducing-meridian/)
 - [A mysterious voice is haunting American Airlines’ in-flight announcements and nobody knows how](https://lostfocus.de/2022/09/26/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
-- [The droid in the new Star Wars series is called B2EMO.](https://lostfocus.de/2022/09/24/230845/)
 <!-- POST-LIST:END -->
 
 <!--
