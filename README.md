@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Authentizität ist tot. Was suchen wir stattdessen?](https://lostfocus.de/2022/10/21/authentizitat-ist-tot-was-suchen-wir-stattdessen/)
 - [I don&#39;t particularly follow the news from small break-away monarchies but it is a bit…](https://lostfocus.de/2022/10/20/230881/)
 - [It&#39;s very good for my mental well-being to see this pop-up without any contact to…](https://lostfocus.de/2022/10/20/230877/)
 - [The irony of trying to get an appointment for a first assessment on World Mental…](https://lostfocus.de/2022/10/11/230873/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [You learn something new every day. I always thought the word was “Gendamerie”](https://lostfocus.de/2022/09/29/230864/)
 - [The Maker](https://lostfocus.de/2022/09/28/the-maker/)
 - [I guess I&#39;ll stop complaining then.](https://lostfocus.de/2022/09/27/230858/)
-- [It’s too cold to just walk somewhere and sit on a bench.](https://lostfocus.de/2022/09/27/230855/)
 <!-- POST-LIST:END -->
 
 <!--
