@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Not gonna lie: the darkness in the mornings is annoying me more and more with…](https://lostfocus.de/2022/10/24/230888/)
 - [Authentizität ist tot. Was suchen wir stattdessen?](https://lostfocus.de/2022/10/21/authentizitat-ist-tot-was-suchen-wir-stattdessen/)
 - [I don&#39;t particularly follow the news from small break-away monarchies but it is a bit…](https://lostfocus.de/2022/10/20/230881/)
 - [It&#39;s very good for my mental well-being to see this pop-up without any contact to…](https://lostfocus.de/2022/10/20/230877/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ RHAPSODY - Dawn Of Victory &lpar;ACOUSTIC COVER feat. @Michalina Malisz &rpar;](https://lostfocus.de/2022/10/01/230867/)
 - [You learn something new every day. I always thought the word was “Gendamerie”](https://lostfocus.de/2022/09/29/230864/)
 - [The Maker](https://lostfocus.de/2022/09/28/the-maker/)
-- [I guess I&#39;ll stop complaining then.](https://lostfocus.de/2022/09/27/230858/)
 <!-- POST-LIST:END -->
 
 <!--
