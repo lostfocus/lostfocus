@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Apropos of nothing, here we go: @dominik@mastodon.xyz and my blog &lpar;at some point everything should…](https://lostfocus.de/2022/10/29/230897/)
 - [Welcome to hell, Elon – The Verge](https://lostfocus.de/2022/10/28/welcome-to-hell-elon-the-verge/)
 - [No.](https://lostfocus.de/2022/10/24/230892/)
 - [Not gonna lie: the darkness in the mornings is annoying me more and more with…](https://lostfocus.de/2022/10/24/230888/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The irony of trying to get an appointment for a first assessment on World Mental…](https://lostfocus.de/2022/10/11/230873/)
 - [⭐️ Is the AI spell-casting metaphor harmful or helpful?](https://lostfocus.de/2022/10/07/230871/)
 - [Ugh.](https://lostfocus.de/2022/10/04/230869/)
-- [⭐️ RHAPSODY - Dawn Of Victory &lpar;ACOUSTIC COVER feat. @Michalina Malisz &rpar;](https://lostfocus.de/2022/10/01/230867/)
 <!-- POST-LIST:END -->
 
 <!--
