@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ I Helped Pioneer Weird Twitter. I Have a Plan for Elon Musk.](https://lostfocus.de/2022/11/05/230906/)
+- [Well, fuck](https://lostfocus.de/2022/11/05/well-fuck/)
 - [Ugh.](https://lostfocus.de/2022/11/04/230900/)
 - [Apropos of nothing, here we go: @dominik@mastodon.xyz and my blog &lpar;at some point everything should…](https://lostfocus.de/2022/10/29/230897/)
 - [Welcome to hell, Elon – The Verge](https://lostfocus.de/2022/10/28/welcome-to-hell-elon-the-verge/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Authentizität ist tot. Was suchen wir stattdessen?](https://lostfocus.de/2022/10/21/authentizitat-ist-tot-was-suchen-wir-stattdessen/)
 - [I don&#39;t particularly follow the news from small break-away monarchies but it is a bit…](https://lostfocus.de/2022/10/20/230881/)
 - [It&#39;s very good for my mental well-being to see this pop-up without any contact to…](https://lostfocus.de/2022/10/20/230877/)
-- [The irony of trying to get an appointment for a first assessment on World Mental…](https://lostfocus.de/2022/10/11/230873/)
-- [⭐️ Is the AI spell-casting metaphor harmful or helpful?](https://lostfocus.de/2022/10/07/230871/)
 <!-- POST-LIST:END -->
 
 <!--
