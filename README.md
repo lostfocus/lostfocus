@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ Is web3 bullshit? &lpar;Transcript&rpar;](https://lostfocus.de/2022/11/08/230918/)
+- [⭐️ Mastodon is just blogs](https://lostfocus.de/2022/11/08/230917/)
+- [⭐️ Cheers is Hell](https://lostfocus.de/2022/11/08/230916/)
+- [⭐️ Elon’s “weird nerds” are in search of a rebuttal. - The Verge](https://lostfocus.de/2022/11/08/230915/)
 - [⭐️ live.hackr : Das Einhorn](https://lostfocus.de/2022/11/07/230910/)
 - [⭐️ I Helped Pioneer Weird Twitter. I Have a Plan for Elon Musk.](https://lostfocus.de/2022/11/05/230906/)
 - [Well, fuck](https://lostfocus.de/2022/11/05/well-fuck/)
 - [Ugh.](https://lostfocus.de/2022/11/04/230900/)
 - [Apropos of nothing, here we go: @dominik@mastodon.xyz and my blog &lpar;at some point everything should…](https://lostfocus.de/2022/10/29/230897/)
 - [Welcome to hell, Elon – The Verge](https://lostfocus.de/2022/10/28/welcome-to-hell-elon-the-verge/)
-- [No.](https://lostfocus.de/2022/10/24/230892/)
-- [Not gonna lie: the darkness in the mornings is annoying me more and more with…](https://lostfocus.de/2022/10/24/230888/)
-- [Authentizität ist tot. Was suchen wir stattdessen?](https://lostfocus.de/2022/10/21/authentizitat-ist-tot-was-suchen-wir-stattdessen/)
-- [I don&#39;t particularly follow the news from small break-away monarchies but it is a bit…](https://lostfocus.de/2022/10/20/230881/)
 <!-- POST-LIST:END -->
 
 <!--
