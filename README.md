@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Nobody can say I&#39;m not using Mastodon&#39;s content warning field in a very responsible manner.](https://lostfocus.de/2022/11/09/230922/)
+- [⭐️ Home invasion - Mastodon&#39;s Eternal September begins](https://lostfocus.de/2022/11/09/230919/)
 - [⭐️ Is web3 bullshit? &lpar;Transcript&rpar;](https://lostfocus.de/2022/11/08/230918/)
 - [⭐️ Mastodon is just blogs](https://lostfocus.de/2022/11/08/230917/)
 - [⭐️ Cheers is Hell](https://lostfocus.de/2022/11/08/230916/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ I Helped Pioneer Weird Twitter. I Have a Plan for Elon Musk.](https://lostfocus.de/2022/11/05/230906/)
 - [Well, fuck](https://lostfocus.de/2022/11/05/well-fuck/)
 - [Ugh.](https://lostfocus.de/2022/11/04/230900/)
-- [Apropos of nothing, here we go: @dominik@mastodon.xyz and my blog &lpar;at some point everything should…](https://lostfocus.de/2022/10/29/230897/)
-- [Welcome to hell, Elon – The Verge](https://lostfocus.de/2022/10/28/welcome-to-hell-elon-the-verge/)
 <!-- POST-LIST:END -->
 
 <!--
