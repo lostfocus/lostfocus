@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Well.](https://lostfocus.de/2022/11/15/230932/)
 - [⭐️ Australien - Heimat der Wellensittiche | Tiere vor der Kamera &lpar;1983&rpar; | Folge 12/49](https://lostfocus.de/2022/11/11/230927/)
 - [⭐️ s13e20: What It Is Like To Be A Certain Kind Of Person](https://lostfocus.de/2022/11/10/230926/)
 - [Discovery of bronzes rewrites Italy’s Etruscan-Roman history](https://lostfocus.de/2022/11/10/discovery-of-bronzes-rewrites-italys-etruscan-roman-history/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Mastodon is just blogs](https://lostfocus.de/2022/11/08/230917/)
 - [⭐️ Cheers is Hell](https://lostfocus.de/2022/11/08/230916/)
 - [⭐️ Elon’s “weird nerds” are in search of a rebuttal. - The Verge](https://lostfocus.de/2022/11/08/230915/)
-- [⭐️ live.hackr : Das Einhorn](https://lostfocus.de/2022/11/07/230910/)
 <!-- POST-LIST:END -->
 
 <!--
