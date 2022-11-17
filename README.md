@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I like rocket launches as much as the next guy and of course I watched…](https://lostfocus.de/2022/11/16/230949/)
+- [Nothing ever changes.](https://lostfocus.de/2022/11/16/230944/)
 - [Well.](https://lostfocus.de/2022/11/15/230932/)
 - [⭐️ Australien - Heimat der Wellensittiche | Tiere vor der Kamera &lpar;1983&rpar; | Folge 12/49](https://lostfocus.de/2022/11/11/230927/)
 - [⭐️ s13e20: What It Is Like To Be A Certain Kind Of Person](https://lostfocus.de/2022/11/10/230926/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Home invasion - Mastodon&#39;s Eternal September begins](https://lostfocus.de/2022/11/09/230919/)
 - [⭐️ Is web3 bullshit? &lpar;Transcript&rpar;](https://lostfocus.de/2022/11/08/230918/)
 - [⭐️ Mastodon is just blogs](https://lostfocus.de/2022/11/08/230917/)
-- [⭐️ Cheers is Hell](https://lostfocus.de/2022/11/08/230916/)
-- [⭐️ Elon’s “weird nerds” are in search of a rebuttal. - The Verge](https://lostfocus.de/2022/11/08/230915/)
 <!-- POST-LIST:END -->
 
 <!--
