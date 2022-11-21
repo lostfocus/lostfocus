@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ I Said “Yes” to Every PR Email for an Entire Day. If Only I Knew…](https://lostfocus.de/2022/11/20/230980/)
+- [⭐️ Alan MacMasters: How the great online toaster hoax was exposed](https://lostfocus.de/2022/11/20/230977/)
+- [Morning Earworm #3: Save Your Tears](https://lostfocus.de/2022/11/20/morning-earworm-2-save-your-tears/)
 - [Sorry, I can&#39;t work today. I need to watch Twitter burn.](https://lostfocus.de/2022/11/18/230968/)
 - [Morning Earworm #2: You Should Be Dancing](https://lostfocus.de/2022/11/18/morning-earworm-2-you-should-be-dancing/)
 - [This is all just a bit sad.](https://lostfocus.de/2022/11/18/230960/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I like rocket launches as much as the next guy and of course I watched…](https://lostfocus.de/2022/11/16/230949/)
 - [Nothing ever changes.](https://lostfocus.de/2022/11/16/230944/)
 - [Well.](https://lostfocus.de/2022/11/15/230932/)
-- [⭐️ Australien - Heimat der Wellensittiche | Tiere vor der Kamera &lpar;1983&rpar; | Folge 12/49](https://lostfocus.de/2022/11/11/230927/)
-- [⭐️ s13e20: What It Is Like To Be A Certain Kind Of Person](https://lostfocus.de/2022/11/10/230926/)
-- [Discovery of bronzes rewrites Italy’s Etruscan-Roman history](https://lostfocus.de/2022/11/10/discovery-of-bronzes-rewrites-italys-etruscan-roman-history/)
 <!-- POST-LIST:END -->
 
 <!--
