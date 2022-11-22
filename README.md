@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Morning Earworm #4: Turn The Tide](https://lostfocus.de/2022/11/21/morning-earworm-4-turn-the-tide/)
 - [⭐️ I Said “Yes” to Every PR Email for an Entire Day. If Only I Knew…](https://lostfocus.de/2022/11/20/230980/)
 - [⭐️ Alan MacMasters: How the great online toaster hoax was exposed](https://lostfocus.de/2022/11/20/230977/)
 - [Morning Earworm #3: Save Your Tears](https://lostfocus.de/2022/11/20/morning-earworm-2-save-your-tears/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #1: 212](https://lostfocus.de/2022/11/17/morning-earworm-1-212/)
 - [I like rocket launches as much as the next guy and of course I watched…](https://lostfocus.de/2022/11/16/230949/)
 - [Nothing ever changes.](https://lostfocus.de/2022/11/16/230944/)
-- [Well.](https://lostfocus.de/2022/11/15/230932/)
 <!-- POST-LIST:END -->
 
 <!--
