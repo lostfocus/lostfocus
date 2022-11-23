@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Morning Earworm #5: Limbo!](https://lostfocus.de/2022/11/22/morning-earworm-5-limbo/)
+- [⭐️ Portability](https://lostfocus.de/2022/11/22/230987/)
+- [⭐️ Word Persons and Web Persons · roytang.net](https://lostfocus.de/2022/11/22/230986/)
 - [Morning Earworm #4: Turn The Tide](https://lostfocus.de/2022/11/21/morning-earworm-4-turn-the-tide/)
 - [⭐️ I Said “Yes” to Every PR Email for an Entire Day. If Only I Knew…](https://lostfocus.de/2022/11/20/230980/)
 - [⭐️ Alan MacMasters: How the great online toaster hoax was exposed](https://lostfocus.de/2022/11/20/230977/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Sorry, I can&#39;t work today. I need to watch Twitter burn.](https://lostfocus.de/2022/11/18/230968/)
 - [Morning Earworm #2: You Should Be Dancing](https://lostfocus.de/2022/11/18/morning-earworm-2-you-should-be-dancing/)
 - [This is all just a bit sad.](https://lostfocus.de/2022/11/18/230960/)
-- [Morning Earworm #1: 212](https://lostfocus.de/2022/11/17/morning-earworm-1-212/)
-- [I like rocket launches as much as the next guy and of course I watched…](https://lostfocus.de/2022/11/16/230949/)
-- [Nothing ever changes.](https://lostfocus.de/2022/11/16/230944/)
 <!-- POST-LIST:END -->
 
 <!--
