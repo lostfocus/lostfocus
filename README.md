@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Andor](https://lostfocus.de/2022/11/23/andor/)
+- [Morning Earworm #6: Party All The Time](https://lostfocus.de/2022/11/23/morning-earworm-6-party-all-the-time/)
 - [Morning Earworm #5: Limbo!](https://lostfocus.de/2022/11/22/morning-earworm-5-limbo/)
 - [⭐️ Portability](https://lostfocus.de/2022/11/22/230987/)
 - [⭐️ Word Persons and Web Persons · roytang.net](https://lostfocus.de/2022/11/22/230986/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Alan MacMasters: How the great online toaster hoax was exposed](https://lostfocus.de/2022/11/20/230977/)
 - [Morning Earworm #3: Save Your Tears](https://lostfocus.de/2022/11/20/morning-earworm-2-save-your-tears/)
 - [Sorry, I can&#39;t work today. I need to watch Twitter burn.](https://lostfocus.de/2022/11/18/230968/)
-- [Morning Earworm #2: You Should Be Dancing](https://lostfocus.de/2022/11/18/morning-earworm-2-you-should-be-dancing/)
-- [This is all just a bit sad.](https://lostfocus.de/2022/11/18/230960/)
 <!-- POST-LIST:END -->
 
 <!--
