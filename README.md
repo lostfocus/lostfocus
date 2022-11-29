@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Wednesday is perfectly watchable once you &lpar;and by &quot;you&quot; I&#39;m talking about myself&rpar; get over…](https://lostfocus.de/2022/11/28/231010/)
+- [Once in a while I have a look at Twitter and I noticed the pattern…](https://lostfocus.de/2022/11/28/231007/)
+- [⭐️ why Japan&#39;s internet is weirdly designed](https://lostfocus.de/2022/11/28/231006/)
+- [⭐️ PSA: Do Not Use Services That Hate The Internet](https://lostfocus.de/2022/11/28/231002/)
+- [⭐️ keeping a personal changelog](https://lostfocus.de/2022/11/28/231001/)
+- [⭐️ Mastodon is a gateway | Andy Bell](https://lostfocus.de/2022/11/28/231000/)
+- [Morning Earworm #7: Buddy Holly](https://lostfocus.de/2022/11/28/morning-earworm-7-buddy-holly/)
 - [Andor](https://lostfocus.de/2022/11/23/andor/)
 - [Morning Earworm #6: Party All The Time](https://lostfocus.de/2022/11/23/morning-earworm-6-party-all-the-time/)
 - [Morning Earworm #5: Limbo!](https://lostfocus.de/2022/11/22/morning-earworm-5-limbo/)
-- [⭐️ Portability](https://lostfocus.de/2022/11/22/230987/)
-- [⭐️ Word Persons and Web Persons · roytang.net](https://lostfocus.de/2022/11/22/230986/)
-- [Morning Earworm #4: Turn The Tide](https://lostfocus.de/2022/11/21/morning-earworm-4-turn-the-tide/)
-- [⭐️ I Said “Yes” to Every PR Email for an Entire Day. If Only I Knew…](https://lostfocus.de/2022/11/20/230980/)
-- [⭐️ Alan MacMasters: How the great online toaster hoax was exposed](https://lostfocus.de/2022/11/20/230977/)
-- [Morning Earworm #3: Save Your Tears](https://lostfocus.de/2022/11/20/morning-earworm-2-save-your-tears/)
-- [Sorry, I can&#39;t work today. I need to watch Twitter burn.](https://lostfocus.de/2022/11/18/230968/)
 <!-- POST-LIST:END -->
 
 <!--
