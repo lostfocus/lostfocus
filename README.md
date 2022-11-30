@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I&#39;m usually not a country music person but on a whim I listened to Raising…](https://lostfocus.de/2022/11/29/231012/)
 - [Wednesday is perfectly watchable once you &lpar;and by &quot;you&quot; I&#39;m talking about myself&rpar; get over…](https://lostfocus.de/2022/11/28/231010/)
 - [Once in a while I have a look at Twitter and I noticed the pattern…](https://lostfocus.de/2022/11/28/231007/)
 - [⭐️ why Japan&#39;s internet is weirdly designed](https://lostfocus.de/2022/11/28/231006/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #7: Buddy Holly](https://lostfocus.de/2022/11/28/morning-earworm-7-buddy-holly/)
 - [Andor](https://lostfocus.de/2022/11/23/andor/)
 - [Morning Earworm #6: Party All The Time](https://lostfocus.de/2022/11/23/morning-earworm-6-party-all-the-time/)
-- [Morning Earworm #5: Limbo!](https://lostfocus.de/2022/11/22/morning-earworm-5-limbo/)
 <!-- POST-LIST:END -->
 
 <!--
