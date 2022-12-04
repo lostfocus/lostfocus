@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Just a quick reminder to myself: if you&#39;re using Dependabot with Composer, the line versioning-strategy:…](https://lostfocus.de/2022/12/03/231029/)
 - [I really like the 2022 playlist by the Rest of World people.](https://lostfocus.de/2022/12/02/231022/)
 - [Every year when Spotify Wrapped is being published I see a lot of &quot;Who cares?…](https://lostfocus.de/2022/12/02/231018/)
 - [How Did Star Wars Get Serious?](https://lostfocus.de/2022/12/02/how-did-star-wars-get-serious/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ why Japan&#39;s internet is weirdly designed](https://lostfocus.de/2022/11/28/231006/)
 - [⭐️ PSA: Do Not Use Services That Hate The Internet](https://lostfocus.de/2022/11/28/231002/)
 - [⭐️ keeping a personal changelog](https://lostfocus.de/2022/11/28/231001/)
-- [⭐️ Mastodon is a gateway | Andy Bell](https://lostfocus.de/2022/11/28/231000/)
 <!-- POST-LIST:END -->
 
 <!--
