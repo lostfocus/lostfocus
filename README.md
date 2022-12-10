@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [⭐️ A Case Study on Raspberry Pi’s Incident on the Fediverse](https://lostfocus.de/2022/12/09/231040/)
 - [⭐️ Why do new cars look like this??](https://lostfocus.de/2022/12/05/231035/)
 - [⭐️ Julian Lennon&#39;s best gift from dad](https://lostfocus.de/2022/12/04/231034/)
 - [Just a quick reminder to myself: if you&#39;re using Dependabot with Composer, the line versioning-strategy:…](https://lostfocus.de/2022/12/03/231029/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I&#39;m usually not a country music person but on a whim I listened to Raising…](https://lostfocus.de/2022/11/29/231012/)
 - [Wednesday is perfectly watchable once you &lpar;and by &quot;you&quot; I&#39;m talking about myself&rpar; get over…](https://lostfocus.de/2022/11/28/231010/)
 - [Once in a while I have a look at Twitter and I noticed the pattern…](https://lostfocus.de/2022/11/28/231007/)
-- [⭐️ why Japan&#39;s internet is weirdly designed](https://lostfocus.de/2022/11/28/231006/)
 <!-- POST-LIST:END -->
 
 <!--
