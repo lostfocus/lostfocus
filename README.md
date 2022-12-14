@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [It&#39;s a bit of a bummer that The White Lotus is such a non-event over…](https://lostfocus.de/2022/12/13/231045/)
+- [It&#39;s only a little bit confusing when a block editor creates blog posts.](https://lostfocus.de/2022/12/13/231042/)
 - [⭐️ A Case Study on Raspberry Pi’s Incident on the Fediverse](https://lostfocus.de/2022/12/09/231040/)
 - [⭐️ Why do new cars look like this??](https://lostfocus.de/2022/12/05/231035/)
 - [⭐️ Julian Lennon&#39;s best gift from dad](https://lostfocus.de/2022/12/04/231034/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Every year when Spotify Wrapped is being published I see a lot of &quot;Who cares?…](https://lostfocus.de/2022/12/02/231018/)
 - [How Did Star Wars Get Serious?](https://lostfocus.de/2022/12/02/how-did-star-wars-get-serious/)
 - [I&#39;m usually not a country music person but on a whim I listened to Raising…](https://lostfocus.de/2022/11/29/231012/)
-- [Wednesday is perfectly watchable once you &lpar;and by &quot;you&quot; I&#39;m talking about myself&rpar; get over…](https://lostfocus.de/2022/11/28/231010/)
-- [Once in a while I have a look at Twitter and I noticed the pattern…](https://lostfocus.de/2022/11/28/231007/)
 <!-- POST-LIST:END -->
 
 <!--
