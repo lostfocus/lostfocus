@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [This year&#39;s Best of Bootie is full of bangers.](https://lostfocus.de/2022/12/15/231050/)
 - [It&#39;s a bit of a bummer that The White Lotus is such a non-event over…](https://lostfocus.de/2022/12/13/231045/)
 - [It&#39;s only a little bit confusing when a block editor creates blog posts.](https://lostfocus.de/2022/12/13/231042/)
 - [⭐️ A Case Study on Raspberry Pi’s Incident on the Fediverse](https://lostfocus.de/2022/12/09/231040/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I really like the 2022 playlist by the Rest of World people.](https://lostfocus.de/2022/12/02/231022/)
 - [Every year when Spotify Wrapped is being published I see a lot of &quot;Who cares?…](https://lostfocus.de/2022/12/02/231018/)
 - [How Did Star Wars Get Serious?](https://lostfocus.de/2022/12/02/how-did-star-wars-get-serious/)
-- [I&#39;m usually not a country music person but on a whim I listened to Raising…](https://lostfocus.de/2022/11/29/231012/)
 <!-- POST-LIST:END -->
 
 <!--
