@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I don&#39;t remember what happened yesterday morning, but I wrote down a helpful note.](https://lostfocus.de/2022/12/21/231065/)
 - [Every single time you think it couldn&#39;t get any dumber, it does.](https://lostfocus.de/2022/12/18/231060/)
 - [⭐️ Rick roll but a different link so they can&#39;t memorize it](https://lostfocus.de/2022/12/16/231056/)
 - [This year&#39;s Best of Bootie is full of bangers.](https://lostfocus.de/2022/12/15/231050/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Why do new cars look like this??](https://lostfocus.de/2022/12/05/231035/)
 - [⭐️ Julian Lennon&#39;s best gift from dad](https://lostfocus.de/2022/12/04/231034/)
 - [Just a quick reminder to myself: if you&#39;re using Dependabot with Composer, the line versioning-strategy:…](https://lostfocus.de/2022/12/03/231029/)
-- [I really like the 2022 playlist by the Rest of World people.](https://lostfocus.de/2022/12/02/231022/)
 <!-- POST-LIST:END -->
 
 <!--
