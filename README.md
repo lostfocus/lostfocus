@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Ça plane pour moi](https://lostfocus.de/2022/12/31/ca-plane-pour-moi/)
+- [2022](https://lostfocus.de/2022/12/31/2022/)
+- [It&#39;s a bit of a bummer that Byword doesn&#39;t seem to be developed anymore. I…](https://lostfocus.de/2022/12/31/231077/)
 - [⭐️ Stop Talking to Each Other and Start Buying Things: Three Decades of Survival in the…](https://lostfocus.de/2022/12/23/231071/)
 - [I had a little drive in the rain and now I&#39;m back. I&#39;ll take a…](https://lostfocus.de/2022/12/23/231068/)
 - [I don&#39;t remember what happened yesterday morning, but I wrote down a helpful note.](https://lostfocus.de/2022/12/21/231065/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [⭐️ Rick roll but a different link so they can&#39;t memorize it](https://lostfocus.de/2022/12/16/231056/)
 - [This year&#39;s Best of Bootie is full of bangers.](https://lostfocus.de/2022/12/15/231050/)
 - [It&#39;s a bit of a bummer that The White Lotus is such a non-event over…](https://lostfocus.de/2022/12/13/231045/)
-- [It&#39;s only a little bit confusing when a block editor creates blog posts.](https://lostfocus.de/2022/12/13/231042/)
-- [⭐️ A Case Study on Raspberry Pi’s Incident on the Fediverse](https://lostfocus.de/2022/12/09/231040/)
-- [⭐️ Why do new cars look like this??](https://lostfocus.de/2022/12/05/231035/)
 <!-- POST-LIST:END -->
 
 <!--
