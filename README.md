@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The thing about stupid walks for one&#39;s stupid mental health is that they work. Not…](https://lostfocus.de/2023/01/01/231089/)
 - [Ça plane pour moi](https://lostfocus.de/2022/12/31/ca-plane-pour-moi/)
 - [2022](https://lostfocus.de/2022/12/31/2022/)
 - [It&#39;s a bit of a bummer that Byword doesn&#39;t seem to be developed anymore. I…](https://lostfocus.de/2022/12/31/231077/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Every single time you think it couldn&#39;t get any dumber, it does.](https://lostfocus.de/2022/12/18/231060/)
 - [⭐️ Rick roll but a different link so they can&#39;t memorize it](https://lostfocus.de/2022/12/16/231056/)
 - [This year&#39;s Best of Bootie is full of bangers.](https://lostfocus.de/2022/12/15/231050/)
-- [It&#39;s a bit of a bummer that The White Lotus is such a non-event over…](https://lostfocus.de/2022/12/13/231045/)
 <!-- POST-LIST:END -->
 
 <!--
