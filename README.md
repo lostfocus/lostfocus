@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [For someone who told himself and everybody who didn&#39;t hide fast enough that he wouldn&#39;t…](https://lostfocus.de/2023/01/03/231100/)
+- [I like benches. I wonder if I like the idea of benches more than the…](https://lostfocus.de/2023/01/03/231094/)
 - [The thing about stupid walks for one&#39;s stupid mental health is that they work. Not…](https://lostfocus.de/2023/01/01/231089/)
 - [Ça plane pour moi](https://lostfocus.de/2022/12/31/ca-plane-pour-moi/)
 - [2022](https://lostfocus.de/2022/12/31/2022/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I had a little drive in the rain and now I&#39;m back. I&#39;ll take a…](https://lostfocus.de/2022/12/23/231068/)
 - [I don&#39;t remember what happened yesterday morning, but I wrote down a helpful note.](https://lostfocus.de/2022/12/21/231065/)
 - [Every single time you think it couldn&#39;t get any dumber, it does.](https://lostfocus.de/2022/12/18/231060/)
-- [⭐️ Rick roll but a different link so they can&#39;t memorize it](https://lostfocus.de/2022/12/16/231056/)
-- [This year&#39;s Best of Bootie is full of bangers.](https://lostfocus.de/2022/12/15/231050/)
 <!-- POST-LIST:END -->
 
 <!--
