@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Hm.](https://lostfocus.de/2023/01/04/231114/)
+- [It&#39;s honestly a bit ridiculous how happy I get when having some pasta with a…](https://lostfocus.de/2023/01/04/231110/)
+- [Sounds like the Asobo ATR is going to be a bit hardcore. Let&#39;s see how…](https://lostfocus.de/2023/01/04/231107/)
 - [For someone who told himself and everybody who didn&#39;t hide fast enough that he wouldn&#39;t…](https://lostfocus.de/2023/01/03/231100/)
 - [I like benches. I wonder if I like the idea of benches more than the…](https://lostfocus.de/2023/01/03/231094/)
 - [The thing about stupid walks for one&#39;s stupid mental health is that they work. Not…](https://lostfocus.de/2023/01/01/231089/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2022](https://lostfocus.de/2022/12/31/2022/)
 - [It&#39;s a bit of a bummer that Byword doesn&#39;t seem to be developed anymore. I…](https://lostfocus.de/2022/12/31/231077/)
 - [⭐️ Stop Talking to Each Other and Start Buying Things: Three Decades of Survival in the…](https://lostfocus.de/2022/12/23/231071/)
-- [I had a little drive in the rain and now I&#39;m back. I&#39;ll take a…](https://lostfocus.de/2022/12/23/231068/)
-- [I don&#39;t remember what happened yesterday morning, but I wrote down a helpful note.](https://lostfocus.de/2022/12/21/231065/)
-- [Every single time you think it couldn&#39;t get any dumber, it does.](https://lostfocus.de/2022/12/18/231060/)
 <!-- POST-LIST:END -->
 
 <!--
