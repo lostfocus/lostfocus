@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I always enjoyed existing in commercial spaces in the morning, just when they start to…](https://lostfocus.de/2023/01/05/231117/)
 - [Hm.](https://lostfocus.de/2023/01/04/231114/)
 - [It&#39;s honestly a bit ridiculous how happy I get when having some pasta with a…](https://lostfocus.de/2023/01/04/231110/)
 - [Sounds like the Asobo ATR is going to be a bit hardcore. Let&#39;s see how…](https://lostfocus.de/2023/01/04/231107/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Ça plane pour moi](https://lostfocus.de/2022/12/31/ca-plane-pour-moi/)
 - [2022](https://lostfocus.de/2022/12/31/2022/)
 - [It&#39;s a bit of a bummer that Byword doesn&#39;t seem to be developed anymore. I…](https://lostfocus.de/2022/12/31/231077/)
-- [⭐️ Stop Talking to Each Other and Start Buying Things: Three Decades of Survival in the…](https://lostfocus.de/2022/12/23/231071/)
 <!-- POST-LIST:END -->
 
 <!--
