@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Morning Earworm #8: Catallena](https://lostfocus.de/2023/01/06/morning-earworm-8-catallena/)
 - [I always enjoyed existing in commercial spaces in the morning, just when they start to…](https://lostfocus.de/2023/01/05/231117/)
 - [Hm.](https://lostfocus.de/2023/01/04/231114/)
 - [It&#39;s honestly a bit ridiculous how happy I get when having some pasta with a…](https://lostfocus.de/2023/01/04/231110/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The thing about stupid walks for one&#39;s stupid mental health is that they work. Not…](https://lostfocus.de/2023/01/01/231089/)
 - [Ça plane pour moi](https://lostfocus.de/2022/12/31/ca-plane-pour-moi/)
 - [2022](https://lostfocus.de/2022/12/31/2022/)
-- [It&#39;s a bit of a bummer that Byword doesn&#39;t seem to be developed anymore. I…](https://lostfocus.de/2022/12/31/231077/)
 <!-- POST-LIST:END -->
 
 <!--
