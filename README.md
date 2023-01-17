@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Let&#39;s see if this thing really brings me abundance, prosperity and good luck.](https://lostfocus.de/2023/01/16/231162/)
+- [It&#39;s interesting to watch how PHPStorm gets slower with every release - only on the…](https://lostfocus.de/2023/01/16/231159/)
 - [Week 2, 2023](https://lostfocus.de/2023/01/15/week-2-2023/)
 - [Those little Lego otters are better than they need to be.](https://lostfocus.de/2023/01/13/231146/)
 - [It&#39;s honestly rather annoying that &quot;Dominik at the shops&quot; has a very different opinion than…](https://lostfocus.de/2023/01/11/231144/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #8: Catallena](https://lostfocus.de/2023/01/06/morning-earworm-8-catallena/)
 - [I always enjoyed existing in commercial spaces in the morning, just when they start to…](https://lostfocus.de/2023/01/05/231117/)
 - [Hm.](https://lostfocus.de/2023/01/04/231114/)
-- [It&#39;s honestly a bit ridiculous how happy I get when having some pasta with a…](https://lostfocus.de/2023/01/04/231110/)
-- [Sounds like the Asobo ATR is going to be a bit hardcore. Let&#39;s see how…](https://lostfocus.de/2023/01/04/231107/)
 <!-- POST-LIST:END -->
 
 <!--
