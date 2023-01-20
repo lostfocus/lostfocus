@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I spent way too much time this morning looking at these cool Toyota vans.](https://lostfocus.de/2023/01/19/231180/)
+- [TIL: Imagemagick can do HEIC these days. It&#39;s not easy to make it work, though.](https://lostfocus.de/2023/01/19/231177/)
 - [I looked at Twitter just now and I have a question for those people who…](https://lostfocus.de/2023/01/18/231172/)
 - [Disappointed](https://lostfocus.de/2023/01/17/disappointed/)
 - [Let&#39;s see if this thing really brings me abundance, prosperity and good luck.](https://lostfocus.de/2023/01/16/231162/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Those little Lego otters are better than they need to be.](https://lostfocus.de/2023/01/13/231146/)
 - [It&#39;s honestly rather annoying that &quot;Dominik at the shops&quot; has a very different opinion than…](https://lostfocus.de/2023/01/11/231144/)
 - [last.fm in 2022](https://lostfocus.de/2023/01/11/last-fm-in-2022/)
-- [Week 1, 2023](https://lostfocus.de/2023/01/08/week-1-2023/)
-- [Morning Earworm #8: Catallena](https://lostfocus.de/2023/01/06/morning-earworm-8-catallena/)
 <!-- POST-LIST:END -->
 
 <!--
