@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I just had a look at my server access log and it&#39;s surprising how many…](https://lostfocus.de/2023/01/20/231196/)
+- [Morning Earworm #9: Geradeaus](https://lostfocus.de/2023/01/20/morning-earworm-9-geradeaus/)
 - [I spent way too much time this morning looking at these cool Toyota vans.](https://lostfocus.de/2023/01/19/231180/)
 - [TIL: Imagemagick can do HEIC these days. It&#39;s not easy to make it work, though.](https://lostfocus.de/2023/01/19/231177/)
 - [I looked at Twitter just now and I have a question for those people who…](https://lostfocus.de/2023/01/18/231172/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [It&#39;s interesting to watch how PHPStorm gets slower with every release - only on the…](https://lostfocus.de/2023/01/16/231159/)
 - [Week 2, 2023](https://lostfocus.de/2023/01/15/week-2-2023/)
 - [Those little Lego otters are better than they need to be.](https://lostfocus.de/2023/01/13/231146/)
-- [It&#39;s honestly rather annoying that &quot;Dominik at the shops&quot; has a very different opinion than…](https://lostfocus.de/2023/01/11/231144/)
-- [last.fm in 2022](https://lostfocus.de/2023/01/11/last-fm-in-2022/)
 <!-- POST-LIST:END -->
 
 <!--
