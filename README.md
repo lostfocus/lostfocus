@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 3, 2023](https://lostfocus.de/2023/01/22/week-3-2023/)
 - [I just had a look at my server access log and it&#39;s surprising how many…](https://lostfocus.de/2023/01/20/231196/)
 - [Morning Earworm #9: Geradeaus](https://lostfocus.de/2023/01/20/morning-earworm-9-geradeaus/)
 - [I spent way too much time this morning looking at these cool Toyota vans.](https://lostfocus.de/2023/01/19/231180/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Let&#39;s see if this thing really brings me abundance, prosperity and good luck.](https://lostfocus.de/2023/01/16/231162/)
 - [It&#39;s interesting to watch how PHPStorm gets slower with every release - only on the…](https://lostfocus.de/2023/01/16/231159/)
 - [Week 2, 2023](https://lostfocus.de/2023/01/15/week-2-2023/)
-- [Those little Lego otters are better than they need to be.](https://lostfocus.de/2023/01/13/231146/)
 <!-- POST-LIST:END -->
 
 <!--
