@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [They really want to burn that place to the ground, hm?](https://lostfocus.de/2023/02/02/231220/)
 - [[gallery size=full columns=1]](https://lostfocus.de/2023/01/31/231215/)
 - [Week 4, 2023](https://lostfocus.de/2023/01/29/week-4-2023/)
 - [Many people use white or brown noise to help them concentrate and get into the…](https://lostfocus.de/2023/01/27/231207/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #9: Geradeaus](https://lostfocus.de/2023/01/20/morning-earworm-9-geradeaus/)
 - [I spent way too much time this morning looking at these cool Toyota vans.](https://lostfocus.de/2023/01/19/231180/)
 - [TIL: Imagemagick can do HEIC these days. It&#39;s not easy to make it work, though.](https://lostfocus.de/2023/01/19/231177/)
-- [I looked at Twitter just now and I have a question for those people who…](https://lostfocus.de/2023/01/18/231172/)
 <!-- POST-LIST:END -->
 
 <!--
