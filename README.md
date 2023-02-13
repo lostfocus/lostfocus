@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 6, 2023](https://lostfocus.de/2023/02/12/week-6-2023/)
 - [Morning Earworm #10: 헬로비너스 – 난 예술이야&lpar;I’m ill&rpar;](https://lostfocus.de/2023/02/11/morning-earworm-10-%ed%97%ac%eb%a1%9c%eb%b9%84%eb%84%88%ec%8a%a4-%eb%82%9c-%ec%98%88%ec%88%a0%ec%9d%b4%ec%95%bcim-ill/)
 - [EK206 - JFK-MXP](https://lostfocus.de/2023/02/10/231232/)
 - [Week 5, 2023](https://lostfocus.de/2023/02/05/week-5-2023/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Many people use white or brown noise to help them concentrate and get into the…](https://lostfocus.de/2023/01/27/231207/)
 - [I guess we&#39;d like pigeons a lot more if they wouldn&#39;t shit everywhere. They&#39;re not…](https://lostfocus.de/2023/01/25/231204/)
 - [Week 3, 2023](https://lostfocus.de/2023/01/22/week-3-2023/)
-- [I just had a look at my server access log and it&#39;s surprising how many…](https://lostfocus.de/2023/01/20/231196/)
 <!-- POST-LIST:END -->
 
 <!--
