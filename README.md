@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 8, 2023](https://lostfocus.de/2023/02/26/week-8-2023/)
 - [This is all set out nicely in Dale Carnegie’s famous/infamous book, How to Win Friends…](https://lostfocus.de/2023/02/23/231257/)
 - [Week 7, 2023](https://lostfocus.de/2023/02/19/week-7-2023/)
 - [I usually post the songs that are stuck in my head but right now it&#39;s…](https://lostfocus.de/2023/02/13/231246/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 5, 2023](https://lostfocus.de/2023/02/05/week-5-2023/)
 - [They really want to burn that place to the ground, hm?](https://lostfocus.de/2023/02/02/231220/)
 - [[gallery size=full columns=1]](https://lostfocus.de/2023/01/31/231215/)
-- [Week 4, 2023](https://lostfocus.de/2023/01/29/week-4-2023/)
 <!-- POST-LIST:END -->
 
 <!--
