@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [[…] to cultivate an internal world that is capable of perceiving moments worth photographing is…](https://lostfocus.de/2023/02/28/231264/)
 - [Week 8, 2023](https://lostfocus.de/2023/02/26/week-8-2023/)
 - [This is all set out nicely in Dale Carnegie’s famous/infamous book, How to Win Friends…](https://lostfocus.de/2023/02/23/231257/)
 - [Week 7, 2023](https://lostfocus.de/2023/02/19/week-7-2023/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [EK206 - JFK-MXP](https://lostfocus.de/2023/02/10/231232/)
 - [Week 5, 2023](https://lostfocus.de/2023/02/05/week-5-2023/)
 - [They really want to burn that place to the ground, hm?](https://lostfocus.de/2023/02/02/231220/)
-- [[gallery size=full columns=1]](https://lostfocus.de/2023/01/31/231215/)
 <!-- POST-LIST:END -->
 
 <!--
