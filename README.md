@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 10, 2023](https://lostfocus.de/2023/03/12/week-10-2023/)
+- [Morning Earworm #12: One Two Three Four](https://lostfocus.de/2023/03/12/morning-earworm-12-one-two-three-four/)
 - [Gowalla](https://lostfocus.de/2023/03/10/gowalla/)
 - [Sometimes it&#39;s nice to look up into the sky](https://lostfocus.de/2023/03/07/231281/)
 - [Week 9, 2023](https://lostfocus.de/2023/03/05/week-9-2023/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [[…] to cultivate an internal world that is capable of perceiving moments worth photographing is…](https://lostfocus.de/2023/02/28/231264/)
 - [Week 8, 2023](https://lostfocus.de/2023/02/26/week-8-2023/)
 - [This is all set out nicely in Dale Carnegie’s famous/infamous book, How to Win Friends…](https://lostfocus.de/2023/02/23/231257/)
-- [Week 7, 2023](https://lostfocus.de/2023/02/19/week-7-2023/)
-- [I usually post the songs that are stuck in my head but right now it&#39;s…](https://lostfocus.de/2023/02/13/231246/)
 <!-- POST-LIST:END -->
 
 <!--
