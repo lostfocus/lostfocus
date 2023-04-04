@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Things I want to do but am in fact not doing because bleh](https://lostfocus.de/2023/04/03/things-i-want-to-do-but-am-in-fact-not-doing-because-bleh/)
 - [Week 13, 2023](https://lostfocus.de/2023/04/02/week-13-2023/)
 - [Week 12, 2023](https://lostfocus.de/2023/03/26/week-12-2023/)
 - [Morning Earworm #13: The Letter](https://lostfocus.de/2023/03/21/morning-earworm-13-the-letter/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Gowalla](https://lostfocus.de/2023/03/10/gowalla/)
 - [Sometimes it&#39;s nice to look up into the sky](https://lostfocus.de/2023/03/07/231281/)
 - [Week 9, 2023](https://lostfocus.de/2023/03/05/week-9-2023/)
-- [This is just a little test. You&#39;re more than welcome to ignore this. A link…](https://lostfocus.de/2023/03/04/231275/)
 <!-- POST-LIST:END -->
 
 <!--
