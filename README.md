@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [There is nothing dumber than FOMO for skeets](https://lostfocus.de/2023/04/29/there-is-nothing-dumber-than-fomo-for-skeets/)
 - [Week 16, 2023](https://lostfocus.de/2023/04/23/week-16-2023/)
 - [My Symfony router woes](https://lostfocus.de/2023/04/23/my-symfony-router-woes/)
 - [Morning Earworm #15: I Am](https://lostfocus.de/2023/04/19/morning-earworm-15-i-am/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Things I want to do but am in fact not doing because bleh](https://lostfocus.de/2023/04/03/things-i-want-to-do-but-am-in-fact-not-doing-because-bleh/)
 - [Week 13, 2023](https://lostfocus.de/2023/04/02/week-13-2023/)
 - [Week 12, 2023](https://lostfocus.de/2023/03/26/week-12-2023/)
-- [Morning Earworm #13: The Letter](https://lostfocus.de/2023/03/21/morning-earworm-13-the-letter/)
 <!-- POST-LIST:END -->
 
 <!--
