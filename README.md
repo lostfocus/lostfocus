@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 19, 2023](https://lostfocus.de/2023/05/14/week-19-2023/)
 - [Morning Earworm #17: No Rain](https://lostfocus.de/2023/05/09/morning-earworm-17-no-rain/)
 - [Week 18, 2023](https://lostfocus.de/2023/05/07/week-18-2023/)
 - [Morning Earworm #16: Azzurro](https://lostfocus.de/2023/05/04/morning-earworm-16-azzurro/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 16, 2023](https://lostfocus.de/2023/04/23/week-16-2023/)
 - [My Symfony router woes](https://lostfocus.de/2023/04/23/my-symfony-router-woes/)
 - [Morning Earworm #15: I Am](https://lostfocus.de/2023/04/19/morning-earworm-15-i-am/)
-- [Week 15, 2023](https://lostfocus.de/2023/04/16/week-15-2023/)
 <!-- POST-LIST:END -->
 
 <!--
