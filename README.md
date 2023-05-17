@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [“Someone bought the thing you liked and killed it” is the defining experience of the…](https://lostfocus.de/2023/05/16/231406/)
+- [Morning Earworm #18: Giri Giri](https://lostfocus.de/2023/05/16/morning-earworm-18-giri-giri/)
 - [Week 19, 2023](https://lostfocus.de/2023/05/14/week-19-2023/)
 - [Morning Earworm #17: No Rain](https://lostfocus.de/2023/05/09/morning-earworm-17-no-rain/)
 - [Week 18, 2023](https://lostfocus.de/2023/05/07/week-18-2023/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 17, 2023](https://lostfocus.de/2023/04/30/week-17-2023/)
 - [There is nothing dumber than FOMO for skeets](https://lostfocus.de/2023/04/29/there-is-nothing-dumber-than-fomo-for-skeets/)
 - [Week 16, 2023](https://lostfocus.de/2023/04/23/week-16-2023/)
-- [My Symfony router woes](https://lostfocus.de/2023/04/23/my-symfony-router-woes/)
-- [Morning Earworm #15: I Am](https://lostfocus.de/2023/04/19/morning-earworm-15-i-am/)
 <!-- POST-LIST:END -->
 
 <!--
