@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Pants!](https://lostfocus.de/2023/05/26/pants/)
+- [Morning Earworm #19: I Ran](https://lostfocus.de/2023/05/26/morning-earworm-19-i-ran/)
 - [Week 20, 2023](https://lostfocus.de/2023/05/21/week-20-2023/)
 - [“Someone bought the thing you liked and killed it” is the defining experience of the…](https://lostfocus.de/2023/05/16/231406/)
 - [Morning Earworm #18: Giri Giri](https://lostfocus.de/2023/05/16/morning-earworm-18-giri-giri/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 18, 2023](https://lostfocus.de/2023/05/07/week-18-2023/)
 - [Morning Earworm #16: Azzurro](https://lostfocus.de/2023/05/04/morning-earworm-16-azzurro/)
 - [After two hours of sleep my body decided it had enough last night and was…](https://lostfocus.de/2023/05/02/231381/)
-- [Week 17, 2023](https://lostfocus.de/2023/04/30/week-17-2023/)
-- [There is nothing dumber than FOMO for skeets](https://lostfocus.de/2023/04/29/there-is-nothing-dumber-than-fomo-for-skeets/)
 <!-- POST-LIST:END -->
 
 <!--
