@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [La Cucaracha](https://lostfocus.de/2023/06/28/la-cucaracha/)
+- [Mental Models](https://lostfocus.de/2023/06/28/mental-models/)
 - [Week 25, 2023](https://lostfocus.de/2023/06/25/week-25-2023/)
 - [After years of being on this site I strongly suspect there is absolutely no correlation…](https://lostfocus.de/2023/06/20/231461/)
 - [Week 24, 2023](https://lostfocus.de/2023/06/18/week-24-2023/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 23, 2023](https://lostfocus.de/2023/06/13/week-23-2023/)
 - [Week 22, 2023](https://lostfocus.de/2023/06/04/week-22-2023/)
 - [Week 21, 2023](https://lostfocus.de/2023/05/29/week-21-2023/)
-- [Pants!](https://lostfocus.de/2023/05/26/pants/)
-- [Morning Earworm #19: I Ran](https://lostfocus.de/2023/05/26/morning-earworm-19-i-ran/)
 <!-- POST-LIST:END -->
 
 <!--
