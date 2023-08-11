@@ -11,7 +11,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 29, 2023](https://lostfocus.de/2023/07/23/week-29-2023/)
 - [Week 28, 2023](https://lostfocus.de/2023/07/17/week-28-2023/)
 - [Morning Earworm #20: Killing Me Softly](https://lostfocus.de/2023/07/12/morning-earworm-20-killing-me-softly/)
-- [Many people are posting their first app purchases due to the iPone AppStore being around…](https://lostfocus.de/2023/07/11/231501/)
+- [Many people are posting their first app purchases due to the iPhone AppStore being around…](https://lostfocus.de/2023/07/11/231501/)
 - [Week 27, 2023](https://lostfocus.de/2023/07/10/week-27-2023/)
 - [Topics I have half-finished drafts on:](https://lostfocus.de/2023/07/07/231493/)
 - [Week 26, 2023](https://lostfocus.de/2023/07/02/week-26-2023/)
