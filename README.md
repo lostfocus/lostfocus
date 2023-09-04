@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 35, 2023](https://lostfocus.de/2023/09/03/week-35-2023/)
 - [Week 34, 2023](https://lostfocus.de/2023/08/27/week-34-2023/)
 - [Week 33, 2023](https://lostfocus.de/2023/08/20/week-33-2023/)
 - [Morning Earworm #21: Rasah Nyangkem 3](https://lostfocus.de/2023/08/18/morning-earworm-21-rasah-nyangkem-3/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I finally looked at the Overture places data here on this map [via] and it&#39;s…](https://lostfocus.de/2023/08/13/231552/)
 - [Vanlife?](https://lostfocus.de/2023/08/09/vanlife/)
 - [Week 31, 2023](https://lostfocus.de/2023/08/06/week-31-2023/)
-- [Week 30, 2023](https://lostfocus.de/2023/07/30/week-30-2023/)
 <!-- POST-LIST:END -->
 
 <!--
