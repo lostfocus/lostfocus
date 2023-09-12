@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [He only needs me as a pace setter and to tell him that he&#39;s a…](https://lostfocus.de/2023/09/11/231610/)
 - [Ah, yes, great. It happened again. I thought of a feature I want for my…](https://lostfocus.de/2023/09/10/231608/)
 - [Week 36, 2023](https://lostfocus.de/2023/09/10/week-36-2023/)
 - [Week 35, 2023](https://lostfocus.de/2023/09/03/week-35-2023/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Dear diary, this morning is a bit miserable. The light is diffuse and grey, it&#39;s…](https://lostfocus.de/2023/08/17/231565/)
 - [I went to a photowalk / meetup for the first time in a couple of…](https://lostfocus.de/2023/08/17/231559/)
 - [Week 32, 2023](https://lostfocus.de/2023/08/13/week-32-2023/)
-- [I finally looked at the Overture places data here on this map [via] and it&#39;s…](https://lostfocus.de/2023/08/13/231552/)
 <!-- POST-LIST:END -->
 
 <!--
