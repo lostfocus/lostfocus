@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Image](https://lostfocus.de/2023/09/30/231660/)
 - [It&#39;s been a while](https://lostfocus.de/2023/09/25/231655/)
 - [Week 38, 2023](https://lostfocus.de/2023/09/24/week-38-2023/)
 - [Morning Earworm #22: Bukan Cinta 1 Atau 2](https://lostfocus.de/2023/09/21/morning-earworm-22-bukan-cinta-1-atau-2/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 36, 2023](https://lostfocus.de/2023/09/10/week-36-2023/)
 - [Week 35, 2023](https://lostfocus.de/2023/09/03/week-35-2023/)
 - [Week 34, 2023](https://lostfocus.de/2023/08/27/week-34-2023/)
-- [Week 33, 2023](https://lostfocus.de/2023/08/20/week-33-2023/)
 <!-- POST-LIST:END -->
 
 <!--
