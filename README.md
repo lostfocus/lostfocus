@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I&#39;m not completely sure why online shopping company send out delivery emails when they print…](https://lostfocus.de/2023/10/11/231682/)
 - [I’m pretty sure the people who collect the garbage are putting out a trap on…](https://lostfocus.de/2023/10/10/231679/)
 - [Week 40, 2023](https://lostfocus.de/2023/10/09/week-40-2023/)
 - [Week 39, 2023](https://lostfocus.de/2023/10/03/week-39-2023/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #22: Bukan Cinta 1 Atau 2](https://lostfocus.de/2023/09/21/morning-earworm-22-bukan-cinta-1-atau-2/)
 - [Week 37, 2023](https://lostfocus.de/2023/09/17/week-37-2023/)
 - [He only needs me as a pace setter and to tell him that he&#39;s a…](https://lostfocus.de/2023/09/11/231610/)
-- [Ah, yes, great. It happened again. I thought of a feature I want for my…](https://lostfocus.de/2023/09/10/231608/)
 <!-- POST-LIST:END -->
 
 <!--
