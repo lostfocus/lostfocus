@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [TIL: Markdown-footnotes look okay-ish when the post is sent out via ActivityPub as long as…](https://lostfocus.de/2023/10/18/231713/)
+- [Blogging](https://lostfocus.de/2023/10/18/blogging-3/)
 - [Week 41, 2023](https://lostfocus.de/2023/10/15/week-41-2023/)
 - [Yes, fall is here.](https://lostfocus.de/2023/10/12/231689/)
 - [I&#39;m not completely sure why online shopping company send out delivery emails when they print…](https://lostfocus.de/2023/10/11/231682/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 39, 2023](https://lostfocus.de/2023/10/03/week-39-2023/)
 - [Image](https://lostfocus.de/2023/09/30/231660/)
 - [It&#39;s been a while](https://lostfocus.de/2023/09/25/231655/)
-- [Week 38, 2023](https://lostfocus.de/2023/09/24/week-38-2023/)
-- [Morning Earworm #22: Bukan Cinta 1 Atau 2](https://lostfocus.de/2023/09/21/morning-earworm-22-bukan-cinta-1-atau-2/)
 <!-- POST-LIST:END -->
 
 <!--
