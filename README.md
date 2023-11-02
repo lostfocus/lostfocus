@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 43, 2023](https://lostfocus.de/2023/11/01/week-43-2023/)
 - [Wow, this is a very Monday Monday. And I don&#39;t even have snacks.](https://lostfocus.de/2023/10/23/231736/)
 - [Week 42, 2023](https://lostfocus.de/2023/10/22/week-42-2023/)
 - [Comments](https://lostfocus.de/2023/10/20/comments/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Blogging](https://lostfocus.de/2023/10/18/blogging-3/)
 - [Week 41, 2023](https://lostfocus.de/2023/10/15/week-41-2023/)
 - [Yes, fall is here.](https://lostfocus.de/2023/10/12/231689/)
-- [I&#39;m not completely sure why online shopping company send out delivery emails when they print…](https://lostfocus.de/2023/10/11/231682/)
 <!-- POST-LIST:END -->
 
 <!--
