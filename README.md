@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Video](https://lostfocus.de/2023/11/04/231413/)
 - [Week 43, 2023](https://lostfocus.de/2023/11/01/week-43-2023/)
 - [Wow, this is a very Monday Monday. And I don&#39;t even have snacks.](https://lostfocus.de/2023/10/23/231736/)
 - [Week 42, 2023](https://lostfocus.de/2023/10/22/week-42-2023/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [TIL: Markdown-footnotes look okay-ish when the post is sent out via ActivityPub as long as…](https://lostfocus.de/2023/10/18/231713/)
 - [Blogging](https://lostfocus.de/2023/10/18/blogging-3/)
 - [Week 41, 2023](https://lostfocus.de/2023/10/15/week-41-2023/)
-- [Yes, fall is here.](https://lostfocus.de/2023/10/12/231689/)
 <!-- POST-LIST:END -->
 
 <!--
