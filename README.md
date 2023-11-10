@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [It&#39;s a bit creepy how good the iPhone photos are in the dark](https://lostfocus.de/2023/11/09/231766/)
+- [Defaults](https://lostfocus.de/2023/11/09/defaults/)
 - [Week 44, 2023](https://lostfocus.de/2023/11/07/week-44-2023/)
 - [Video](https://lostfocus.de/2023/11/04/231413/)
 - [Week 43, 2023](https://lostfocus.de/2023/11/01/week-43-2023/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Comments](https://lostfocus.de/2023/10/20/comments/)
 - [I might be one of the few people who don&#39;t use WhatsApp a lot. Somehow…](https://lostfocus.de/2023/10/19/231720/)
 - [The Ballad of a Small Player](https://lostfocus.de/2023/10/19/the-ballad-of-a-small-player/)
-- [TIL: Markdown-footnotes look okay-ish when the post is sent out via ActivityPub as long as…](https://lostfocus.de/2023/10/18/231713/)
-- [Blogging](https://lostfocus.de/2023/10/18/blogging-3/)
 <!-- POST-LIST:END -->
 
 <!--
