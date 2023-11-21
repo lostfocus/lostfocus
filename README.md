@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I added the OPML file from the App Defaults page to my feedreader because I…](https://lostfocus.de/2023/11/20/231806/)
 - [Week 46, 2023](https://lostfocus.de/2023/11/19/week-46-2023/)
 - [Today is the one year anniversary of my last tweet and I&#39;m still sad.](https://lostfocus.de/2023/11/18/231771/)
 - [There are some days when one needs to turn the passive-aggressive mode to eleven.](https://lostfocus.de/2023/11/14/231791/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Defaults](https://lostfocus.de/2023/11/09/defaults/)
 - [Week 44, 2023](https://lostfocus.de/2023/11/07/week-44-2023/)
 - [Video](https://lostfocus.de/2023/11/04/231413/)
-- [Week 43, 2023](https://lostfocus.de/2023/11/01/week-43-2023/)
 <!-- POST-LIST:END -->
 
 <!--
