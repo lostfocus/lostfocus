@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 47, 2023](https://lostfocus.de/2023/11/26/week-47-2023/)
+- [I accidentally bought pre-ground coffee. It is ground way too fine for my liking and…](https://lostfocus.de/2023/11/26/231820/)
 - [Sometimes I tell people about this website and even in 2023 the idea of this…](https://lostfocus.de/2023/11/23/231816/)
 - [I added the OPML file from the App Defaults page to my feedreader because I…](https://lostfocus.de/2023/11/20/231806/)
 - [Week 46, 2023](https://lostfocus.de/2023/11/19/week-46-2023/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [When I really need to get into a productive programming mode I often put on…](https://lostfocus.de/2023/11/14/231788/)
 - [Week 45, 2023](https://lostfocus.de/2023/11/12/week-45-2023/)
 - [It&#39;s a bit creepy how good the iPhone photos are in the dark](https://lostfocus.de/2023/11/09/231766/)
-- [Defaults](https://lostfocus.de/2023/11/09/defaults/)
-- [Week 44, 2023](https://lostfocus.de/2023/11/07/week-44-2023/)
 <!-- POST-LIST:END -->
 
 <!--
