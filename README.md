@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Spotify Wrapped](https://lostfocus.de/2023/11/29/spotify-wrapped/)
 - [Week 47, 2023](https://lostfocus.de/2023/11/26/week-47-2023/)
 - [I accidentally bought pre-ground coffee. It is ground way too fine for my liking and…](https://lostfocus.de/2023/11/26/231820/)
 - [Sometimes I tell people about this website and even in 2023 the idea of this…](https://lostfocus.de/2023/11/23/231816/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [There are some days when one needs to turn the passive-aggressive mode to eleven.](https://lostfocus.de/2023/11/14/231791/)
 - [When I really need to get into a productive programming mode I often put on…](https://lostfocus.de/2023/11/14/231788/)
 - [Week 45, 2023](https://lostfocus.de/2023/11/12/week-45-2023/)
-- [It&#39;s a bit creepy how good the iPhone photos are in the dark](https://lostfocus.de/2023/11/09/231766/)
 <!-- POST-LIST:END -->
 
 <!--
