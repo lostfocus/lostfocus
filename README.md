@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 48, 2023](https://lostfocus.de/2023/12/03/week-48-2023/)
 - [Good god. I have the weirdest phenomenon happening in Factorio and of course it doesn&#39;t…](https://lostfocus.de/2023/12/01/231840/)
 - [Spotify Wrapped](https://lostfocus.de/2023/11/29/spotify-wrapped/)
 - [Week 47, 2023](https://lostfocus.de/2023/11/26/week-47-2023/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 46, 2023](https://lostfocus.de/2023/11/19/week-46-2023/)
 - [Today is the one year anniversary of my last tweet and I&#39;m still sad.](https://lostfocus.de/2023/11/18/231771/)
 - [There are some days when one needs to turn the passive-aggressive mode to eleven.](https://lostfocus.de/2023/11/14/231791/)
-- [When I really need to get into a productive programming mode I often put on…](https://lostfocus.de/2023/11/14/231788/)
 <!-- POST-LIST:END -->
 
 <!--
