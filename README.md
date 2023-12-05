@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Good night, sun. See you in sixteen hours.](https://lostfocus.de/2023/12/04/231850/)
 - [Week 48, 2023](https://lostfocus.de/2023/12/03/week-48-2023/)
 - [Good god. I have the weirdest phenomenon happening in Factorio and of course it doesn&#39;t…](https://lostfocus.de/2023/12/01/231840/)
 - [Spotify Wrapped](https://lostfocus.de/2023/11/29/spotify-wrapped/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I added the OPML file from the App Defaults page to my feedreader because I…](https://lostfocus.de/2023/11/20/231806/)
 - [Week 46, 2023](https://lostfocus.de/2023/11/19/week-46-2023/)
 - [Today is the one year anniversary of my last tweet and I&#39;m still sad.](https://lostfocus.de/2023/11/18/231771/)
-- [There are some days when one needs to turn the passive-aggressive mode to eleven.](https://lostfocus.de/2023/11/14/231791/)
 <!-- POST-LIST:END -->
 
 <!--
