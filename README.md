@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 49, 2023](https://lostfocus.de/2023/12/10/week-49-2023/)
 - [Might be an unpopular take but it sure feels like Mastodon could do with some…](https://lostfocus.de/2023/12/07/231854/)
 - [Good night, sun. See you in sixteen hours.](https://lostfocus.de/2023/12/04/231850/)
 - [Week 48, 2023](https://lostfocus.de/2023/12/03/week-48-2023/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I accidentally bought pre-ground coffee. It is ground way too fine for my liking and…](https://lostfocus.de/2023/11/26/231820/)
 - [Sometimes I tell people about this website and even in 2023 the idea of this…](https://lostfocus.de/2023/11/23/231816/)
 - [I added the OPML file from the App Defaults page to my feedreader because I…](https://lostfocus.de/2023/11/20/231806/)
-- [Week 46, 2023](https://lostfocus.de/2023/11/19/week-46-2023/)
 <!-- POST-LIST:END -->
 
 <!--
