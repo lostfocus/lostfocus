@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Morning Earworm 23: Depresi](https://lostfocus.de/2023/12/16/morning-earworm-23-depresi/)
 - [Okay, I thought I&#39;m getting a bit tired of Otonablue but that &quot;Hyper School Remix&quot;…](https://lostfocus.de/2023/12/13/231878/)
 - [The great thing about that list of best tweets over at The Verge is that…](https://lostfocus.de/2023/12/13/231875/)
 - [jfc I just wanted to post something with a bit more intricate &lpar;lol&rpar; HTML in…](https://lostfocus.de/2023/12/11/231872/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 48, 2023](https://lostfocus.de/2023/12/03/week-48-2023/)
 - [Good god. I have the weirdest phenomenon happening in Factorio and of course it doesn&#39;t…](https://lostfocus.de/2023/12/01/231840/)
 - [Spotify Wrapped](https://lostfocus.de/2023/11/29/spotify-wrapped/)
-- [Week 47, 2023](https://lostfocus.de/2023/11/26/week-47-2023/)
 <!-- POST-LIST:END -->
 
 <!--
