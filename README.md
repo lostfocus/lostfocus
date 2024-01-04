@@ -5,7 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
-- [Doubled my VPNs resources in the hope that my blog can now withstand the pretty…](https://lostfocus.de/2023/12/31/231935/)
+- [Doubled my VPS&#39;s resources in the hope that my blog can now withstand the pretty…](https://lostfocus.de/2023/12/31/231935/)
 - [Yay, I wanted to log into my linkblog using IndieAuth but for some reason that&#39;s…](https://lostfocus.de/2023/12/31/231932/)
 - [Week 52, 2023](https://lostfocus.de/2023/12/31/week-52-2023/)
 - [What newsletter tool might one want to use for a personal newsletter, now that they…](https://lostfocus.de/2023/12/27/231923/)
