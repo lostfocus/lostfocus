@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [There is not much you can absolutely rely on these days. But at least one…](https://lostfocus.de/2024/01/06/231947/)
 - [A clear sign that I haven&#39;t been to work in a while: I was too…](https://lostfocus.de/2024/01/05/231944/)
 - [Doubled my VPS&#39;s resources in the hope that my blog can now withstand the pretty…](https://lostfocus.de/2023/12/31/231935/)
 - [Yay, I wanted to log into my linkblog using IndieAuth but for some reason that&#39;s…](https://lostfocus.de/2023/12/31/231932/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [It&#39;s frankly a bit annoying that I&#39;m now thinking about the order of the links…](https://lostfocus.de/2023/12/26/231897/)
 - [Image](https://lostfocus.de/2023/12/25/231892/)
 - [Week 50, 2023](https://lostfocus.de/2023/12/17/week-50-2023/)
-- [Morning Earworm #23: Depresi](https://lostfocus.de/2023/12/16/morning-earworm-23-depresi/)
 <!-- POST-LIST:END -->
 
 <!--
