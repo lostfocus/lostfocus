@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Like for any old person my Spotify Discover Weekly is only old songs this week.](https://lostfocus.de/2024/01/08/231961/)
 - [Week 1, 2024: A Fresh Start](https://lostfocus.de/2024/01/07/week-1-2024-a-fresh-start/)
 - [Morning Earworm #24: Chase The Sun](https://lostfocus.de/2024/01/07/morning-earworm-24-chase-the-sun/)
 - [There is not much you can absolutely rely on these days. But at least one…](https://lostfocus.de/2024/01/06/231947/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 52, 2023](https://lostfocus.de/2023/12/31/week-52-2023/)
 - [What newsletter tool might one want to use for a personal newsletter, now that they…](https://lostfocus.de/2023/12/27/231923/)
 - [Week 51, 2023](https://lostfocus.de/2023/12/26/week-51-2023/)
-- [It&#39;s frankly a bit annoying that I&#39;m now thinking about the order of the links…](https://lostfocus.de/2023/12/26/231897/)
 <!-- POST-LIST:END -->
 
 <!--
