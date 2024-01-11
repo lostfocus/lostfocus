@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I just posted a &quot;Developers vs Product Managers&quot; meme to the work Slack and I…](https://lostfocus.de/2024/01/10/231968/)
 - [I ran out of coffee and now I am grumpy.](https://lostfocus.de/2024/01/09/231965/)
 - [Like for any old person my Spotify Discover Weekly is only old songs this week.](https://lostfocus.de/2024/01/08/231961/)
 - [Week 1, 2024: A Fresh Start](https://lostfocus.de/2024/01/07/week-1-2024-a-fresh-start/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Doubled my VPS&#39;s resources in the hope that my blog can now withstand the pretty…](https://lostfocus.de/2023/12/31/231935/)
 - [Yay, I wanted to log into my linkblog using IndieAuth but for some reason that&#39;s…](https://lostfocus.de/2023/12/31/231932/)
 - [Week 52, 2023](https://lostfocus.de/2023/12/31/week-52-2023/)
-- [What newsletter tool might one want to use for a personal newsletter, now that they…](https://lostfocus.de/2023/12/27/231923/)
 <!-- POST-LIST:END -->
 
 <!--
