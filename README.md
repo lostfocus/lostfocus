@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Should I up my bathroom game and get one of those little trays for the…](https://lostfocus.de/2024/01/12/231976/)
+- [On the one hand it is good to notice one has written absolutely dumb code…](https://lostfocus.de/2024/01/12/231973/)
+- [Something I might have to do during the weekend: Figure out how I can get…](https://lostfocus.de/2024/01/12/231970/)
 - [I just posted a &quot;Developers vs Product Managers&quot; meme to the work Slack and I…](https://lostfocus.de/2024/01/10/231968/)
 - [I ran out of coffee and now I am grumpy.](https://lostfocus.de/2024/01/09/231965/)
 - [Like for any old person my Spotify Discover Weekly is only old songs this week.](https://lostfocus.de/2024/01/08/231961/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #24: Chase The Sun](https://lostfocus.de/2024/01/07/morning-earworm-24-chase-the-sun/)
 - [There is not much you can absolutely rely on these days. But at least one…](https://lostfocus.de/2024/01/06/231947/)
 - [A clear sign that I haven&#39;t been to work in a while: I was too…](https://lostfocus.de/2024/01/05/231944/)
-- [Doubled my VPS&#39;s resources in the hope that my blog can now withstand the pretty…](https://lostfocus.de/2023/12/31/231935/)
-- [Yay, I wanted to log into my linkblog using IndieAuth but for some reason that&#39;s…](https://lostfocus.de/2023/12/31/231932/)
-- [Week 52, 2023](https://lostfocus.de/2023/12/31/week-52-2023/)
 <!-- POST-LIST:END -->
 
 <!--
