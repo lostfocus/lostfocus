@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 2, 2024: Other People’s Weeknotes](https://lostfocus.de/2024/01/14/week-2-2024/)
 - [Should I up my bathroom game and get one of those little trays for the…](https://lostfocus.de/2024/01/12/231976/)
 - [On the one hand it is good to notice one has written absolutely dumb code…](https://lostfocus.de/2024/01/12/231973/)
 - [Something I might have to do during the weekend: Figure out how I can get…](https://lostfocus.de/2024/01/12/231970/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 1, 2024: A Fresh Start](https://lostfocus.de/2024/01/07/week-1-2024-a-fresh-start/)
 - [Morning Earworm #24: Chase The Sun](https://lostfocus.de/2024/01/07/morning-earworm-24-chase-the-sun/)
 - [There is not much you can absolutely rely on these days. But at least one…](https://lostfocus.de/2024/01/06/231947/)
-- [A clear sign that I haven&#39;t been to work in a while: I was too…](https://lostfocus.de/2024/01/05/231944/)
 <!-- POST-LIST:END -->
 
 <!--
