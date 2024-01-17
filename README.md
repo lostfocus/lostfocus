@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I guess I shouldn&#39;t go for a little drive tonight.](https://lostfocus.de/2024/01/16/232002/)
+- [This 90s Eurodance DJ set is just excellent.](https://lostfocus.de/2024/01/16/231996/)
 - [Oh nice. The client just stumbled on a bug from 2018.](https://lostfocus.de/2024/01/15/231994/)
 - [I haven&#39;t seen a Content Warning on Mastodon in quite a while.](https://lostfocus.de/2024/01/15/231989/)
 - [Week 2, 2024: Other People’s Weeknotes](https://lostfocus.de/2024/01/14/week-2-2024/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Something I might have to do during the weekend: Figure out how I can get…](https://lostfocus.de/2024/01/12/231970/)
 - [I just posted a &quot;Developers vs Product Managers&quot; meme to the work Slack and I…](https://lostfocus.de/2024/01/10/231968/)
 - [I ran out of coffee and now I am grumpy.](https://lostfocus.de/2024/01/09/231965/)
-- [Like for any old person my Spotify Discover Weekly is only old songs this week.](https://lostfocus.de/2024/01/08/231961/)
-- [Week 1, 2024: A Fresh Start](https://lostfocus.de/2024/01/07/week-1-2024-a-fresh-start/)
 <!-- POST-LIST:END -->
 
 <!--
