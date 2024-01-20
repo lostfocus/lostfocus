@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Morning Earworm #26: Heads Will Roll](https://lostfocus.de/2024/01/19/morning-earworm-25-heads-will-roll/)
+- [I just woke up from a dream in which I discussed git branching philosophies and…](https://lostfocus.de/2024/01/19/232021/)
 - [Dear diary, this morning my project manager sent me a calendar entry with the time…](https://lostfocus.de/2024/01/18/232019/)
 - [Morning Earworm #25: Love Will Tear Us Apart](https://lostfocus.de/2024/01/17/morning-earworm-25-love-will-tear-us-apart/)
 - [I guess I shouldn&#39;t go for a little drive tonight.](https://lostfocus.de/2024/01/16/232002/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I haven&#39;t seen a Content Warning on Mastodon in quite a while.](https://lostfocus.de/2024/01/15/231989/)
 - [Week 2, 2024: Other People’s Weeknotes](https://lostfocus.de/2024/01/14/week-2-2024/)
 - [Should I up my bathroom game and get one of those little trays for the…](https://lostfocus.de/2024/01/12/231976/)
-- [On the one hand it is good to notice one has written absolutely dumb code…](https://lostfocus.de/2024/01/12/231973/)
-- [Something I might have to do during the weekend: Figure out how I can get…](https://lostfocus.de/2024/01/12/231970/)
 <!-- POST-LIST:END -->
 
 <!--
