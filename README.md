@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I had a little erfolgserlebnis &lpar;now see, English speaking readers: this is a German word…](https://lostfocus.de/2024/01/22/232038/)
 - [Week 3, 2024: Embarrassing](https://lostfocus.de/2024/01/21/week-3-2024-embarrassing/)
 - [Sometimes I wonder if I should start writing a dream diary. I&#39;m not sure what…](https://lostfocus.de/2024/01/20/232030/)
 - [Morning Earworm #26: Heads Will Roll](https://lostfocus.de/2024/01/19/morning-earworm-25-heads-will-roll/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I guess I shouldn&#39;t go for a little drive tonight.](https://lostfocus.de/2024/01/16/232002/)
 - [This 90s Eurodance DJ set is just excellent.](https://lostfocus.de/2024/01/16/231996/)
 - [Oh nice. The client just stumbled on a bug from 2018.](https://lostfocus.de/2024/01/15/231994/)
-- [I haven&#39;t seen a Content Warning on Mastodon in quite a while.](https://lostfocus.de/2024/01/15/231989/)
 <!-- POST-LIST:END -->
 
 <!--
