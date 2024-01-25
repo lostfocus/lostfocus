@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I treated myself to the ACC GT2 DLC and oh boy, that KTM is good…](https://lostfocus.de/2024/01/24/232046/)
+- [Server-free architecture? You mean desktop software?](https://lostfocus.de/2024/01/24/232044/)
+- [🙂](https://lostfocus.de/2024/01/24/232042/)
 - [I had a little erfolgserlebnis &lpar;now see, English speaking readers: this is a German word…](https://lostfocus.de/2024/01/22/232038/)
 - [Week 3, 2024: Embarrassing](https://lostfocus.de/2024/01/21/week-3-2024-embarrassing/)
 - [Sometimes I wonder if I should start writing a dream diary. I&#39;m not sure what…](https://lostfocus.de/2024/01/20/232030/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I just woke up from a dream in which I discussed git branching philosophies and…](https://lostfocus.de/2024/01/19/232021/)
 - [Dear diary, this morning my project manager sent me a calendar entry with the time…](https://lostfocus.de/2024/01/18/232019/)
 - [Morning Earworm #25: Love Will Tear Us Apart](https://lostfocus.de/2024/01/17/morning-earworm-25-love-will-tear-us-apart/)
-- [I guess I shouldn&#39;t go for a little drive tonight.](https://lostfocus.de/2024/01/16/232002/)
-- [This 90s Eurodance DJ set is just excellent.](https://lostfocus.de/2024/01/16/231996/)
-- [Oh nice. The client just stumbled on a bug from 2018.](https://lostfocus.de/2024/01/15/231994/)
 <!-- POST-LIST:END -->
 
 <!--
