@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 4, 2024: Ball-shaped](https://lostfocus.de/2024/01/28/week-4-2024-ball-shaped/)
 - [I treated myself to the ACC GT2 DLC and oh boy, that KTM is good…](https://lostfocus.de/2024/01/24/232046/)
 - [Server-free architecture? You mean desktop software?](https://lostfocus.de/2024/01/24/232044/)
 - [🙂](https://lostfocus.de/2024/01/24/232042/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #26: Heads Will Roll](https://lostfocus.de/2024/01/19/morning-earworm-25-heads-will-roll/)
 - [I just woke up from a dream in which I discussed git branching philosophies and…](https://lostfocus.de/2024/01/19/232021/)
 - [Dear diary, this morning my project manager sent me a calendar entry with the time…](https://lostfocus.de/2024/01/18/232019/)
-- [Morning Earworm #25: Love Will Tear Us Apart](https://lostfocus.de/2024/01/17/morning-earworm-25-love-will-tear-us-apart/)
 <!-- POST-LIST:END -->
 
 <!--
