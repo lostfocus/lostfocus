@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Morning Earworm #28: Smoko](https://lostfocus.de/2024/02/03/morning-earworm-28-smoko/)
 - [Morning Earworm #27: Live With Dignity](https://lostfocus.de/2024/02/02/morning-earworm-26-live-with-dignity/)
 - [I like to take a little nap during my lunch break. Usually I fall asleep,…](https://lostfocus.de/2024/01/31/232116/)
 - [Sometimes it&#39;s just good fun to write some HTML and CSS.](https://lostfocus.de/2024/01/29/232066/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Server-free architecture? You mean desktop software?](https://lostfocus.de/2024/01/24/232044/)
 - [🙂](https://lostfocus.de/2024/01/24/232042/)
 - [I had a little erfolgserlebnis &lpar;now see, English speaking readers: this is a German word…](https://lostfocus.de/2024/01/22/232038/)
-- [Week 3, 2024: Embarrassing](https://lostfocus.de/2024/01/21/week-3-2024-embarrassing/)
 <!-- POST-LIST:END -->
 
 <!--
