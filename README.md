@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Morning Earworm #29: With Every Heartbeat](https://lostfocus.de/2024/02/07/morning-earworm-29-with-every-heartbeat/)
 - [I should know better than to think &quot;This is going to be a nice calm…](https://lostfocus.de/2024/02/06/232344/)
 - [I know it&#39;s a bit of a meme-game at the moment but Palworld is quite…](https://lostfocus.de/2024/02/04/232337/)
 - [Week 5, 2024: Chinese Spy Pigeon](https://lostfocus.de/2024/02/04/week-5-2024-chinese-spy-pigeon/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Sometimes it&#39;s just good fun to write some HTML and CSS.](https://lostfocus.de/2024/01/29/232066/)
 - [It has been too long since I discovered new music on my Discover Weekly playlist.](https://lostfocus.de/2024/01/29/232060/)
 - [Week 4, 2024: Ball-shaped](https://lostfocus.de/2024/01/28/week-4-2024-ball-shaped/)
-- [I treated myself to the ACC GT2 DLC and oh boy, that KTM is good…](https://lostfocus.de/2024/01/24/232046/)
 <!-- POST-LIST:END -->
 
 <!--
