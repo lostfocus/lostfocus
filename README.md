@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I just realized I have to get up really early tomorrow.](https://lostfocus.de/2024/02/12/232376/)
 - [Week 6, 2024: Hacked! Damd! Old!](https://lostfocus.de/2024/02/11/week-6-2024-hacked-damd-old/)
 - [Morning Earworm #29: With Every Heartbeat](https://lostfocus.de/2024/02/07/morning-earworm-29-with-every-heartbeat/)
 - [I should know better than to think &quot;This is going to be a nice calm…](https://lostfocus.de/2024/02/06/232344/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #27: Live With Dignity](https://lostfocus.de/2024/02/02/morning-earworm-26-live-with-dignity/)
 - [I like to take a little nap during my lunch break. Usually I fall asleep,…](https://lostfocus.de/2024/01/31/232116/)
 - [Sometimes it&#39;s just good fun to write some HTML and CSS.](https://lostfocus.de/2024/01/29/232066/)
-- [It has been too long since I discovered new music on my Discover Weekly playlist.](https://lostfocus.de/2024/01/29/232060/)
 <!-- POST-LIST:END -->
 
 <!--
