@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty. But until I do, here is [my blog](https://lostfocus.de/):
+I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty. But until I do, here is [my blog](https://lostfocus.de/) and [my linkblog](https://dominikschwind.com/links):
 
 --- 
 
