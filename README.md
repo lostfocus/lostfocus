@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The creator economy can&#39;t rely on Patreon.](https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon)
+- [The Infinite WordPress Plugin World](https://jonathanpagel.com/the-infinite-wordpress-plugin-world/)
 - [Maybe I should just schedule meetings all day on Mondays. Apparently it&#39;s not a good…](https://lostfocus.de/2024/02/19/232425/)
+- [On the subject of Connecting Federated Social Media Networks](https://starrwulfe.xyz/2024/02/on-the-subject-of-connecting-federated-social-media-networks/)
 - [Week 7, 2024: Apes and Chatbots](https://lostfocus.de/2024/02/18/week-7-2024-apes-and-chatbots/)
+- [Yep, Apple’s breaking iPhone web apps in the EU](https://www.theverge.com/2024/2/15/24074182/apple-drops-support-iphone-web-apps-eu-dma)
+- [Air Canada&#39;s chatbot gave a B.C. man the wrong information. Now, the airline has to pay for the mistake](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
 - [More than anything I&#39;d like to have LinkedIn on the fediverse. Native or via a…](https://lostfocus.de/2024/02/15/232387/)
 - [Hm.](https://lostfocus.de/2024/02/14/232384/)
 - [Wow, a lot of people take websites a little bit too serious.](https://lostfocus.de/2024/02/14/232382/)
-- [Dear reader: I woke up even earlier than my alarm clock and then I couldn&#39;t…](https://lostfocus.de/2024/02/13/232379/)
-- [I just realized I have to get up really early tomorrow.](https://lostfocus.de/2024/02/12/232376/)
-- [Week 6, 2024: Hacked! Damd! Old!](https://lostfocus.de/2024/02/11/week-6-2024-hacked-damd-old/)
-- [Morning Earworm #29: With Every Heartbeat](https://lostfocus.de/2024/02/07/morning-earworm-29-with-every-heartbeat/)
-- [I should know better than to think &quot;This is going to be a nice calm…](https://lostfocus.de/2024/02/06/232344/)
 <!-- POST-LIST:END -->
 
 <!--
