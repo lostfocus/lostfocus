@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Bluesky: An Open Social Web](https://bsky.social/about/blog/02-22-2024-open-social-web)
+- [Discord took no action against server that coordinated costly Mastodon spam attacks](https://techcrunch.com/2024/02/21/discord-took-no-action-against-server-that-coordinated-costly-mastodon-spam-attacks/?guccounter=1)
+- [Lately &lpar;as in the last six months, I&#39;d guess&rpar; I have really intense dreams every…](https://lostfocus.de/2024/02/22/232442/)
 - [The creator economy can&#39;t rely on Patreon.](https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon)
 - [The Infinite WordPress Plugin World](https://jonathanpagel.com/the-infinite-wordpress-plugin-world/)
 - [Maybe I should just schedule meetings all day on Mondays. Apparently it&#39;s not a good…](https://lostfocus.de/2024/02/19/232425/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 7, 2024: Apes and Chatbots](https://lostfocus.de/2024/02/18/week-7-2024-apes-and-chatbots/)
 - [Yep, Apple’s breaking iPhone web apps in the EU](https://www.theverge.com/2024/2/15/24074182/apple-drops-support-iphone-web-apps-eu-dma)
 - [Air Canada&#39;s chatbot gave a B.C. man the wrong information. Now, the airline has to pay for the mistake](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
-- [More than anything I&#39;d like to have LinkedIn on the fediverse. Native or via a…](https://lostfocus.de/2024/02/15/232387/)
-- [Hm.](https://lostfocus.de/2024/02/14/232384/)
-- [Wow, a lot of people take websites a little bit too serious.](https://lostfocus.de/2024/02/14/232382/)
 <!-- POST-LIST:END -->
 
 <!--
