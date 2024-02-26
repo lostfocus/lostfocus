@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+- [A lot of Redditors hate the Reddit IPO](https://www.theverge.com/2024/2/24/24081441/reddit-shares-redditor-ipo-user-risk)
 - [Please, enough with the dead butterflies! - Emily S. Damstra](https://www.emilydamstra.com/please-enough-dead-butterflies/)
 - [Tattered Banner Ad All That Remains Hanging Over Long-Abandoned Website](https://www.theonion.com/tattered-banner-ad-all-that-remains-hanging-over-long-a-1851267497)
 - [Bluesky: An Open Social Web](https://bsky.social/about/blog/02-22-2024-open-social-web)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The creator economy can&#39;t rely on Patreon.](https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon)
 - [The Infinite WordPress Plugin World](https://jonathanpagel.com/the-infinite-wordpress-plugin-world/)
 - [Maybe I should just schedule meetings all day on Mondays. Apparently it&#39;s not a good…](https://lostfocus.de/2024/02/19/232425/)
-- [On the subject of Connecting Federated Social Media Networks](https://starrwulfe.xyz/2024/02/on-the-subject-of-connecting-federated-social-media-networks/)
-- [Week 7, 2024: Apes and Chatbots](https://lostfocus.de/2024/02/18/week-7-2024-apes-and-chatbots/)
 <!-- POST-LIST:END -->
 
 <!--
