@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Unlikely Career of Pet Shop Boys &amp; &quot;It&#39;s a Sin&quot; I New British Canon](https://www.youtube.com/watch?v=npLtdAuAyw0)
 - [I finally managed to update the PHP Weather libraries to use PSR-17 instead of whatever…](https://lostfocus.de/2024/02/27/232520/)
 - [Tumblr and Wordpress to Sell Users’ Data to Train AI Tools](https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/)
 - [The Making of Top Gear Vietnam Special](https://exploreindochina.com/top-gear-vietnam-special)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The Subversive Hyperlink](https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/)
 - [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 - [A lot of Redditors hate the Reddit IPO](https://www.theverge.com/2024/2/24/24081441/reddit-shares-redditor-ipo-user-risk)
-- [Please, enough with the dead butterflies! - Emily S. Damstra](https://www.emilydamstra.com/please-enough-dead-butterflies/)
 <!-- POST-LIST:END -->
 
 <!--
