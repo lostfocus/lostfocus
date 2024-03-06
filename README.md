@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Facebook, Instagram, and Threads are all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)
+- [Facing reality, whether it&#39;s about Apple or the EU, is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
+- [How Cocaine Trafficking Actually Works](https://www.youtube.com/watch?v=qwRl-2_pHSA)
+- [Morning Earworm #30: Pass This On](https://lostfocus.de/2024/03/05/morning-earworm-30-pass-this-on/)
 - [I might just have database brain but I&#39;m trying to make a file-based CMS work…](https://lostfocus.de/2024/03/04/232551/)
 - [Kottke.org Redesigns With 2024 Vibes](https://kottke.org/24/03/kottkeorg-redesigns-with-2024-vibes)
 - [Photographing the Lost Art of &#39;Hanging Out&#39;](https://www.youtube.com/watch?v=IdVPCNtDLTI)
 - [Week 9, 2024 – The Vibes Are Off](https://lostfocus.de/2024/03/03/week-9-2024-the-vibes-are-off/)
 - [Likes* are the best](https://ausnahmsweise.net/likes-are-the-best/)
 - [Content Nation Backlash Highlights Mastodon&#39;s Toxicity](https://wedistribute.org/2024/03/contentnation-mastodons-toxicity/)
-- [Glasgow’s Sad Oompa Loompa Isn’t Gonna Sugarcoat This](https://www.vulture.com/article/glasgow-sad-oompa-loompa-interview.html)
-- [Apple says iOS 17.4 won’t remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/)
-- [The Automattic &quot;AI&quot; thing](https://tante.cc/2024/02/27/the-automattic-ai-thing/)
-- [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 <!-- POST-LIST:END -->
 
 <!--
