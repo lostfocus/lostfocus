@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Taylor Swift and Singapore put on a masterclass in concert economics](https://qz.com/taylor-swift-singapore-concerts-deal-hong-kong-lionel-m-1851311106)
 - [Facebook, Instagram, and Threads are all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)
 - [Facing reality, whether it&#39;s about Apple or the EU, is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
 - [How Cocaine Trafficking Actually Works](https://www.youtube.com/watch?v=qwRl-2_pHSA)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Photographing the Lost Art of &#39;Hanging Out&#39;](https://www.youtube.com/watch?v=IdVPCNtDLTI)
 - [Week 9, 2024 – The Vibes Are Off](https://lostfocus.de/2024/03/03/week-9-2024-the-vibes-are-off/)
 - [Likes* are the best](https://ausnahmsweise.net/likes-are-the-best/)
-- [Content Nation Backlash Highlights Mastodon&#39;s Toxicity](https://wedistribute.org/2024/03/contentnation-mastodons-toxicity/)
 <!-- POST-LIST:END -->
 
 <!--
