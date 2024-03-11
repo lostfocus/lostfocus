@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [US not hiding aliens or UFO technology from the public, Pentagon says](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)
+- [Week 10, 2024: Cerveza Cristal](https://lostfocus.de/2024/03/10/week-10-2024-cerveza-cristal/)
 - [Taylor Swift and Singapore put on a masterclass in concert economics](https://qz.com/taylor-swift-singapore-concerts-deal-hong-kong-lionel-m-1851311106)
 - [Facebook, Instagram, and Threads are all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)
 - [Facing reality, whether it&#39;s about Apple or the EU, is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I might just have database brain but I&#39;m trying to make a file-based CMS work…](https://lostfocus.de/2024/03/04/232551/)
 - [Kottke.org Redesigns With 2024 Vibes](https://kottke.org/24/03/kottkeorg-redesigns-with-2024-vibes)
 - [Photographing the Lost Art of &#39;Hanging Out&#39;](https://www.youtube.com/watch?v=IdVPCNtDLTI)
-- [Week 9, 2024 – The Vibes Are Off](https://lostfocus.de/2024/03/03/week-9-2024-the-vibes-are-off/)
-- [Likes* are the best](https://ausnahmsweise.net/likes-are-the-best/)
 <!-- POST-LIST:END -->
 
 <!--
