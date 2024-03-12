@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I&#39;m now in my silly Ember mug&#39;s lifecycle where the charger pins aren&#39;t bouncy anymore.…](https://lostfocus.de/2024/03/11/232648/)
+- [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
+- [Mental State of the World Report 2023](https://mentalstateoftheworld.report/)
 - [US not hiding aliens or UFO technology from the public, Pentagon says](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)
 - [Week 10, 2024: Cerveza Cristal](https://lostfocus.de/2024/03/10/week-10-2024-cerveza-cristal/)
 - [Taylor Swift and Singapore put on a masterclass in concert economics](https://qz.com/taylor-swift-singapore-concerts-deal-hong-kong-lionel-m-1851311106)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Facing reality, whether it&#39;s about Apple or the EU, is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
 - [How Cocaine Trafficking Actually Works](https://www.youtube.com/watch?v=qwRl-2_pHSA)
 - [Morning Earworm #30: Pass This On](https://lostfocus.de/2024/03/05/morning-earworm-30-pass-this-on/)
-- [I might just have database brain but I&#39;m trying to make a file-based CMS work…](https://lostfocus.de/2024/03/04/232551/)
-- [Kottke.org Redesigns With 2024 Vibes](https://kottke.org/24/03/kottkeorg-redesigns-with-2024-vibes)
-- [Photographing the Lost Art of &#39;Hanging Out&#39;](https://www.youtube.com/watch?v=IdVPCNtDLTI)
 <!-- POST-LIST:END -->
 
 <!--
