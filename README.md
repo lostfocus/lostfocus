@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Looking at screenshots of the old MovableType backend, I am once again reminded of how…](https://lostfocus.de/2024/03/12/232656/)
 - [I&#39;m now in my silly Ember mug&#39;s lifecycle where the charger pins aren&#39;t bouncy anymore.…](https://lostfocus.de/2024/03/11/232648/)
 - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 - [Mental State of the World Report 2023](https://mentalstateoftheworld.report/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Facebook, Instagram, and Threads are all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)
 - [Facing reality, whether it&#39;s about Apple or the EU, is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
 - [How Cocaine Trafficking Actually Works](https://www.youtube.com/watch?v=qwRl-2_pHSA)
-- [Morning Earworm #30: Pass This On](https://lostfocus.de/2024/03/05/morning-earworm-30-pass-this-on/)
 <!-- POST-LIST:END -->
 
 <!--
