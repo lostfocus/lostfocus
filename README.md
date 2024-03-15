@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Holding Hands with the &quot;Fediverse&quot; – ActivityPub at SFO Museum](https://millsfield.sfomuseum.org/blog/2024/03/12/activitypub/)
+- [You don&#39;t have to be a “content creator” to have a website.](https://ohhelloana.blog/just-get-a-website/)
+- [With all the renewed interest in blogrolls I started to think of adding one as…](https://lostfocus.de/2024/03/14/232667/)
+- [Movable Type and the Rise of WordPress](https://rubenerd.com/movable-type-and-the-rise-of-wordpress/)
 - [I have one of those old MacBook Pros. The one with a touchbar. It is…](https://lostfocus.de/2024/03/13/232664/)
 - [I&#39;m not a big fan of the word &quot;enshittification&quot;](https://lostfocus.de/2024/03/13/232662/)
 - [Looking at screenshots of the old MovableType backend, I am once again reminded of how…](https://lostfocus.de/2024/03/12/232656/)
 - [I&#39;m now in my silly Ember mug&#39;s lifecycle where the charger pins aren&#39;t bouncy anymore.…](https://lostfocus.de/2024/03/11/232648/)
 - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 - [Mental State of the World Report 2023](https://mentalstateoftheworld.report/)
-- [US not hiding aliens or UFO technology from the public, Pentagon says](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)
-- [Week 10, 2024: Cerveza Cristal](https://lostfocus.de/2024/03/10/week-10-2024-cerveza-cristal/)
-- [Taylor Swift and Singapore put on a masterclass in concert economics](https://qz.com/taylor-swift-singapore-concerts-deal-hong-kong-lionel-m-1851311106)
-- [Facebook, Instagram, and Threads are all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)
 <!-- POST-LIST:END -->
 
 <!--
