@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The weird world of altruistic YouTube](https://a.wholelottanothing.org/the-weird-world-of-altruistic-youtube/)
+- [Week 11, 2024: A Thousand Percent](https://lostfocus.de/2024/03/17/week-11-2024-a-thousand-percent/)
 - [Morning Earworm #31: Big City Life](https://lostfocus.de/2024/03/16/morning-earworm-31-big-city-life/)
 - [Alarm clocks are the bane of my existence. I just want to nap in peace.…](https://lostfocus.de/2024/03/15/232675/)
 - [Seeking a first-class Fediverse platform](https://werd.io/2024/seeking-a-first-class-fediverse-platform)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [With all the renewed interest in blogrolls I started to think of adding one as…](https://lostfocus.de/2024/03/14/232667/)
 - [Movable Type and the Rise of WordPress](https://rubenerd.com/movable-type-and-the-rise-of-wordpress/)
 - [I have one of those old MacBook Pros. The one with a touchbar. It is…](https://lostfocus.de/2024/03/13/232664/)
-- [I&#39;m not a big fan of the word &quot;enshittification&quot;](https://lostfocus.de/2024/03/13/232662/)
-- [Looking at screenshots of the old MovableType backend, I am once again reminded of how…](https://lostfocus.de/2024/03/12/232656/)
 <!-- POST-LIST:END -->
 
 <!--
