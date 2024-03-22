@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Right about now I regret my &quot;no coffee after 4pm&quot; rule. I&#39;m not even all…](https://lostfocus.de/2024/03/21/232769/)
+- [Oh.](https://lostfocus.de/2024/03/21/232767/)
 - [Turns out, there is even an option for a very special type of nerd.](https://lostfocus.de/2024/03/20/232693/)
 - [A NEW Trace! The FULL MH370 Story...So Far.](https://www.youtube.com/watch?v=Y5K9HBiJpuk)
 - [How YouTube treats MH370](https://rubenerd.com/how-youtube-treats-mh370/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Occasional paper: When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips/)
 - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
 - [The weird world of altruistic YouTube](https://a.wholelottanothing.org/the-weird-world-of-altruistic-youtube/)
-- [Week 11, 2024: A Thousand Percent](https://lostfocus.de/2024/03/17/week-11-2024-a-thousand-percent/)
-- [Morning Earworm #31: Big City Life](https://lostfocus.de/2024/03/16/morning-earworm-31-big-city-life/)
 <!-- POST-LIST:END -->
 
 <!--
