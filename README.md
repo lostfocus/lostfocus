@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 12, 2024: I Am Sure Everybody Loves Me](https://lostfocus.de/2024/03/24/week-12-2024-i-am-sure-everybody-loves-me/)
 - [RollerCoaster Tycoon at 25: ‘It’s mind-blowing how it inspired me’](https://www.theguardian.com/games/2024/mar/22/rollercoaster-tycoon-at-25-its-mind-blowing-how-it-inspired-me)
 - [Right about now I regret my &quot;no coffee after 4pm&quot; rule. I&#39;m not even all…](https://lostfocus.de/2024/03/21/232769/)
 - [Oh.](https://lostfocus.de/2024/03/21/232767/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Daylight saving time is slightly annoying, especially when it happens on different days in different…](https://lostfocus.de/2024/03/19/232687/)
 - [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
 - [Occasional paper: When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips/)
-- [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
 <!-- POST-LIST:END -->
 
 <!--
