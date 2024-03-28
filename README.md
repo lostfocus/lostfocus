@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Windows 98 Icons are Great](https://alexmeub.com/old-windows-icons/)
+- [Morning Earworm #32: Toryanse](https://lostfocus.de/2024/03/27/morning-earworm-32-toryanse/)
 - [3, 2, 1: YouTube Countdowns use eclectic animation styles to add anticipation to live online events](https://www.itsnicethat.com/features/youtube-countdown-animation-sponsored-content-260324)
 - [Week 12, 2024: I Am Sure Everybody Loves Me](https://lostfocus.de/2024/03/24/week-12-2024-i-am-sure-everybody-loves-me/)
 - [RollerCoaster Tycoon at 25: ‘It’s mind-blowing how it inspired me’](https://www.theguardian.com/games/2024/mar/22/rollercoaster-tycoon-at-25-its-mind-blowing-how-it-inspired-me)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Turns out, there is even an option for a very special type of nerd.](https://lostfocus.de/2024/03/20/232693/)
 - [A NEW Trace! The FULL MH370 Story...So Far.](https://www.youtube.com/watch?v=Y5K9HBiJpuk)
 - [How YouTube treats MH370](https://rubenerd.com/how-youtube-treats-mh370/)
-- [Daylight saving time is slightly annoying, especially when it happens on different days in different…](https://lostfocus.de/2024/03/19/232687/)
-- [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
 <!-- POST-LIST:END -->
 
 <!--
