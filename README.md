@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Spring](https://lostfocus.de/2024/03/28/232808/)
 - [Windows 98 Icons are Great](https://alexmeub.com/old-windows-icons/)
 - [Morning Earworm #32: Toryanse](https://lostfocus.de/2024/03/27/morning-earworm-32-toryanse/)
 - [3, 2, 1: YouTube Countdowns use eclectic animation styles to add anticipation to live online events](https://www.itsnicethat.com/features/youtube-countdown-animation-sponsored-content-260324)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Oh.](https://lostfocus.de/2024/03/21/232767/)
 - [Turns out, there is even an option for a very special type of nerd.](https://lostfocus.de/2024/03/20/232693/)
 - [A NEW Trace! The FULL MH370 Story...So Far.](https://www.youtube.com/watch?v=Y5K9HBiJpuk)
-- [How YouTube treats MH370](https://rubenerd.com/how-youtube-treats-mh370/)
 <!-- POST-LIST:END -->
 
 <!--
