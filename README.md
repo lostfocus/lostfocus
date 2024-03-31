@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
+- [Image](https://lostfocus.de/2024/03/30/232815/)
+- [001 - THE BEST](https://www.youtube.com/watch?v=O3ZQM0M0S0k)
 - [Spring](https://lostfocus.de/2024/03/28/232808/)
 - [Windows 98 Icons are Great](https://alexmeub.com/old-windows-icons/)
 - [Morning Earworm #32: Toryanse](https://lostfocus.de/2024/03/27/morning-earworm-32-toryanse/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 12, 2024: I Am Sure Everybody Loves Me](https://lostfocus.de/2024/03/24/week-12-2024-i-am-sure-everybody-loves-me/)
 - [RollerCoaster Tycoon at 25: ‘It’s mind-blowing how it inspired me’](https://www.theguardian.com/games/2024/mar/22/rollercoaster-tycoon-at-25-its-mind-blowing-how-it-inspired-me)
 - [Right about now I regret my &quot;no coffee after 4pm&quot; rule. I&#39;m not even all…](https://lostfocus.de/2024/03/21/232769/)
-- [Oh.](https://lostfocus.de/2024/03/21/232767/)
-- [Turns out, there is even an option for a very special type of nerd.](https://lostfocus.de/2024/03/20/232693/)
-- [A NEW Trace! The FULL MH370 Story...So Far.](https://www.youtube.com/watch?v=Y5K9HBiJpuk)
 <!-- POST-LIST:END -->
 
 <!--
