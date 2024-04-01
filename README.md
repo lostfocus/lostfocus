@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 13, 2024: Eggs! Z?](https://lostfocus.de/2024/03/31/week-13-2024-eggs-z/)
 - [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
 - [Image](https://lostfocus.de/2024/03/30/232815/)
 - [001 - THE BEST](https://www.youtube.com/watch?v=O3ZQM0M0S0k)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [3, 2, 1: YouTube Countdowns use eclectic animation styles to add anticipation to live online events](https://www.itsnicethat.com/features/youtube-countdown-animation-sponsored-content-260324)
 - [Week 12, 2024: I Am Sure Everybody Loves Me](https://lostfocus.de/2024/03/24/week-12-2024-i-am-sure-everybody-loves-me/)
 - [RollerCoaster Tycoon at 25: ‘It’s mind-blowing how it inspired me’](https://www.theguardian.com/games/2024/mar/22/rollercoaster-tycoon-at-25-its-mind-blowing-how-it-inspired-me)
-- [Right about now I regret my &quot;no coffee after 4pm&quot; rule. I&#39;m not even all…](https://lostfocus.de/2024/03/21/232769/)
 <!-- POST-LIST:END -->
 
 <!--
