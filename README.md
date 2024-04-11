@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Writing a web-first resumé](https://werd.io/2024/writing-a-web-first-resum%C3%A9)
 - [All in all I&#39;m not super impressed with how my blog looks like without CSS…](https://lostfocus.de/2024/04/09/232847/)
 - [It&#39;s CSS Naked Day! And if &lpar;big if&rpar; my if works properly, you should see…](https://lostfocus.de/2024/04/08/232838/)
 - [Making version noir](https://anhvn.com/posts/2024/making-version-noir/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Image](https://lostfocus.de/2024/03/30/232815/)
 - [001 - THE BEST](https://www.youtube.com/watch?v=O3ZQM0M0S0k)
 - [Spring](https://lostfocus.de/2024/03/28/232808/)
-- [Windows 98 Icons are Great](https://alexmeub.com/old-windows-icons/)
 <!-- POST-LIST:END -->
 
 <!--
