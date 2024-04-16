@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Worst Product I&#39;ve Ever Reviewed... For Now](https://www.youtube.com/watch?v=TitZV6k8zfA)
+- [Lessons from my Linux fun on Mastodon](https://rubenerd.com/lessons-from-my-linux-fun-on-mastodon/)
 - [Week 15, 2024](https://lostfocus.de/2024/04/14/week-15-2024/)
 - [OpenAI Training Bot Crawls &#39;World&#39;s Lamest Content Farm&#39; 3 Million Times in One Day](https://www.404media.co/openai-training-bot-crawls-worlds-lamest-content-farm-3-million-times-in-one-day/)
 - [Huh. My MacBook battery completely drained over night. How peculiar.](https://lostfocus.de/2024/04/12/232857/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [It&#39;s CSS Naked Day! And if &lpar;big if&rpar; my if works properly, you should see…](https://lostfocus.de/2024/04/08/232838/)
 - [Making version noir](https://anhvn.com/posts/2024/making-version-noir/)
 - [Week 14, 2024: Calima](https://lostfocus.de/2024/04/07/week-14-2024-calima/)
-- [Week 13, 2024: Eggs! Z?](https://lostfocus.de/2024/03/31/week-13-2024-eggs-z/)
-- [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
 <!-- POST-LIST:END -->
 
 <!--
