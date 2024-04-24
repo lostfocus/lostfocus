@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I know I still owe you some weeknotes. I&#39;ll get to it once I caught…](https://lostfocus.de/2024/04/23/232870/)
 - [The Worst Product I&#39;ve Ever Reviewed... For Now](https://www.youtube.com/watch?v=TitZV6k8zfA)
 - [Lessons from my Linux fun on Mastodon](https://rubenerd.com/lessons-from-my-linux-fun-on-mastodon/)
 - [Week 15, 2024](https://lostfocus.de/2024/04/14/week-15-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [All in all I&#39;m not super impressed with how my blog looks like without CSS…](https://lostfocus.de/2024/04/09/232847/)
 - [It&#39;s CSS Naked Day! And if &lpar;big if&rpar; my if works properly, you should see…](https://lostfocus.de/2024/04/08/232838/)
 - [Making version noir](https://anhvn.com/posts/2024/making-version-noir/)
-- [Week 14, 2024: Calima](https://lostfocus.de/2024/04/07/week-14-2024-calima/)
 <!-- POST-LIST:END -->
 
 <!--
