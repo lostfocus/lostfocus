@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
+- [Week 16-ish, 2024](https://lostfocus.de/2024/04/24/week-16-ish-2024/)
 - [I know I still owe you some weeknotes. I&#39;ll get to it once I caught…](https://lostfocus.de/2024/04/23/232870/)
 - [The Worst Product I&#39;ve Ever Reviewed... For Now](https://www.youtube.com/watch?v=TitZV6k8zfA)
 - [Lessons from my Linux fun on Mastodon](https://rubenerd.com/lessons-from-my-linux-fun-on-mastodon/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Huh. My MacBook battery completely drained over night. How peculiar.](https://lostfocus.de/2024/04/12/232857/)
 - [Writing a web-first resumé](https://werd.io/2024/writing-a-web-first-resum%C3%A9)
 - [All in all I&#39;m not super impressed with how my blog looks like without CSS…](https://lostfocus.de/2024/04/09/232847/)
-- [It&#39;s CSS Naked Day! And if &lpar;big if&rpar; my if works properly, you should see…](https://lostfocus.de/2024/04/08/232838/)
-- [Making version noir](https://anhvn.com/posts/2024/making-version-noir/)
 <!-- POST-LIST:END -->
 
 <!--
