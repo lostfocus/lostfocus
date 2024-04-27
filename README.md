@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I just yolo-ed a server update here without any backups. Looks like everything works again,…](https://lostfocus.de/2024/04/26/232883/)
 - [On heavy rotation now: DJ Baby Glow&#39;s H.A.H #13 &lpar; DNB NEVER DIE!!! &rpar; -…](https://lostfocus.de/2024/04/25/232876/)
 - [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
 - [Week 16-ish, 2024](https://lostfocus.de/2024/04/24/week-16-ish-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 15, 2024](https://lostfocus.de/2024/04/14/week-15-2024/)
 - [OpenAI Training Bot Crawls &#39;World&#39;s Lamest Content Farm&#39; 3 Million Times in One Day](https://www.404media.co/openai-training-bot-crawls-worlds-lamest-content-farm-3-million-times-in-one-day/)
 - [Huh. My MacBook battery completely drained over night. How peculiar.](https://lostfocus.de/2024/04/12/232857/)
-- [Writing a web-first resumé](https://werd.io/2024/writing-a-web-first-resum%C3%A9)
 <!-- POST-LIST:END -->
 
 <!--
