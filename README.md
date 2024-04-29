@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 17, 2024](https://lostfocus.de/2024/04/28/week-17-2024/)
+- [Is it just me or does MySQL 8 need a lot more RAM than MySQL…](https://lostfocus.de/2024/04/28/232886/)
 - [I just yolo-ed a server update here without any backups. Looks like everything works again,…](https://lostfocus.de/2024/04/26/232883/)
 - [On heavy rotation now: DJ Baby Glow&#39;s H.A.H #13 &lpar; DNB NEVER DIE!!! &rpar; -…](https://lostfocus.de/2024/04/25/232876/)
 - [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The Worst Product I&#39;ve Ever Reviewed... For Now](https://www.youtube.com/watch?v=TitZV6k8zfA)
 - [Lessons from my Linux fun on Mastodon](https://rubenerd.com/lessons-from-my-linux-fun-on-mastodon/)
 - [Week 15, 2024](https://lostfocus.de/2024/04/14/week-15-2024/)
-- [OpenAI Training Bot Crawls &#39;World&#39;s Lamest Content Farm&#39; 3 Million Times in One Day](https://www.404media.co/openai-training-bot-crawls-worlds-lamest-content-farm-3-million-times-in-one-day/)
-- [Huh. My MacBook battery completely drained over night. How peculiar.](https://lostfocus.de/2024/04/12/232857/)
 <!-- POST-LIST:END -->
 
 <!--
