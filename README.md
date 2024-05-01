@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Morning Earworm #33: Duality](https://lostfocus.de/2024/04/30/morning-earworm-33-duality/)
 - [Insta360 Asks People To Hide Sponsorships, So I Dropped Them.](https://www.youtube.com/watch?v=5GuO7AWJl5o)
 - [Long Lost Song Hunted By Thousands Found in 80s Porno](https://www.404media.co/ekt-everyone-knows-that-song-ulterior-motives-christopher-booth-porn/)
 - [Huh.](https://lostfocus.de/2024/04/29/232893/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [On heavy rotation now: DJ Baby Glow&#39;s H.A.H #13 &lpar; DNB NEVER DIE!!! &rpar; -…](https://lostfocus.de/2024/04/25/232876/)
 - [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
 - [Week 16-ish, 2024](https://lostfocus.de/2024/04/24/week-16-ish-2024/)
-- [I know I still owe you some weeknotes. I&#39;ll get to it once I caught…](https://lostfocus.de/2024/04/23/232870/)
 <!-- POST-LIST:END -->
 
 <!--
