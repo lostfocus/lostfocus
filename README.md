@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Oh.](https://lostfocus.de/2024/05/07/232909/)
 - [Week 18, 2024](https://lostfocus.de/2024/05/06/week-18-2024/)
 - [Morning Earworm #33: Duality](https://lostfocus.de/2024/04/30/morning-earworm-33-duality/)
 - [Insta360 Asks People To Hide Sponsorships, So I Dropped Them.](https://www.youtube.com/watch?v=5GuO7AWJl5o)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Is it just me or does MySQL 8 need a lot more RAM than MySQL…](https://lostfocus.de/2024/04/28/232886/)
 - [I just yolo-ed a server update here without any backups. Looks like everything works again,…](https://lostfocus.de/2024/04/26/232883/)
 - [On heavy rotation now: DJ Baby Glow&#39;s H.A.H #13 &lpar; DNB NEVER DIE!!! &rpar; -…](https://lostfocus.de/2024/04/25/232876/)
-- [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
 <!-- POST-LIST:END -->
 
 <!--
