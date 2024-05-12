@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Do quick notes work on personal websites?](https://lostfocus.de/2024/05/11/232914/)
+- [I want it all but, it is impossible](https://ohhelloana.blog/i-want-it-all/)
 - [Oh.](https://lostfocus.de/2024/05/07/232909/)
 - [Week 18, 2024](https://lostfocus.de/2024/05/06/week-18-2024/)
 - [Morning Earworm #33: Duality](https://lostfocus.de/2024/04/30/morning-earworm-33-duality/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Huh.](https://lostfocus.de/2024/04/29/232893/)
 - [Week 17, 2024](https://lostfocus.de/2024/04/28/week-17-2024/)
 - [Is it just me or does MySQL 8 need a lot more RAM than MySQL…](https://lostfocus.de/2024/04/28/232886/)
-- [I just yolo-ed a server update here without any backups. Looks like everything works again,…](https://lostfocus.de/2024/04/26/232883/)
-- [On heavy rotation now: DJ Baby Glow&#39;s H.A.H #13 &lpar; DNB NEVER DIE!!! &rpar; -…](https://lostfocus.de/2024/04/25/232876/)
 <!-- POST-LIST:END -->
 
 <!--
