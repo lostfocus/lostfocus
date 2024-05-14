@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 19, 2024](https://lostfocus.de/2024/05/13/week-19-2024/)
 - [Custom ActivityPub WordPress avatar](https://lostfocus.de/2024/05/12/custom-activitypub-wordpress-avatar/)
 - [Morning Earworm #34: Freed From Desire](https://lostfocus.de/2024/05/12/morning-earworm-34-freed-from-desire/)
 - [Do quick notes work on personal websites?](https://lostfocus.de/2024/05/11/232914/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #33: Duality](https://lostfocus.de/2024/04/30/morning-earworm-33-duality/)
 - [Insta360 Asks People To Hide Sponsorships, So I Dropped Them.](https://www.youtube.com/watch?v=5GuO7AWJl5o)
 - [Long Lost Song Hunted By Thousands Found in 80s Porno](https://www.404media.co/ekt-everyone-knows-that-song-ulterior-motives-christopher-booth-porn/)
-- [Huh.](https://lostfocus.de/2024/04/29/232893/)
 <!-- POST-LIST:END -->
 
 <!--
