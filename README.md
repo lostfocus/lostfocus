@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Spectacular Failure of the Star Wars Hotel](https://www.youtube.com/watch?v=T0CpOYZZZW4)
 - [I really need a Tripit alternative. WTF.](https://lostfocus.de/2024/05/16/232938/)
 - [Brane Dump: &quot;Is This Project Still Maintained?&quot;](https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html)
 - [Week 19, 2024](https://lostfocus.de/2024/05/13/week-19-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I want it all but, it is impossible](https://ohhelloana.blog/i-want-it-all/)
 - [Oh.](https://lostfocus.de/2024/05/07/232909/)
 - [Week 18, 2024](https://lostfocus.de/2024/05/06/week-18-2024/)
-- [Morning Earworm #33: Duality](https://lostfocus.de/2024/04/30/morning-earworm-33-duality/)
 <!-- POST-LIST:END -->
 
 <!--
