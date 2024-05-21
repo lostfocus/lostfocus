@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Social norms of the IndieWeb: followup from Homebrew Website Club – Tracy Durnell](https://tracydurnell.com/2024/05/18/social-norms-of-the-indieweb/)
+- [Week 20, 2024](https://lostfocus.de/2024/05/20/week-20-2024/)
 - [The Spectacular Failure of the Star Wars Hotel](https://www.youtube.com/watch?v=T0CpOYZZZW4)
 - [I really need a Tripit alternative. WTF.](https://lostfocus.de/2024/05/16/232938/)
 - [Brane Dump: &quot;Is This Project Still Maintained?&quot;](https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #34: Freed From Desire](https://lostfocus.de/2024/05/12/morning-earworm-34-freed-from-desire/)
 - [Do quick notes work on personal websites?](https://lostfocus.de/2024/05/11/232914/)
 - [I want it all but, it is impossible](https://ohhelloana.blog/i-want-it-all/)
-- [Oh.](https://lostfocus.de/2024/05/07/232909/)
-- [Week 18, 2024](https://lostfocus.de/2024/05/06/week-18-2024/)
 <!-- POST-LIST:END -->
 
 <!--
