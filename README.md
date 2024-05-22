@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Usually I take a little nap around this time. &lpar;noon-ish&rpar; But that&#39;s also the time…](https://lostfocus.de/2024/05/21/232949/)
 - [Social norms of the IndieWeb: followup from Homebrew Website Club – Tracy Durnell](https://tracydurnell.com/2024/05/18/social-norms-of-the-indieweb/)
 - [Week 20, 2024](https://lostfocus.de/2024/05/20/week-20-2024/)
 - [The Spectacular Failure of the Star Wars Hotel](https://www.youtube.com/watch?v=T0CpOYZZZW4)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Custom ActivityPub WordPress avatar](https://lostfocus.de/2024/05/12/custom-activitypub-wordpress-avatar/)
 - [Morning Earworm #34: Freed From Desire](https://lostfocus.de/2024/05/12/morning-earworm-34-freed-from-desire/)
 - [Do quick notes work on personal websites?](https://lostfocus.de/2024/05/11/232914/)
-- [I want it all but, it is impossible](https://ohhelloana.blog/i-want-it-all/)
 <!-- POST-LIST:END -->
 
 <!--
