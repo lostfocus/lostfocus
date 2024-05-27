@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 21, 2024](https://lostfocus.de/2024/05/26/week-21-2024/)
 - [Google Is Paying Reddit $60 Million for Fucksmith to Tell Its Users to Eat Glue](https://www.404media.co/google-is-paying-reddit-60-million-for-fucksmith-to-tell-its-users-to-eat-glue/)
 - [Generative AI is for the idea guys](https://rachsmith.com/ai-is-for-the-idea-guys/)
 - [So, if I&#39;d theoretically want to replace my aging Raspberry Pi with a Mini-PC with…](https://lostfocus.de/2024/05/23/232954/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Usually I take a little nap around this time. &lpar;noon-ish&rpar; But that&#39;s also the time…](https://lostfocus.de/2024/05/21/232949/)
 - [Social norms of the IndieWeb: followup from Homebrew Website Club – Tracy Durnell](https://tracydurnell.com/2024/05/18/social-norms-of-the-indieweb/)
 - [Week 20, 2024](https://lostfocus.de/2024/05/20/week-20-2024/)
-- [The Spectacular Failure of the Star Wars Hotel](https://www.youtube.com/watch?v=T0CpOYZZZW4)
 <!-- POST-LIST:END -->
 
 <!--
