@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Modern WordPress - Yikes!](https://dbushell.com/2024/05/07/modern-wordpress-themes-yikes/)
+- [Molly White](https://www.mollywhite.net/micro/entry/202405281105)
+- [Google AI said to put glue in pizza — so I made a pizza with glue and ate it](https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5)
 - [I didn&#39;t even know that the re:publica is happening this week. Which in a nice…](https://lostfocus.de/2024/05/28/232973/)
 - [Trust](https://adactio.com/journal/21160)
 - [Week 21, 2024](https://lostfocus.de/2024/05/26/week-21-2024/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Generative AI is for the idea guys](https://rachsmith.com/ai-is-for-the-idea-guys/)
 - [So, if I&#39;d theoretically want to replace my aging Raspberry Pi with a Mini-PC with…](https://lostfocus.de/2024/05/23/232954/)
 - [Takes spread like wildfire](https://json.blog/2024/05/21/takes-spread-like.html)
-- [Slash Pages](https://rknight.me/blog/slash-pages/)
-- [Protocols, platforms and priorities](https://paulrobertlloyd.com/2024/143/a1/protocols/)
-- [Usually I take a little nap around this time. &lpar;noon-ish&rpar; But that&#39;s also the time…](https://lostfocus.de/2024/05/21/232949/)
 <!-- POST-LIST:END -->
 
 <!--
