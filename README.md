@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Image](https://lostfocus.de/2024/06/01/232984/)
 - [Modern WordPress - Yikes!](https://dbushell.com/2024/05/07/modern-wordpress-themes-yikes/)
 - [Molly White](https://www.mollywhite.net/micro/entry/202405281105)
 - [Google AI said to put glue in pizza — so I made a pizza with glue and ate it](https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Google Is Paying Reddit $60 Million for Fucksmith to Tell Its Users to Eat Glue](https://www.404media.co/google-is-paying-reddit-60-million-for-fucksmith-to-tell-its-users-to-eat-glue/)
 - [Generative AI is for the idea guys](https://rachsmith.com/ai-is-for-the-idea-guys/)
 - [So, if I&#39;d theoretically want to replace my aging Raspberry Pi with a Mini-PC with…](https://lostfocus.de/2024/05/23/232954/)
-- [Takes spread like wildfire](https://json.blog/2024/05/21/takes-spread-like.html)
 <!-- POST-LIST:END -->
 
 <!--
