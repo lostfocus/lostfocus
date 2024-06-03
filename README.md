@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 22, 2024](https://lostfocus.de/2024/06/02/week-22-2024/)
+- [How social networks prey on our longing to be known](https://janmaarten.com/polywork/)
 - [Image](https://lostfocus.de/2024/06/01/232984/)
 - [Modern WordPress - Yikes!](https://dbushell.com/2024/05/07/modern-wordpress-themes-yikes/)
 - [Molly White](https://www.mollywhite.net/micro/entry/202405281105)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Trust](https://adactio.com/journal/21160)
 - [Week 21, 2024](https://lostfocus.de/2024/05/26/week-21-2024/)
 - [Google Is Paying Reddit $60 Million for Fucksmith to Tell Its Users to Eat Glue](https://www.404media.co/google-is-paying-reddit-60-million-for-fucksmith-to-tell-its-users-to-eat-glue/)
-- [Generative AI is for the idea guys](https://rachsmith.com/ai-is-for-the-idea-guys/)
-- [So, if I&#39;d theoretically want to replace my aging Raspberry Pi with a Mini-PC with…](https://lostfocus.de/2024/05/23/232954/)
 <!-- POST-LIST:END -->
 
 <!--
