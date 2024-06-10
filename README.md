@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 23, 2024](https://lostfocus.de/2024/06/09/week-23-2024/)
 - [That was good fun](https://lostfocus.de/2024/06/07/233014/)
 - [Bartender has a new owner](https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/)
 - [Could be worse](https://lostfocus.de/2024/06/04/233002/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Image](https://lostfocus.de/2024/06/01/232984/)
 - [Modern WordPress - Yikes!](https://dbushell.com/2024/05/07/modern-wordpress-themes-yikes/)
 - [Molly White](https://www.mollywhite.net/micro/entry/202405281105)
-- [Google AI said to put glue in pizza — so I made a pizza with glue and ate it](https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5)
 <!-- POST-LIST:END -->
 
 <!--
