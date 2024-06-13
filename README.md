@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Sometimes things are weird and there&#39;s nothing you can do about it.](https://lostfocus.de/2024/06/12/233026/)
 - [Guide — Air Travel Design Guide](https://airtraveldesign.guide/Guide)
 - [Week 23, 2024](https://lostfocus.de/2024/06/09/week-23-2024/)
 - [That was good fun](https://lostfocus.de/2024/06/07/233014/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 22, 2024](https://lostfocus.de/2024/06/02/week-22-2024/)
 - [How social networks prey on our longing to be known](https://janmaarten.com/polywork/)
 - [Image](https://lostfocus.de/2024/06/01/232984/)
-- [Modern WordPress - Yikes!](https://dbushell.com/2024/05/07/modern-wordpress-themes-yikes/)
 <!-- POST-LIST:END -->
 
 <!--
