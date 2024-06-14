@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Hm.](https://lostfocus.de/2024/06/13/233028/)
 - [Sometimes things are weird and there&#39;s nothing you can do about it.](https://lostfocus.de/2024/06/12/233026/)
 - [Guide — Air Travel Design Guide](https://airtraveldesign.guide/Guide)
 - [Week 23, 2024](https://lostfocus.de/2024/06/09/week-23-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Do you know what time it is? It is clobbering time!](https://lostfocus.de/2024/06/04/232998/)
 - [Week 22, 2024](https://lostfocus.de/2024/06/02/week-22-2024/)
 - [How social networks prey on our longing to be known](https://janmaarten.com/polywork/)
-- [Image](https://lostfocus.de/2024/06/01/232984/)
 <!-- POST-LIST:END -->
 
 <!--
