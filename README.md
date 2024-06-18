@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Pentax 17 is a New Half-Frame Film Camera Two Years in the Making](https://petapixel.com/2024/06/17/the-pentax-17-is-a-new-half-frame-film-camera-two-years-in-the-making/)
+- [Week 24, 2024](https://lostfocus.de/2024/06/17/week-24-2024/)
+- [Berlin June 2024](https://lostfocus.de/2024/06/17/berlin-june-2024/)
 - [Hm.](https://lostfocus.de/2024/06/13/233028/)
 - [Sometimes things are weird and there&#39;s nothing you can do about it.](https://lostfocus.de/2024/06/12/233026/)
 - [Guide — Air Travel Design Guide](https://airtraveldesign.guide/Guide)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [That was good fun](https://lostfocus.de/2024/06/07/233014/)
 - [Bartender has a new owner](https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/)
 - [Could be worse](https://lostfocus.de/2024/06/04/233002/)
-- [Do you know what time it is? It is clobbering time!](https://lostfocus.de/2024/06/04/232998/)
-- [Week 22, 2024](https://lostfocus.de/2024/06/02/week-22-2024/)
-- [How social networks prey on our longing to be known](https://janmaarten.com/polywork/)
 <!-- POST-LIST:END -->
 
 <!--
