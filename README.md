@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I built an electronic Etch-A-Sketch without a microcontroller](https://www.youtube.com/watch?v=eHLM9lPs-2A)
 - [There&#39;s something rotten in the kingdom of Wordpress](https://www.baldurbjarnason.com/2024/rotten-wordpress/)
 - [Oh, wow: There’s something rotten in the kingdom of WordPress](https://lostfocus.de/2024/06/18/233053/)
 - [The Pentax 17 is a New Half-Frame Film Camera Two Years in the Making](https://petapixel.com/2024/06/17/the-pentax-17-is-a-new-half-frame-film-camera-two-years-in-the-making/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Sometimes things are weird and there&#39;s nothing you can do about it.](https://lostfocus.de/2024/06/12/233026/)
 - [Guide — Air Travel Design Guide](https://airtraveldesign.guide/Guide)
 - [Week 23, 2024](https://lostfocus.de/2024/06/09/week-23-2024/)
-- [That was good fun](https://lostfocus.de/2024/06/07/233014/)
 <!-- POST-LIST:END -->
 
 <!--
