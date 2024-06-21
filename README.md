@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I Will Fucking Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
 - [I built an electronic Etch-A-Sketch without a microcontroller](https://www.youtube.com/watch?v=eHLM9lPs-2A)
 - [There&#39;s something rotten in the kingdom of Wordpress](https://www.baldurbjarnason.com/2024/rotten-wordpress/)
 - [Oh, wow: There’s something rotten in the kingdom of WordPress](https://lostfocus.de/2024/06/18/233053/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Hm.](https://lostfocus.de/2024/06/13/233028/)
 - [Sometimes things are weird and there&#39;s nothing you can do about it.](https://lostfocus.de/2024/06/12/233026/)
 - [Guide — Air Travel Design Guide](https://airtraveldesign.guide/Guide)
-- [Week 23, 2024](https://lostfocus.de/2024/06/09/week-23-2024/)
 <!-- POST-LIST:END -->
 
 <!--
