@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 25, 2024](https://lostfocus.de/2024/06/23/week-25-2024/)
 - [Image](https://lostfocus.de/2024/06/21/233058/)
 - [I Will Fucking Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
 - [I built an electronic Etch-A-Sketch without a microcontroller](https://www.youtube.com/watch?v=eHLM9lPs-2A)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 24, 2024](https://lostfocus.de/2024/06/17/week-24-2024/)
 - [Berlin June 2024](https://lostfocus.de/2024/06/17/berlin-june-2024/)
 - [Hm.](https://lostfocus.de/2024/06/13/233028/)
-- [Sometimes things are weird and there&#39;s nothing you can do about it.](https://lostfocus.de/2024/06/12/233026/)
 <!-- POST-LIST:END -->
 
 <!--
