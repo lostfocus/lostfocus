@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 26, 2024](https://lostfocus.de/2024/06/30/week-26-2024/)
 - [If you had any illusion about my general intelligence: I had a terrible night because…](https://lostfocus.de/2024/06/24/233086/)
 - [Week 25, 2024](https://lostfocus.de/2024/06/23/week-25-2024/)
 - [Image](https://lostfocus.de/2024/06/21/233058/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Oh, wow: There’s something rotten in the kingdom of WordPress](https://lostfocus.de/2024/06/18/233053/)
 - [The Pentax 17 is a New Half-Frame Film Camera Two Years in the Making](https://petapixel.com/2024/06/17/the-pentax-17-is-a-new-half-frame-film-camera-two-years-in-the-making/)
 - [Week 24, 2024](https://lostfocus.de/2024/06/17/week-24-2024/)
-- [Berlin June 2024](https://lostfocus.de/2024/06/17/berlin-june-2024/)
 <!-- POST-LIST:END -->
 
 <!--
