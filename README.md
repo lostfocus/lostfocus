@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Morning Earworm #35: Bling‐Bang‐Bang‐Born](https://lostfocus.de/2024/07/04/morning-earworm-35-bling%e2%80%90bang%e2%80%90bang%e2%80%90born/)
 - [Week 26, 2024](https://lostfocus.de/2024/06/30/week-26-2024/)
 - [If you had any illusion about my general intelligence: I had a terrible night because…](https://lostfocus.de/2024/06/24/233086/)
 - [Week 25, 2024](https://lostfocus.de/2024/06/23/week-25-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [There&#39;s something rotten in the kingdom of Wordpress](https://www.baldurbjarnason.com/2024/rotten-wordpress/)
 - [Oh, wow: There’s something rotten in the kingdom of WordPress](https://lostfocus.de/2024/06/18/233053/)
 - [The Pentax 17 is a New Half-Frame Film Camera Two Years in the Making](https://petapixel.com/2024/06/17/the-pentax-17-is-a-new-half-frame-film-camera-two-years-in-the-making/)
-- [Week 24, 2024](https://lostfocus.de/2024/06/17/week-24-2024/)
 <!-- POST-LIST:END -->
 
 <!--
