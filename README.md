@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [&quot;Immersive research into the everyday lives of normal people conducted by the actor Kevin Bacon…](https://lostfocus.de/2024/07/05/233110/)
+- [An alarmingly concise and very hinged summary of what it was like to build this site from scratch](https://gkeenan.co/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch/)
 - [Morning Earworm #35: Bling‐Bang‐Bang‐Born](https://lostfocus.de/2024/07/04/morning-earworm-35-bling%e2%80%90bang%e2%80%90bang%e2%80%90born/)
 - [Week 26, 2024](https://lostfocus.de/2024/06/30/week-26-2024/)
 - [If you had any illusion about my general intelligence: I had a terrible night because…](https://lostfocus.de/2024/06/24/233086/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I Will Fucking Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
 - [I built an electronic Etch-A-Sketch without a microcontroller](https://www.youtube.com/watch?v=eHLM9lPs-2A)
 - [There&#39;s something rotten in the kingdom of Wordpress](https://www.baldurbjarnason.com/2024/rotten-wordpress/)
-- [Oh, wow: There’s something rotten in the kingdom of WordPress](https://lostfocus.de/2024/06/18/233053/)
-- [The Pentax 17 is a New Half-Frame Film Camera Two Years in the Making](https://petapixel.com/2024/06/17/the-pentax-17-is-a-new-half-frame-film-camera-two-years-in-the-making/)
 <!-- POST-LIST:END -->
 
 <!--
