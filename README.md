@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Interconnected](https://lostfocus.de/2024/07/06/interconnected-7/)
 - [&quot;Immersive research into the everyday lives of normal people conducted by the actor Kevin Bacon…](https://lostfocus.de/2024/07/05/233110/)
 - [An alarmingly concise and very hinged summary of what it was like to build this site from scratch](https://gkeenan.co/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch/)
 - [Morning Earworm #35: Bling‐Bang‐Bang‐Born](https://lostfocus.de/2024/07/04/morning-earworm-35-bling%e2%80%90bang%e2%80%90bang%e2%80%90born/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Image](https://lostfocus.de/2024/06/21/233058/)
 - [I Will Fucking Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
 - [I built an electronic Etch-A-Sketch without a microcontroller](https://www.youtube.com/watch?v=eHLM9lPs-2A)
-- [There&#39;s something rotten in the kingdom of Wordpress](https://www.baldurbjarnason.com/2024/rotten-wordpress/)
 <!-- POST-LIST:END -->
 
 <!--
