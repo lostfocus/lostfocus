@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [ActivityPub paper cuts](https://www.manton.org/2024/07/07/activitypub-paper-cuts.html)
+- [Week 27, 2024](https://lostfocus.de/2024/07/07/week-27-2024/)
 - [Interconnected](https://lostfocus.de/2024/07/06/interconnected-7/)
 - [&quot;Immersive research into the everyday lives of normal people conducted by the actor Kevin Bacon…](https://lostfocus.de/2024/07/05/233110/)
 - [An alarmingly concise and very hinged summary of what it was like to build this site from scratch](https://gkeenan.co/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [If you had any illusion about my general intelligence: I had a terrible night because…](https://lostfocus.de/2024/06/24/233086/)
 - [Week 25, 2024](https://lostfocus.de/2024/06/23/week-25-2024/)
 - [Image](https://lostfocus.de/2024/06/21/233058/)
-- [I Will Fucking Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
-- [I built an electronic Etch-A-Sketch without a microcontroller](https://www.youtube.com/watch?v=eHLM9lPs-2A)
 <!-- POST-LIST:END -->
 
 <!--
