@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Petit Rhin](https://lostfocus.de/2024/07/08/233132/)
 - [ActivityPub paper cuts](https://www.manton.org/2024/07/07/activitypub-paper-cuts.html)
 - [Week 27, 2024](https://lostfocus.de/2024/07/07/week-27-2024/)
 - [Interconnected](https://lostfocus.de/2024/07/06/interconnected-7/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 26, 2024](https://lostfocus.de/2024/06/30/week-26-2024/)
 - [If you had any illusion about my general intelligence: I had a terrible night because…](https://lostfocus.de/2024/06/24/233086/)
 - [Week 25, 2024](https://lostfocus.de/2024/06/23/week-25-2024/)
-- [Image](https://lostfocus.de/2024/06/21/233058/)
 <!-- POST-LIST:END -->
 
 <!--
