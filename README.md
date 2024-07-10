@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I might need to think about the fact that multiple coworkers sent me this screenshot…](https://lostfocus.de/2024/07/09/233140/)
 - [Petit Rhin](https://lostfocus.de/2024/07/08/233132/)
 - [ActivityPub paper cuts](https://www.manton.org/2024/07/07/activitypub-paper-cuts.html)
 - [Week 27, 2024](https://lostfocus.de/2024/07/07/week-27-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #35: Bling‐Bang‐Bang‐Born](https://lostfocus.de/2024/07/04/morning-earworm-35-bling%e2%80%90bang%e2%80%90bang%e2%80%90born/)
 - [Week 26, 2024](https://lostfocus.de/2024/06/30/week-26-2024/)
 - [If you had any illusion about my general intelligence: I had a terrible night because…](https://lostfocus.de/2024/06/24/233086/)
-- [Week 25, 2024](https://lostfocus.de/2024/06/23/week-25-2024/)
 <!-- POST-LIST:END -->
 
 <!--
