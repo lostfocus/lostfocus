@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [My Glorious Ascension To Thought Leadership](https://ludic.mataroa.blog/blog/my-glorious-ascension-to-thought-leadership/)
 - [I might need to think about the fact that multiple coworkers sent me this screenshot…](https://lostfocus.de/2024/07/09/233140/)
 - [Petit Rhin](https://lostfocus.de/2024/07/08/233132/)
 - [ActivityPub paper cuts](https://www.manton.org/2024/07/07/activitypub-paper-cuts.html)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [An alarmingly concise and very hinged summary of what it was like to build this site from scratch](https://gkeenan.co/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch/)
 - [Morning Earworm #35: Bling‐Bang‐Bang‐Born](https://lostfocus.de/2024/07/04/morning-earworm-35-bling%e2%80%90bang%e2%80%90bang%e2%80%90born/)
 - [Week 26, 2024](https://lostfocus.de/2024/06/30/week-26-2024/)
-- [If you had any illusion about my general intelligence: I had a terrible night because…](https://lostfocus.de/2024/06/24/233086/)
 <!-- POST-LIST:END -->
 
 <!--
