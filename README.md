@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Daminik](https://lostfocus.de/2024/07/12/daminik/)
+- [The problem with having blogged a long time and running the &quot;Years Ago Today&quot; plugin…](https://lostfocus.de/2024/07/12/233149/)
+- [Morning Earworm #36: Saltwater](https://lostfocus.de/2024/07/12/morning-earworm-36-saltwater/)
 - [My Glorious Ascension To Thought Leadership](https://ludic.mataroa.blog/blog/my-glorious-ascension-to-thought-leadership/)
 - [I might need to think about the fact that multiple coworkers sent me this screenshot…](https://lostfocus.de/2024/07/09/233140/)
 - [Petit Rhin](https://lostfocus.de/2024/07/08/233132/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 27, 2024](https://lostfocus.de/2024/07/07/week-27-2024/)
 - [Interconnected](https://lostfocus.de/2024/07/06/interconnected-7/)
 - [&quot;Immersive research into the everyday lives of normal people conducted by the actor Kevin Bacon…](https://lostfocus.de/2024/07/05/233110/)
-- [An alarmingly concise and very hinged summary of what it was like to build this site from scratch](https://gkeenan.co/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch/)
-- [Morning Earworm #35: Bling‐Bang‐Bang‐Born](https://lostfocus.de/2024/07/04/morning-earworm-35-bling%e2%80%90bang%e2%80%90bang%e2%80%90born/)
-- [Week 26, 2024](https://lostfocus.de/2024/06/30/week-26-2024/)
 <!-- POST-LIST:END -->
 
 <!--
