@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 28, 2024](https://lostfocus.de/2024/07/14/week-28-2024/)
 - [Daminik](https://lostfocus.de/2024/07/12/daminik/)
 - [The problem with having blogged a long time and running the &quot;Years Ago Today&quot; plugin…](https://lostfocus.de/2024/07/12/233149/)
 - [Morning Earworm #36: Saltwater](https://lostfocus.de/2024/07/12/morning-earworm-36-saltwater/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [ActivityPub paper cuts](https://www.manton.org/2024/07/07/activitypub-paper-cuts.html)
 - [Week 27, 2024](https://lostfocus.de/2024/07/07/week-27-2024/)
 - [Interconnected](https://lostfocus.de/2024/07/06/interconnected-7/)
-- [&quot;Immersive research into the everyday lives of normal people conducted by the actor Kevin Bacon…](https://lostfocus.de/2024/07/05/233110/)
 <!-- POST-LIST:END -->
 
 <!--
