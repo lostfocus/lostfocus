@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Everybody&#39;s Free &lpar;To Write Websites&rpar;](https://sarajoy.dev/blog/write-websites/)
 - [Week 28, 2024](https://lostfocus.de/2024/07/14/week-28-2024/)
 - [Daminik](https://lostfocus.de/2024/07/12/daminik/)
 - [The problem with having blogged a long time and running the &quot;Years Ago Today&quot; plugin…](https://lostfocus.de/2024/07/12/233149/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Petit Rhin](https://lostfocus.de/2024/07/08/233132/)
 - [ActivityPub paper cuts](https://www.manton.org/2024/07/07/activitypub-paper-cuts.html)
 - [Week 27, 2024](https://lostfocus.de/2024/07/07/week-27-2024/)
-- [Interconnected](https://lostfocus.de/2024/07/06/interconnected-7/)
 <!-- POST-LIST:END -->
 
 <!--
