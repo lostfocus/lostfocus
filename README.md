@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [20 Books: Men At Arms](https://lostfocus.de/2024/07/22/20-books-men-at-arms/)
 - [Week 29, 2024](https://lostfocus.de/2024/07/21/week-29-2024/)
 - [20 Books: Großer-Tiger und Christian](https://lostfocus.de/2024/07/21/20-books-groser-tiger-und-christian/)
 - [Everybody&#39;s Free &lpar;To Write Websites&rpar;](https://sarajoy.dev/blog/write-websites/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #36: Saltwater](https://lostfocus.de/2024/07/12/morning-earworm-36-saltwater/)
 - [My Glorious Ascension To Thought Leadership](https://ludic.mataroa.blog/blog/my-glorious-ascension-to-thought-leadership/)
 - [I might need to think about the fact that multiple coworkers sent me this screenshot…](https://lostfocus.de/2024/07/09/233140/)
-- [Petit Rhin](https://lostfocus.de/2024/07/08/233132/)
 <!-- POST-LIST:END -->
 
 <!--
