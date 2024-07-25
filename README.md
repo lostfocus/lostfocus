@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [20 Books: Die schönsten Sagen des Klassischen Altertums](https://lostfocus.de/2024/07/24/20-books-die-schonsten-sagen-des-klassischen-altertums/)
+- [Sometimes I wake up with little patience and today is one of those days. This…](https://lostfocus.de/2024/07/24/233176/)
 - [I&#39;m now unsubscribing from all blogs that use AI generated images in their posts. I…](https://lostfocus.de/2024/07/23/233172/)
 - [20 Books: Diercke Weltatlas](https://lostfocus.de/2024/07/23/20-books-diercke-weltatlas/)
 - [20 Books: Men At Arms](https://lostfocus.de/2024/07/22/20-books-men-at-arms/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Everybody&#39;s Free &lpar;To Write Websites&rpar;](https://sarajoy.dev/blog/write-websites/)
 - [Week 28, 2024](https://lostfocus.de/2024/07/14/week-28-2024/)
 - [Daminik](https://lostfocus.de/2024/07/12/daminik/)
-- [The problem with having blogged a long time and running the &quot;Years Ago Today&quot; plugin…](https://lostfocus.de/2024/07/12/233149/)
-- [Morning Earworm #36: Saltwater](https://lostfocus.de/2024/07/12/morning-earworm-36-saltwater/)
 <!-- POST-LIST:END -->
 
 <!--
