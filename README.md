@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [20 Books: Jurassic Park](https://lostfocus.de/2024/07/27/20-books-jurassic-park/)
 - [20 Books: Access für Windows 95 – Das Kompendium](https://lostfocus.de/2024/07/26/20-books-access-fur-windows-95-das-kompendium/)
 - [20 Books: Gepäckschein 666](https://lostfocus.de/2024/07/25/20-books-gepackschein-666/)
 - [20 Books: Die schönsten Sagen des Klassischen Altertums](https://lostfocus.de/2024/07/24/20-books-die-schonsten-sagen-des-klassischen-altertums/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [20 Books: Men At Arms](https://lostfocus.de/2024/07/22/20-books-men-at-arms/)
 - [Week 29, 2024](https://lostfocus.de/2024/07/21/week-29-2024/)
 - [20 Books: Großer-Tiger und Christian](https://lostfocus.de/2024/07/21/20-books-groser-tiger-und-christian/)
-- [Everybody&#39;s Free &lpar;To Write Websites&rpar;](https://sarajoy.dev/blog/write-websites/)
 <!-- POST-LIST:END -->
 
 <!--
