@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [20 Books: designing with web standards](https://lostfocus.de/2024/07/30/20-books-designing-with-web-standards/)
 - [20 Books: Death on the Nile](https://lostfocus.de/2024/07/29/20-books-death-on-the-nile/)
 - [Week 30, 2024](https://lostfocus.de/2024/07/28/week-30-2024/)
 - [20 Books: Neuromancer](https://lostfocus.de/2024/07/28/20-books-neuromancer/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [20 Books: Die schönsten Sagen des Klassischen Altertums](https://lostfocus.de/2024/07/24/20-books-die-schonsten-sagen-des-klassischen-altertums/)
 - [Sometimes I wake up with little patience and today is one of those days. This…](https://lostfocus.de/2024/07/24/233176/)
 - [I&#39;m now unsubscribing from all blogs that use AI generated images in their posts. I…](https://lostfocus.de/2024/07/23/233172/)
-- [20 Books: Diercke Weltatlas](https://lostfocus.de/2024/07/23/20-books-diercke-weltatlas/)
 <!-- POST-LIST:END -->
 
 <!--
