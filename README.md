@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [20 Books: Astrid Lindgren](https://lostfocus.de/2024/08/01/20-books-astrid-lindgren/)
 - [Canon’s Solar-Powered Camera - Sure Shot DelSol](https://www.youtube.com/watch?v=MDcpKXHjd2Q)
 - [20 Books: Richard Scarry](https://lostfocus.de/2024/07/31/20-books-richard-scarry/)
 - [20 Books: designing with web standards](https://lostfocus.de/2024/07/30/20-books-designing-with-web-standards/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [20 Books: Jurassic Park](https://lostfocus.de/2024/07/27/20-books-jurassic-park/)
 - [20 Books: Access für Windows 95 – Das Kompendium](https://lostfocus.de/2024/07/26/20-books-access-fur-windows-95-das-kompendium/)
 - [20 Books: Gepäckschein 666](https://lostfocus.de/2024/07/25/20-books-gepackschein-666/)
-- [20 Books: Die schönsten Sagen des Klassischen Altertums](https://lostfocus.de/2024/07/24/20-books-die-schonsten-sagen-des-klassischen-altertums/)
 <!-- POST-LIST:END -->
 
 <!--
