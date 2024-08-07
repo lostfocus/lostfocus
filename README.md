@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 31, 2024](https://lostfocus.de/2024/08/06/week-31-2024/)
 - [20 Books: The Adventures of Sherlock Holmes](https://lostfocus.de/2024/08/02/20-books-the-adventures-of-sherlock-holmes/)
 - [20 Books: Astrid Lindgren](https://lostfocus.de/2024/08/01/20-books-astrid-lindgren/)
 - [Canon’s Solar-Powered Camera - Sure Shot DelSol](https://www.youtube.com/watch?v=MDcpKXHjd2Q)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 30, 2024](https://lostfocus.de/2024/07/28/week-30-2024/)
 - [20 Books: Neuromancer](https://lostfocus.de/2024/07/28/20-books-neuromancer/)
 - [20 Books: Jurassic Park](https://lostfocus.de/2024/07/27/20-books-jurassic-park/)
-- [20 Books: Access für Windows 95 – Das Kompendium](https://lostfocus.de/2024/07/26/20-books-access-fur-windows-95-das-kompendium/)
 <!-- POST-LIST:END -->
 
 <!--
