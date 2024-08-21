@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 33, 2024](https://lostfocus.de/2024/08/20/week-33-2024/)
 - [Week 32, 2024](https://lostfocus.de/2024/08/12/week-32-2024/)
 - [Week 31, 2024](https://lostfocus.de/2024/08/06/week-31-2024/)
 - [20 Books: The Adventures of Sherlock Holmes](https://lostfocus.de/2024/08/02/20-books-the-adventures-of-sherlock-holmes/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [20 Books: designing with web standards](https://lostfocus.de/2024/07/30/20-books-designing-with-web-standards/)
 - [20 Books: Death on the Nile](https://lostfocus.de/2024/07/29/20-books-death-on-the-nile/)
 - [Week 30, 2024](https://lostfocus.de/2024/07/28/week-30-2024/)
-- [20 Books: Neuromancer](https://lostfocus.de/2024/07/28/20-books-neuromancer/)
 <!-- POST-LIST:END -->
 
 <!--
