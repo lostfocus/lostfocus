@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 34, 2024](https://lostfocus.de/2024/08/25/week-34-2024/)
 - [I&#39;m just documenting this for myself later on: I&#39;m trying to draw on a png…](https://lostfocus.de/2024/08/24/233231/)
 - [The Wild Story of the Lonely Planet: From a Honeymoon Trip to a $200 Million Empire](https://www.youtube.com/watch?v=we19S7tJoSE)
 - [Week 33, 2024](https://lostfocus.de/2024/08/20/week-33-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [20 Books: Astrid Lindgren](https://lostfocus.de/2024/08/01/20-books-astrid-lindgren/)
 - [Canon’s Solar-Powered Camera - Sure Shot DelSol](https://www.youtube.com/watch?v=MDcpKXHjd2Q)
 - [20 Books: Richard Scarry](https://lostfocus.de/2024/07/31/20-books-richard-scarry/)
-- [20 Books: designing with web standards](https://lostfocus.de/2024/07/30/20-books-designing-with-web-standards/)
 <!-- POST-LIST:END -->
 
 <!--
