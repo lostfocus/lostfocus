@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Oh, WordPress](https://lostfocus.de/2024/08/28/oh-wordpress/)
 - [It took me way too long but this page is finally part of the IndieWeb…](https://lostfocus.de/2024/08/27/233245/)
 - [Week 34, 2024](https://lostfocus.de/2024/08/25/week-34-2024/)
 - [I&#39;m just documenting this for myself later on: I&#39;m trying to draw on a png…](https://lostfocus.de/2024/08/24/233231/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 31, 2024](https://lostfocus.de/2024/08/06/week-31-2024/)
 - [20 Books: The Adventures of Sherlock Holmes](https://lostfocus.de/2024/08/02/20-books-the-adventures-of-sherlock-holmes/)
 - [20 Books: Astrid Lindgren](https://lostfocus.de/2024/08/01/20-books-astrid-lindgren/)
-- [Canon’s Solar-Powered Camera - Sure Shot DelSol](https://www.youtube.com/watch?v=MDcpKXHjd2Q)
 <!-- POST-LIST:END -->
 
 <!--
