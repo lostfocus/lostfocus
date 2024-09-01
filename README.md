@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [NSFW on the IndieWeb](https://www.lazaruscorporation.co.uk/blogs/artists-notebook/posts/nsfw-on-the-indieweb)
 - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 - [Oh, WordPress](https://lostfocus.de/2024/08/28/oh-wordpress/)
 - [It took me way too long but this page is finally part of the IndieWeb…](https://lostfocus.de/2024/08/27/233245/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 33, 2024](https://lostfocus.de/2024/08/20/week-33-2024/)
 - [Week 32, 2024](https://lostfocus.de/2024/08/12/week-32-2024/)
 - [Week 31, 2024](https://lostfocus.de/2024/08/06/week-31-2024/)
-- [20 Books: The Adventures of Sherlock Holmes](https://lostfocus.de/2024/08/02/20-books-the-adventures-of-sherlock-holmes/)
 <!-- POST-LIST:END -->
 
 <!--
