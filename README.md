@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Apparently the right answer to &quot;I like your blog, I&#39;ve had it in my feed…](https://lostfocus.de/2024/09/03/233254/)
 - [NSFW on the IndieWeb](https://www.lazaruscorporation.co.uk/blogs/artists-notebook/posts/nsfw-on-the-indieweb)
 - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 - [Oh, WordPress](https://lostfocus.de/2024/08/28/oh-wordpress/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The Wild Story of the Lonely Planet: From a Honeymoon Trip to a $200 Million Empire](https://www.youtube.com/watch?v=we19S7tJoSE)
 - [Week 33, 2024](https://lostfocus.de/2024/08/20/week-33-2024/)
 - [Week 32, 2024](https://lostfocus.de/2024/08/12/week-32-2024/)
-- [Week 31, 2024](https://lostfocus.de/2024/08/06/week-31-2024/)
 <!-- POST-LIST:END -->
 
 <!--
