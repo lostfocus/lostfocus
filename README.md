@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 36, 2024](https://lostfocus.de/2024/09/08/week-36-2024/)
 - [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
 - [Week 35, 2024](https://lostfocus.de/2024/09/05/week-35-2024/)
 - [Morning Earworm #37: Lecon Studios](https://lostfocus.de/2024/09/05/morning-earworm-37-lecon-studios/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Oh, WordPress](https://lostfocus.de/2024/08/28/oh-wordpress/)
 - [It took me way too long but this page is finally part of the IndieWeb…](https://lostfocus.de/2024/08/27/233245/)
 - [Week 34, 2024](https://lostfocus.de/2024/08/25/week-34-2024/)
-- [I&#39;m just documenting this for myself later on: I&#39;m trying to draw on a png…](https://lostfocus.de/2024/08/24/233231/)
 <!-- POST-LIST:END -->
 
 <!--
