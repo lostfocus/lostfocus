@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Goodbye.Domains](https://goodbye.domains/)
+- [It&#39;s wild how much the sudden switch from summer to autumn impacts my mood this…](https://lostfocus.de/2024/09/10/233253/)
+- [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
 - [Week 36, 2024](https://lostfocus.de/2024/09/08/week-36-2024/)
 - [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
 - [Week 35, 2024](https://lostfocus.de/2024/09/05/week-35-2024/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Apparently the right answer to &quot;I like your blog, I&#39;ve had it in my feed…](https://lostfocus.de/2024/09/03/233254/)
 - [NSFW on the IndieWeb](https://www.lazaruscorporation.co.uk/blogs/artists-notebook/posts/nsfw-on-the-indieweb)
 - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
-- [Oh, WordPress](https://lostfocus.de/2024/08/28/oh-wordpress/)
-- [It took me way too long but this page is finally part of the IndieWeb…](https://lostfocus.de/2024/08/27/233245/)
-- [Week 34, 2024](https://lostfocus.de/2024/08/25/week-34-2024/)
 <!-- POST-LIST:END -->
 
 <!--
