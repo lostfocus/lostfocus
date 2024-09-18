@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Friends and/or Family](https://lostfocus.de/2024/09/17/friends-and-or-family/)
+- [Week 37, 2024](https://lostfocus.de/2024/09/17/week-37-2024/)
 - [Goodbye.Domains](https://goodbye.domains/)
 - [It&#39;s wild how much the sudden switch from summer to autumn impacts my mood this…](https://lostfocus.de/2024/09/10/233253/)
 - [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 35, 2024](https://lostfocus.de/2024/09/05/week-35-2024/)
 - [Morning Earworm #37: Lecon Studios](https://lostfocus.de/2024/09/05/morning-earworm-37-lecon-studios/)
 - [Apparently the right answer to &quot;I like your blog, I&#39;ve had it in my feed…](https://lostfocus.de/2024/09/03/233254/)
-- [NSFW on the IndieWeb](https://www.lazaruscorporation.co.uk/blogs/artists-notebook/posts/nsfw-on-the-indieweb)
-- [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 <!-- POST-LIST:END -->
 
 <!--
