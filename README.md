@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Nobody wants to use any software](https://www.characterworks.co/blog/nobody-wants-to-use-any-software)
+- [Week 38, 2024](https://lostfocus.de/2024/09/22/week-38-2024/)
 - [Friends and/or Family](https://lostfocus.de/2024/09/17/friends-and-or-family/)
 - [Week 37, 2024](https://lostfocus.de/2024/09/17/week-37-2024/)
 - [Goodbye.Domains](https://goodbye.domains/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 36, 2024](https://lostfocus.de/2024/09/08/week-36-2024/)
 - [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
 - [Week 35, 2024](https://lostfocus.de/2024/09/05/week-35-2024/)
-- [Morning Earworm #37: Lecon Studios](https://lostfocus.de/2024/09/05/morning-earworm-37-lecon-studios/)
-- [Apparently the right answer to &quot;I like your blog, I&#39;ve had it in my feed…](https://lostfocus.de/2024/09/03/233254/)
 <!-- POST-LIST:END -->
 
 <!--
