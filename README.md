@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Looks like I really need to expedite my move away from wordpress. Christ, what an…](https://lostfocus.de/2024/09/26/233288/)
 - [Nobody wants to use any software](https://www.characterworks.co/blog/nobody-wants-to-use-any-software)
 - [Week 38, 2024](https://lostfocus.de/2024/09/22/week-38-2024/)
 - [Friends and/or Family](https://lostfocus.de/2024/09/17/friends-and-or-family/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
 - [Week 36, 2024](https://lostfocus.de/2024/09/08/week-36-2024/)
 - [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
-- [Week 35, 2024](https://lostfocus.de/2024/09/05/week-35-2024/)
 <!-- POST-LIST:END -->
 
 <!--
