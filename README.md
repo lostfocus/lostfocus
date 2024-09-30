@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 39, 2024](https://lostfocus.de/2024/09/29/week-39-2024/)
+- [If WordPress is to survive, Matt Mullenweg must be removed](https://joshcollinsworth.com/blog/fire-matt)
 - [Looks like I really need to expedite my move away from wordpress. Christ, what an…](https://lostfocus.de/2024/09/26/233288/)
 - [Nobody wants to use any software](https://www.characterworks.co/blog/nobody-wants-to-use-any-software)
 - [Week 38, 2024](https://lostfocus.de/2024/09/22/week-38-2024/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Goodbye.Domains](https://goodbye.domains/)
 - [It&#39;s wild how much the sudden switch from summer to autumn impacts my mood this…](https://lostfocus.de/2024/09/10/233253/)
 - [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
-- [Week 36, 2024](https://lostfocus.de/2024/09/08/week-36-2024/)
-- [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
 <!-- POST-LIST:END -->
 
 <!--
