@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [In German we have the aphorism &quot;Kleine Sünden straft der liebe Gott sofort&quot; - &quot;God…](https://lostfocus.de/2024/09/30/233302/)
+- [マキシマム ザ ホルモン 『シミ feat.新しい学校のリーダーズ』&lpar;MV Special Ver.&rpar; Music Video](https://www.youtube.com/watch?v=teRgh01Xb1U)
 - [Week 39, 2024](https://lostfocus.de/2024/09/29/week-39-2024/)
 - [If WordPress is to survive, Matt Mullenweg must be removed](https://joshcollinsworth.com/blog/fire-matt)
 - [Looks like I really need to expedite my move away from wordpress. Christ, what an…](https://lostfocus.de/2024/09/26/233288/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Friends and/or Family](https://lostfocus.de/2024/09/17/friends-and-or-family/)
 - [Week 37, 2024](https://lostfocus.de/2024/09/17/week-37-2024/)
 - [Goodbye.Domains](https://goodbye.domains/)
-- [It&#39;s wild how much the sudden switch from summer to autumn impacts my mood this…](https://lostfocus.de/2024/09/10/233253/)
-- [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
 <!-- POST-LIST:END -->
 
 <!--
