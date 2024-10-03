@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [22](https://lostfocus.de/2024/10/02/232976/)
 - [In German we have the aphorism &quot;Kleine Sünden straft der liebe Gott sofort&quot; - &quot;God…](https://lostfocus.de/2024/09/30/233302/)
 - [マキシマム ザ ホルモン 『シミ feat.新しい学校のリーダーズ』&lpar;MV Special Ver.&rpar; Music Video](https://www.youtube.com/watch?v=teRgh01Xb1U)
 - [Week 39, 2024](https://lostfocus.de/2024/09/29/week-39-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 38, 2024](https://lostfocus.de/2024/09/22/week-38-2024/)
 - [Friends and/or Family](https://lostfocus.de/2024/09/17/friends-and-or-family/)
 - [Week 37, 2024](https://lostfocus.de/2024/09/17/week-37-2024/)
-- [Goodbye.Domains](https://goodbye.domains/)
 <!-- POST-LIST:END -->
 
 <!--
