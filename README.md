@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The ‘WordPress’ fight is now a lawsuit](https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg)
 - [22](https://lostfocus.de/2024/10/02/232976/)
 - [In German we have the aphorism &quot;Kleine Sünden straft der liebe Gott sofort&quot; - &quot;God…](https://lostfocus.de/2024/09/30/233302/)
 - [マキシマム ザ ホルモン 『シミ feat.新しい学校のリーダーズ』&lpar;MV Special Ver.&rpar; Music Video](https://www.youtube.com/watch?v=teRgh01Xb1U)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Nobody wants to use any software](https://www.characterworks.co/blog/nobody-wants-to-use-any-software)
 - [Week 38, 2024](https://lostfocus.de/2024/09/22/week-38-2024/)
 - [Friends and/or Family](https://lostfocus.de/2024/09/17/friends-and-or-family/)
-- [Week 37, 2024](https://lostfocus.de/2024/09/17/week-37-2024/)
 <!-- POST-LIST:END -->
 
 <!--
