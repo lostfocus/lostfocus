@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [“Nice Guy” Matt Mullenweg, CEO of WordPress.com Cries Foul and Threatens Me With Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
+- [159 employees are leaving Automattic as CEO&#39;s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 - [The ‘WordPress’ fight is now a lawsuit](https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg)
 - [22](https://lostfocus.de/2024/10/02/232976/)
 - [In German we have the aphorism &quot;Kleine Sünden straft der liebe Gott sofort&quot; - &quot;God…](https://lostfocus.de/2024/09/30/233302/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [If WordPress is to survive, Matt Mullenweg must be removed](https://joshcollinsworth.com/blog/fire-matt)
 - [Looks like I really need to expedite my move away from wordpress. Christ, what an…](https://lostfocus.de/2024/09/26/233288/)
 - [Nobody wants to use any software](https://www.characterworks.co/blog/nobody-wants-to-use-any-software)
-- [Week 38, 2024](https://lostfocus.de/2024/09/22/week-38-2024/)
-- [Friends and/or Family](https://lostfocus.de/2024/09/17/friends-and-or-family/)
 <!-- POST-LIST:END -->
 
 <!--
