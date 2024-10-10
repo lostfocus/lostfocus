@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [‘The Community Is In Chaos:’ WordPress.org Now Requires You Denounce Affiliation With WP Engine To Log In](https://www.404media.co/wordpress-checkbox-login-wp-engine/)
 - [Week 40, 2024](https://lostfocus.de/2024/10/06/week-40-2024/)
 - [“Nice Guy” Matt Mullenweg, CEO of WordPress.com Cries Foul and Threatens Me With Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
 - [159 employees are leaving Automattic as CEO&#39;s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [マキシマム ザ ホルモン 『シミ feat.新しい学校のリーダーズ』&lpar;MV Special Ver.&rpar; Music Video](https://www.youtube.com/watch?v=teRgh01Xb1U)
 - [Week 39, 2024](https://lostfocus.de/2024/09/29/week-39-2024/)
 - [If WordPress is to survive, Matt Mullenweg must be removed](https://joshcollinsworth.com/blog/fire-matt)
-- [Looks like I really need to expedite my move away from wordpress. Christ, what an…](https://lostfocus.de/2024/09/26/233288/)
 <!-- POST-LIST:END -->
 
 <!--
