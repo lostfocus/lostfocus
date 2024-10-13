@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [There Is Some Reality TV–Level Drama Happening at WordPress Right Now](https://slate.com/technology/2024/10/wordpress-wpengine-matt-mullenweg-drama-explained.html)
 - [‘The Community Is In Chaos:’ WordPress.org Now Requires You Denounce Affiliation With WP Engine To Log In](https://www.404media.co/wordpress-checkbox-login-wp-engine/)
 - [Week 40, 2024](https://lostfocus.de/2024/10/06/week-40-2024/)
 - [“Nice Guy” Matt Mullenweg, CEO of WordPress.com Cries Foul and Threatens Me With Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [In German we have the aphorism &quot;Kleine Sünden straft der liebe Gott sofort&quot; - &quot;God…](https://lostfocus.de/2024/09/30/233302/)
 - [マキシマム ザ ホルモン 『シミ feat.新しい学校のリーダーズ』&lpar;MV Special Ver.&rpar; Music Video](https://www.youtube.com/watch?v=teRgh01Xb1U)
 - [Week 39, 2024](https://lostfocus.de/2024/09/29/week-39-2024/)
-- [If WordPress is to survive, Matt Mullenweg must be removed](https://joshcollinsworth.com/blog/fire-matt)
 <!-- POST-LIST:END -->
 
 <!--
