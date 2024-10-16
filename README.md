@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I&#39;m kinda bummed that I never really got into writing a diary. Even though I…](https://lostfocus.de/2024/10/15/233326/)
 - [Timeline of the WordPress Drama](https://duerrenberger.dev/blog/2024/10/08/timeline-of-the-wordpress-drama/)
 - [The secrets of Inflight Entertainment you never asked about...](https://www.youtube.com/watch?v=VrqbMA_hACk)
 - [Week 41, 2024](https://lostfocus.de/2024/10/13/week-41-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 40, 2024](https://lostfocus.de/2024/10/06/week-40-2024/)
 - [“Nice Guy” Matt Mullenweg, CEO of WordPress.com Cries Foul and Threatens Me With Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
 - [159 employees are leaving Automattic as CEO&#39;s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
-- [The ‘WordPress’ fight is now a lawsuit](https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg)
 <!-- POST-LIST:END -->
 
 <!--
