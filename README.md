@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Is Matt Mullenweg defending WordPress or sabotaging it?](https://torment-nexus.mathewingram.com/is-matt-mullenweg-defending-wordpress-or-sabotaging-it/)
+- [Employees Describe an Environment of Paranoia and Fear Inside Automattic Over WordPress Chaos](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
 - [I&#39;m kinda bummed that I never really got into writing a diary. Even though I…](https://lostfocus.de/2024/10/15/233326/)
 - [Timeline of the WordPress Drama](https://duerrenberger.dev/blog/2024/10/08/timeline-of-the-wordpress-drama/)
 - [The secrets of Inflight Entertainment you never asked about...](https://www.youtube.com/watch?v=VrqbMA_hACk)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [There Is Some Reality TV–Level Drama Happening at WordPress Right Now](https://slate.com/technology/2024/10/wordpress-wpengine-matt-mullenweg-drama-explained.html)
 - [‘The Community Is In Chaos:’ WordPress.org Now Requires You Denounce Affiliation With WP Engine To Log In](https://www.404media.co/wordpress-checkbox-login-wp-engine/)
 - [Week 40, 2024](https://lostfocus.de/2024/10/06/week-40-2024/)
-- [“Nice Guy” Matt Mullenweg, CEO of WordPress.com Cries Foul and Threatens Me With Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
-- [159 employees are leaving Automattic as CEO&#39;s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 <!-- POST-LIST:END -->
 
 <!--
