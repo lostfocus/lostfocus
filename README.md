@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 42, 2024](https://lostfocus.de/2024/10/20/week-42-2024/)
 - [Is Matt Mullenweg defending WordPress or sabotaging it?](https://torment-nexus.mathewingram.com/is-matt-mullenweg-defending-wordpress-or-sabotaging-it/)
 - [Employees Describe an Environment of Paranoia and Fear Inside Automattic Over WordPress Chaos](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
 - [I&#39;m kinda bummed that I never really got into writing a diary. Even though I…](https://lostfocus.de/2024/10/15/233326/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [WordPress.org’s latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
 - [There Is Some Reality TV–Level Drama Happening at WordPress Right Now](https://slate.com/technology/2024/10/wordpress-wpengine-matt-mullenweg-drama-explained.html)
 - [‘The Community Is In Chaos:’ WordPress.org Now Requires You Denounce Affiliation With WP Engine To Log In](https://www.404media.co/wordpress-checkbox-login-wp-engine/)
-- [Week 40, 2024](https://lostfocus.de/2024/10/06/week-40-2024/)
 <!-- POST-LIST:END -->
 
 <!--
