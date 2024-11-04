@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Week 44, 2024](https://lostfocus.de/2024/11/03/week-44-2024/)
 - [Heartbroken](https://sarah-savage.com/heartbroken/)
 - [‘Fandom has toxified the world’: Watchmen author Alan Moore on superheroes, Comicsgate and Trump](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)
 - [Week 43, 2024](https://lostfocus.de/2024/10/27/week-43-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I&#39;m kinda bummed that I never really got into writing a diary. Even though I…](https://lostfocus.de/2024/10/15/233326/)
 - [Timeline of the WordPress Drama](https://duerrenberger.dev/blog/2024/10/08/timeline-of-the-wordpress-drama/)
 - [The secrets of Inflight Entertainment you never asked about...](https://www.youtube.com/watch?v=VrqbMA_hACk)
-- [Week 41, 2024](https://lostfocus.de/2024/10/13/week-41-2024/)
 <!-- POST-LIST:END -->
 
 <!--
