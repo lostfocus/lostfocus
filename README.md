@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Stats are dangerous](https://lostfocus.de/2024/12/03/stats-are-dangerous/)
 - [This is going to be a fun one: I woke up around 4:30am just to…](https://lostfocus.de/2024/12/02/233367/)
 - [Week 48, 2024](https://lostfocus.de/2024/12/01/week-48-2024/)
 - [Week 47, 2024](https://lostfocus.de/2024/11/24/week-47-2024/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 44, 2024](https://lostfocus.de/2024/11/03/week-44-2024/)
 - [Heartbroken](https://sarah-savage.com/heartbroken/)
 - [‘Fandom has toxified the world’: Watchmen author Alan Moore on superheroes, Comicsgate and Trump](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)
-- [Week 43, 2024](https://lostfocus.de/2024/10/27/week-43-2024/)
 <!-- POST-LIST:END -->
 
 <!--
