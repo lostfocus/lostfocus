@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [WordPress CEO Rage Quits Community Slack After Court Injunction](https://www.404media.co/wordpress-wp-engine-preliminary-injunction/)
 - [Diddy requests access to laptop in prison to &quot;assist in his defence&quot;](https://www.nme.com/news/music/diddy-requests-access-to-laptop-in-prison-to-assist-in-his-defence-3820023)
 - [Tim Minchin: ‘Maybe scrolling the traumas of the world is not in itself a moral act’](https://www.theguardian.com/food/2024/dec/08/lunch-with-tim-minchin-matilda-songwriter-social-media-happiness)
 - [My Social Media in 2024](https://mwl.io/archives/23895)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Stats are dangerous](https://lostfocus.de/2024/12/03/stats-are-dangerous/)
 - [This is going to be a fun one: I woke up around 4:30am just to…](https://lostfocus.de/2024/12/02/233367/)
 - [Week 48, 2024](https://lostfocus.de/2024/12/01/week-48-2024/)
-- [Week 47, 2024](https://lostfocus.de/2024/11/24/week-47-2024/)
 <!-- POST-LIST:END -->
 
 <!--
