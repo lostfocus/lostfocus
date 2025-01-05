@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [On Virtue Signalling](https://kevquirk.com/blog/on-virtue-signalling)
 - [Just because I need to hear it: I do not need a new iPad mini…](https://lostfocus.de/2025/01/02/233424/)
 - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
 - [Something tells me that I will think about/refer to this post a lot.](https://lostfocus.de/2024/12/29/233418/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Rubenerd: Is stuff online worth saving?](https://rubenerd.com/is-it-worth-saving/)
 - [The White Lotus Season 3 | Official Teaser](https://www.youtube.com/watch?v=DrU8ofww-NI)
 - [The whole Peak Design thing is a bit annoying, no? I didn&#39;t really follow the…](https://lostfocus.de/2024/12/15/233392/)
-- [Week 50, 2024](https://lostfocus.de/2024/12/15/week-50-2024/)
 <!-- POST-LIST:END -->
 
 <!--
