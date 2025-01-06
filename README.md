@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [If we want the rewards of being loved we have to submit to the mortifying…](https://lostfocus.de/2025/01/05/233435/)
+- [2025-W01: New Year, Same Me](https://lostfocus.de/2025/01/05/2025-w01-new-year-same-me/)
 - [On Virtue Signalling](https://kevquirk.com/blog/on-virtue-signalling)
 - [Just because I need to hear it: I do not need a new iPad mini…](https://lostfocus.de/2025/01/02/233424/)
 - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Week 51, 2024](https://lostfocus.de/2024/12/22/week-51-2024/)
 - [I posted a whole bunch of photos over on my photo blog: planespotting at Tân…](https://lostfocus.de/2024/12/16/233396/)
 - [Rubenerd: Is stuff online worth saving?](https://rubenerd.com/is-it-worth-saving/)
-- [The White Lotus Season 3 | Official Teaser](https://www.youtube.com/watch?v=DrU8ofww-NI)
-- [The whole Peak Design thing is a bit annoying, no? I didn&#39;t really follow the…](https://lostfocus.de/2024/12/15/233392/)
 <!-- POST-LIST:END -->
 
 <!--
