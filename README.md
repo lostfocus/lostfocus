@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Podcasting&#39;s unique selling proposition is not video](https://james.cridland.net/blog/2025/unique-selling-proposition/)
 - [‘Fairy porn’: is this booming erotica genre an insult to Wales?](https://www.theguardian.com/books/2025/jan/06/fairy-porn-is-this-booming-erotica-genre-an-insult-to-wales)
 - [Dani Filth continues to talk up Ed Sheeran and Cradle Of Filth collab: &quot;My mum hasn&#39;t even heard it&quot;](https://www.nme.com/news/music/dani-filth-continues-to-talk-up-ed-sheeran-and-cradle-of-filth-collab-3826763)
 - [If we want the rewards of being loved we have to submit to the mortifying…](https://lostfocus.de/2025/01/05/233435/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
 - [Something tells me that I will think about/refer to this post a lot.](https://lostfocus.de/2024/12/29/233418/)
 - [Week 52, 2024](https://lostfocus.de/2024/12/29/week-52-2024/)
-- [Week 51, 2024](https://lostfocus.de/2024/12/22/week-51-2024/)
 <!-- POST-LIST:END -->
 
 <!--
