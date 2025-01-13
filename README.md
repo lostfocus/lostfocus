@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [WordPress is in trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
+- [2025-W02: Hm.](https://lostfocus.de/2025/01/12/2025-w02-hm/)
 - [How to get your joy back](https://buttondown.com/monteiro/archive/how-to-get-your-joy-back/)
 - [Podcasting&#39;s unique selling proposition is not video](https://james.cridland.net/blog/2025/unique-selling-proposition/)
 - [‘Fairy porn’: is this booming erotica genre an insult to Wales?](https://www.theguardian.com/books/2025/jan/06/fairy-porn-is-this-booming-erotica-genre-an-insult-to-wales)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W01: New Year, Same Me](https://lostfocus.de/2025/01/05/2025-w01-new-year-same-me/)
 - [On Virtue Signalling](https://kevquirk.com/blog/on-virtue-signalling)
 - [Just because I need to hear it: I do not need a new iPad mini…](https://lostfocus.de/2025/01/02/233424/)
-- [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
-- [Something tells me that I will think about/refer to this post a lot.](https://lostfocus.de/2024/12/29/233418/)
 <!-- POST-LIST:END -->
 
 <!--
