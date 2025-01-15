@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
 - [WordPress is in trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
 - [2025-W02: Hm.](https://lostfocus.de/2025/01/12/2025-w02-hm/)
 - [How to get your joy back](https://buttondown.com/monteiro/archive/how-to-get-your-joy-back/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [If we want the rewards of being loved we have to submit to the mortifying…](https://lostfocus.de/2025/01/05/233435/)
 - [2025-W01: New Year, Same Me](https://lostfocus.de/2025/01/05/2025-w01-new-year-same-me/)
 - [On Virtue Signalling](https://kevquirk.com/blog/on-virtue-signalling)
-- [Just because I need to hear it: I do not need a new iPad mini…](https://lostfocus.de/2025/01/02/233424/)
 <!-- POST-LIST:END -->
 
 <!--
