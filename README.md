@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I started to write notes by hand on paper and oh boy, did my handwriting…](https://lostfocus.de/2025/01/15/233445/)
 - [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
 - [WordPress is in trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
 - [2025-W02: Hm.](https://lostfocus.de/2025/01/12/2025-w02-hm/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Dani Filth continues to talk up Ed Sheeran and Cradle Of Filth collab: &quot;My mum hasn&#39;t even heard it&quot;](https://www.nme.com/news/music/dani-filth-continues-to-talk-up-ed-sheeran-and-cradle-of-filth-collab-3826763)
 - [If we want the rewards of being loved we have to submit to the mortifying…](https://lostfocus.de/2025/01/05/233435/)
 - [2025-W01: New Year, Same Me](https://lostfocus.de/2025/01/05/2025-w01-new-year-same-me/)
-- [On Virtue Signalling](https://kevquirk.com/blog/on-virtue-signalling)
 <!-- POST-LIST:END -->
 
 <!--
