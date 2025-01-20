@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Changing](https://adactio.com/journal/21656)
+- [You don&#39;t need to be connected to the whole world](https://82mhz.net/posts/2025/01/you-dont-need-to-be-connected-to-the-whole-world/)
+- [2025-W03: Early Access](https://lostfocus.de/2025/01/19/2025-w03-early-access/)
 - [I knew one day I’d have to watch powerful men burn the world down – I just didn’t expect them to be such losers](https://www.theguardian.com/commentisfree/2025/jan/16/i-knew-one-day-id-have-to-watch-powerful-men-burn-the-world-down-i-just-didnt-expect-them-to-be-such-losers)
 - [I started to write notes by hand on paper and oh boy, did my handwriting…](https://lostfocus.de/2025/01/15/233445/)
 - [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W02: Hm.](https://lostfocus.de/2025/01/12/2025-w02-hm/)
 - [How to get your joy back](https://buttondown.com/monteiro/archive/how-to-get-your-joy-back/)
 - [Podcasting&#39;s unique selling proposition is not video](https://james.cridland.net/blog/2025/unique-selling-proposition/)
-- [‘Fairy porn’: is this booming erotica genre an insult to Wales?](https://www.theguardian.com/books/2025/jan/06/fairy-porn-is-this-booming-erotica-genre-an-insult-to-wales)
-- [Dani Filth continues to talk up Ed Sheeran and Cradle Of Filth collab: &quot;My mum hasn&#39;t even heard it&quot;](https://www.nme.com/news/music/dani-filth-continues-to-talk-up-ed-sheeran-and-cradle-of-filth-collab-3826763)
-- [If we want the rewards of being loved we have to submit to the mortifying…](https://lostfocus.de/2025/01/05/233435/)
 <!-- POST-LIST:END -->
 
 <!--
