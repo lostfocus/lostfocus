@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Sideprojects](https://lostfocus.de/2025/01/28/sideprojects/)
 - [riria | Boiler Room: Tokyo](https://www.youtube.com/watch?v=Fa8LQLy4C5A)
 - [The White Lotus Season 3 | Official Trailer](https://www.youtube.com/watch?v=XwQRkOK5KC4)
 - [Ep. 566: &quot;My Talking Chair&quot; - Roderick on the Line](https://www.merlinmann.com/roderick/ep-566-my-talking-chair.html)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Changing](https://adactio.com/journal/21656)
 - [You don&#39;t need to be connected to the whole world](https://82mhz.net/posts/2025/01/you-dont-need-to-be-connected-to-the-whole-world/)
 - [2025-W03: Early Access](https://lostfocus.de/2025/01/19/2025-w03-early-access/)
-- [I knew one day I’d have to watch powerful men burn the world down – I just didn’t expect them to be such losers](https://www.theguardian.com/commentisfree/2025/jan/16/i-knew-one-day-id-have-to-watch-powerful-men-burn-the-world-down-i-just-didnt-expect-them-to-be-such-losers)
 <!-- POST-LIST:END -->
 
 <!--
