@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [What Happened to Decades?](https://www.youtube.com/watch?v=qo_EHY5jEX4)
+- [2025-W05: Oh Boy](https://lostfocus.de/2025/02/02/2025-w05-oh-boy/)
 - [‘Groundbreaking’: scientists develop patch that can repair damaged hearts](https://www.theguardian.com/science/2025/jan/29/scientists-develop-patch-repair-damage-heart-failure)
 - [Sideprojects](https://lostfocus.de/2025/01/28/sideprojects/)
 - [riria | Boiler Room: Tokyo](https://www.youtube.com/watch?v=Fa8LQLy4C5A)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W04: Sunshine](https://lostfocus.de/2025/01/26/2025-w04-sunshine/)
 - [My website has been gaslighting you](https://daverupert.com/2025/01/color-hue-rotating-gaslight/)
 - [Frankfurt Airport Mini Metro](https://www.youtube.com/watch?v=ScLa2EZ1FIg)
-- [Changing](https://adactio.com/journal/21656)
-- [You don&#39;t need to be connected to the whole world](https://82mhz.net/posts/2025/01/you-dont-need-to-be-connected-to-the-whole-world/)
 <!-- POST-LIST:END -->
 
 <!--
