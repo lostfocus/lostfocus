@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [when you watch the movie with all the exposition removed](https://www.youtube.com/watch?v=RdcSFsQRsnc)
+- [Blog Question Challenge](https://lostfocus.de/2025/02/03/blog-question-challenge/)
 - [What Happened to Decades?](https://www.youtube.com/watch?v=qo_EHY5jEX4)
 - [2025-W05: Oh Boy](https://lostfocus.de/2025/02/02/2025-w05-oh-boy/)
 - [‘Groundbreaking’: scientists develop patch that can repair damaged hearts](https://www.theguardian.com/science/2025/jan/29/scientists-develop-patch-repair-damage-heart-failure)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The White Lotus Season 3 | Official Trailer](https://www.youtube.com/watch?v=XwQRkOK5KC4)
 - [Ep. 566: &quot;My Talking Chair&quot; - Roderick on the Line](https://www.merlinmann.com/roderick/ep-566-my-talking-chair.html)
 - [2025-W04: Sunshine](https://lostfocus.de/2025/01/26/2025-w04-sunshine/)
-- [My website has been gaslighting you](https://daverupert.com/2025/01/color-hue-rotating-gaslight/)
-- [Frankfurt Airport Mini Metro](https://www.youtube.com/watch?v=ScLa2EZ1FIg)
 <!-- POST-LIST:END -->
 
 <!--
