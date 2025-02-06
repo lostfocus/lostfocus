@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Tapestry](https://lostfocus.de/2025/02/05/tapestry/)
+- [That hasn&#39;t happened in a while: someone bought a whole bunch of followers for my…](https://lostfocus.de/2025/02/05/234239/)
 - [when you watch the movie with all the exposition removed](https://www.youtube.com/watch?v=RdcSFsQRsnc)
 - [Blog Question Challenge](https://lostfocus.de/2025/02/03/blog-question-challenge/)
 - [What Happened to Decades?](https://www.youtube.com/watch?v=qo_EHY5jEX4)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Sideprojects](https://lostfocus.de/2025/01/28/sideprojects/)
 - [riria | Boiler Room: Tokyo](https://www.youtube.com/watch?v=Fa8LQLy4C5A)
 - [The White Lotus Season 3 | Official Trailer](https://www.youtube.com/watch?v=XwQRkOK5KC4)
-- [Ep. 566: &quot;My Talking Chair&quot; - Roderick on the Line](https://www.merlinmann.com/roderick/ep-566-my-talking-chair.html)
-- [2025-W04: Sunshine](https://lostfocus.de/2025/01/26/2025-w04-sunshine/)
 <!-- POST-LIST:END -->
 
 <!--
