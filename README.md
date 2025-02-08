@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Open Source Torment Nexus](https://tante.cc/2025/02/07/the-open-source-torment-nexus/)
 - [Identity](https://manuelmoreale.com/identity)
 - [OM–3](https://lostfocus.de/2025/02/06/om-3/)
 - [Nap](https://lostfocus.de/2025/02/06/nap/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Blog Question Challenge](https://lostfocus.de/2025/02/03/blog-question-challenge/)
 - [What Happened to Decades?](https://www.youtube.com/watch?v=qo_EHY5jEX4)
 - [2025-W05: Oh Boy](https://lostfocus.de/2025/02/02/2025-w05-oh-boy/)
-- [‘Groundbreaking’: scientists develop patch that can repair damaged hearts](https://www.theguardian.com/science/2025/jan/29/scientists-develop-patch-repair-damage-heart-failure)
 <!-- POST-LIST:END -->
 
 <!--
