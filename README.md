@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
+- [2025-W06: Naps](https://lostfocus.de/2025/02/09/2025-w06-naps/)
 - [The Open Source Torment Nexus](https://tante.cc/2025/02/07/the-open-source-torment-nexus/)
 - [Identity](https://manuelmoreale.com/identity)
 - [OM–3](https://lostfocus.de/2025/02/06/om-3/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [That hasn&#39;t happened in a while: someone bought a whole bunch of followers for my…](https://lostfocus.de/2025/02/05/234239/)
 - [when you watch the movie with all the exposition removed](https://www.youtube.com/watch?v=RdcSFsQRsnc)
 - [Blog Question Challenge](https://lostfocus.de/2025/02/03/blog-question-challenge/)
-- [What Happened to Decades?](https://www.youtube.com/watch?v=qo_EHY5jEX4)
-- [2025-W05: Oh Boy](https://lostfocus.de/2025/02/02/2025-w05-oh-boy/)
 <!-- POST-LIST:END -->
 
 <!--
