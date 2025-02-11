@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [How to find your pencil sharpener.](https://merlin.ghost.io/how-to-find-your-pencil-sharpener/)
 - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 - [2025-W06: Naps](https://lostfocus.de/2025/02/09/2025-w06-naps/)
 - [The Open Source Torment Nexus](https://tante.cc/2025/02/07/the-open-source-torment-nexus/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Tapestry](https://lostfocus.de/2025/02/05/tapestry/)
 - [That hasn&#39;t happened in a while: someone bought a whole bunch of followers for my…](https://lostfocus.de/2025/02/05/234239/)
 - [when you watch the movie with all the exposition removed](https://www.youtube.com/watch?v=RdcSFsQRsnc)
-- [Blog Question Challenge](https://lostfocus.de/2025/02/03/blog-question-challenge/)
 <!-- POST-LIST:END -->
 
 <!--
