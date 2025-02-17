@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W07: Oh well](https://lostfocus.de/2025/02/16/2025-w07-oh-well/)
 - [Celebrating Thaipusam at Batu Caves &lpar;Malaysia, 2025&rpar;](https://www.youtube.com/watch?v=cx0CaVutvXM)
 - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 - [Peruvian policeman in capybara costume makes Valentine&#39;s drug bust](https://www.bbc.com/news/videos/cjr8wexly4xo)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The Open Source Torment Nexus](https://tante.cc/2025/02/07/the-open-source-torment-nexus/)
 - [Identity](https://manuelmoreale.com/identity)
 - [OM–3](https://lostfocus.de/2025/02/06/om-3/)
-- [Nap](https://lostfocus.de/2025/02/06/nap/)
 <!-- POST-LIST:END -->
 
 <!--
