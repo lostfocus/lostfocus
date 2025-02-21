@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [James Bond producers give Amazon full creative control of 007](https://www.theguardian.com/film/2025/feb/20/james-bond-producers-give-amazon-full-creative-control-of-007)
 - [2025-W07: Oh well](https://lostfocus.de/2025/02/16/2025-w07-oh-well/)
 - [Celebrating Thaipusam at Batu Caves &lpar;Malaysia, 2025&rpar;](https://www.youtube.com/watch?v=cx0CaVutvXM)
 - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W06: Naps](https://lostfocus.de/2025/02/09/2025-w06-naps/)
 - [The Open Source Torment Nexus](https://tante.cc/2025/02/07/the-open-source-torment-nexus/)
 - [Identity](https://manuelmoreale.com/identity)
-- [OM–3](https://lostfocus.de/2025/02/06/om-3/)
 <!-- POST-LIST:END -->
 
 <!--
