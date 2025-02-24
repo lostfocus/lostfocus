@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W08: No Shadows](https://lostfocus.de/2025/02/23/2025-w08-no-shadows/)
+- [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)
 - [Algorithms are breaking how we think](https://www.youtube.com/watch?v=QEJpZjg8GuA)
 - [James Bond producers give Amazon full creative control of 007](https://www.theguardian.com/film/2025/feb/20/james-bond-producers-give-amazon-full-creative-control-of-007)
 - [2025-W07: Oh well](https://lostfocus.de/2025/02/16/2025-w07-oh-well/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Peruvian policeman in capybara costume makes Valentine&#39;s drug bust](https://www.bbc.com/news/videos/cjr8wexly4xo)
 - [How to find your pencil sharpener.](https://merlin.ghost.io/how-to-find-your-pencil-sharpener/)
 - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
-- [2025-W06: Naps](https://lostfocus.de/2025/02/09/2025-w06-naps/)
-- [The Open Source Torment Nexus](https://tante.cc/2025/02/07/the-open-source-torment-nexus/)
 <!-- POST-LIST:END -->
 
 <!--
