@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Tumblr in 2012 and How the Gifset Redefined Blogging](https://cybercultural.com/p/tumblr-2012/)
 - [Notes to self: signing git commits with an SSH key](https://jpmens.net/2025/02/26/signing-git-commits-with-an-ssh-key/)
 - [Poster&#39;s neurosis](https://www.garbageday.email/p/posters-neurosis)
 - [This page is under construction](https://localghost.dev/blog/this-page-is-under-construction/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [James Bond producers give Amazon full creative control of 007](https://www.theguardian.com/film/2025/feb/20/james-bond-producers-give-amazon-full-creative-control-of-007)
 - [2025-W07: Oh well](https://lostfocus.de/2025/02/16/2025-w07-oh-well/)
 - [Celebrating Thaipusam at Batu Caves &lpar;Malaysia, 2025&rpar;](https://www.youtube.com/watch?v=cx0CaVutvXM)
-- [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 <!-- POST-LIST:END -->
 
 <!--
