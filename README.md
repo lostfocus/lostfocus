@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Spirituality in a Nutshell](https://lostfocus.de/2025/03/04/spirituality-in-a-nutshell/)
 - [2025-W09: Nostalgia](https://lostfocus.de/2025/03/02/2025-w09-nostalgia/)
 - [Tumblr in 2012 and How the Gifset Redefined Blogging](https://cybercultural.com/p/tumblr-2012/)
 - [Notes to self: signing git commits with an SSH key](https://jpmens.net/2025/02/26/signing-git-commits-with-an-ssh-key/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)
 - [Algorithms are breaking how we think](https://www.youtube.com/watch?v=QEJpZjg8GuA)
 - [James Bond producers give Amazon full creative control of 007](https://www.theguardian.com/film/2025/feb/20/james-bond-producers-give-amazon-full-creative-control-of-007)
-- [2025-W07: Oh well](https://lostfocus.de/2025/02/16/2025-w07-oh-well/)
 <!-- POST-LIST:END -->
 
 <!--
