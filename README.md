@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [How personal should a personal site be?](https://manuelmoreale.com/how-personal-should-a-personal-site-be)
 - [Behind the Scenes of The White Lotus’ Bigger, Wilder, Darker Third Season](https://time.com/7208849/the-white-lotus-season-3-mike-white-cast-interview/)
 - [ZEIT-Kritiker reagiert auf German Brainrot](https://www.youtube.com/watch?v=-mJENuEN_rs)
 - [Spirituality in a Nutshell](https://lostfocus.de/2025/03/04/spirituality-in-a-nutshell/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Poster&#39;s neurosis](https://www.garbageday.email/p/posters-neurosis)
 - [This page is under construction](https://localghost.dev/blog/this-page-is-under-construction/)
 - [2025-W08: No Shadows](https://lostfocus.de/2025/02/23/2025-w08-no-shadows/)
-- [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)
 <!-- POST-LIST:END -->
 
 <!--
