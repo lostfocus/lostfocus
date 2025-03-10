@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W10: 🐒](https://lostfocus.de/2025/03/09/2025-w10-%f0%9f%90%92/)
 - [How personal should a personal site be?](https://manuelmoreale.com/how-personal-should-a-personal-site-be)
 - [Behind the Scenes of The White Lotus’ Bigger, Wilder, Darker Third Season](https://time.com/7208849/the-white-lotus-season-3-mike-white-cast-interview/)
 - [ZEIT-Kritiker reagiert auf German Brainrot](https://www.youtube.com/watch?v=-mJENuEN_rs)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Notes to self: signing git commits with an SSH key](https://jpmens.net/2025/02/26/signing-git-commits-with-an-ssh-key/)
 - [Poster&#39;s neurosis](https://www.garbageday.email/p/posters-neurosis)
 - [This page is under construction](https://localghost.dev/blog/this-page-is-under-construction/)
-- [2025-W08: No Shadows](https://lostfocus.de/2025/02/23/2025-w08-no-shadows/)
 <!-- POST-LIST:END -->
 
 <!--
