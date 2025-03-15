@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino)
 - [Hammond &amp; May FINALLY Return to Top Gear HQ](https://www.youtube.com/watch?v=ut8EBdHTqrE)
 - [Why Dua Lipa is so good at asking questions](https://www.youtube.com/watch?v=QN1rULxGHCA)
 - [‘If all I cared about was a career, I’d make listenable music’: Joost Klein on Eurovision, scandal and having the last laugh](https://www.theguardian.com/music/2025/mar/11/joost-klein-eurovision-scandal-europapa)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [ZEIT-Kritiker reagiert auf German Brainrot](https://www.youtube.com/watch?v=-mJENuEN_rs)
 - [Spirituality in a Nutshell](https://lostfocus.de/2025/03/04/spirituality-in-a-nutshell/)
 - [2025-W09: Nostalgia](https://lostfocus.de/2025/03/02/2025-w09-nostalgia/)
-- [Tumblr in 2012 and How the Gifset Redefined Blogging](https://cybercultural.com/p/tumblr-2012/)
 <!-- POST-LIST:END -->
 
 <!--
