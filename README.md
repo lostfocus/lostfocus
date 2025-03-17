@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Irgendwann möchte ich auch diesen Level an Erleuchtung erreichen.](https://lostfocus.de/2025/03/16/234443/)
+- [2025-W11: Knowledge!](https://lostfocus.de/2025/03/16/2025-w11-knowledge/)
 - [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino)
 - [Hammond &amp; May FINALLY Return to Top Gear HQ](https://www.youtube.com/watch?v=ut8EBdHTqrE)
 - [Why Dua Lipa is so good at asking questions](https://www.youtube.com/watch?v=QN1rULxGHCA)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [How personal should a personal site be?](https://manuelmoreale.com/how-personal-should-a-personal-site-be)
 - [Behind the Scenes of The White Lotus’ Bigger, Wilder, Darker Third Season](https://time.com/7208849/the-white-lotus-season-3-mike-white-cast-interview/)
 - [ZEIT-Kritiker reagiert auf German Brainrot](https://www.youtube.com/watch?v=-mJENuEN_rs)
-- [Spirituality in a Nutshell](https://lostfocus.de/2025/03/04/spirituality-in-a-nutshell/)
-- [2025-W09: Nostalgia](https://lostfocus.de/2025/03/02/2025-w09-nostalgia/)
 <!-- POST-LIST:END -->
 
 <!--
