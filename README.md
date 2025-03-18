@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [That latest episode of The White Lotus is quite something.](https://lostfocus.de/2025/03/17/234454/)
 - [Irgendwann möchte ich auch diesen Level an Erleuchtung erreichen.](https://lostfocus.de/2025/03/16/234443/)
 - [2025-W11: Knowledge!](https://lostfocus.de/2025/03/16/2025-w11-knowledge/)
 - [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W10: 🐒](https://lostfocus.de/2025/03/09/2025-w10-%f0%9f%90%92/)
 - [How personal should a personal site be?](https://manuelmoreale.com/how-personal-should-a-personal-site-be)
 - [Behind the Scenes of The White Lotus’ Bigger, Wilder, Darker Third Season](https://time.com/7208849/the-white-lotus-season-3-mike-white-cast-interview/)
-- [ZEIT-Kritiker reagiert auf German Brainrot](https://www.youtube.com/watch?v=-mJENuEN_rs)
 <!-- POST-LIST:END -->
 
 <!--
