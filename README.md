@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Improving My Journal](https://kevquirk.com/blog/improving-my-journal)
 - [Enshittification as a matter of taste](https://daverupert.com/2025/03/enshittification-has-a-flavor/)
 - [Bill Burr &lpar;extended interview&rpar; | Fresh Air](https://www.youtube.com/watch?v=hXHsmnOrWAk)
 - [Just a little test.](https://lostfocus.de/2025/03/18/just-a-little-test/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W11: Knowledge!](https://lostfocus.de/2025/03/16/2025-w11-knowledge/)
 - [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino)
 - [Hammond &amp; May FINALLY Return to Top Gear HQ](https://www.youtube.com/watch?v=ut8EBdHTqrE)
-- [Why Dua Lipa is so good at asking questions](https://www.youtube.com/watch?v=QN1rULxGHCA)
 <!-- POST-LIST:END -->
 
 <!--
