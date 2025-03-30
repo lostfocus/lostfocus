@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Ted Danson Thinks Marc Maron Should Run For Office](https://www.youtube.com/watch?v=X5tkJvVQ8Ts)
+- [Bored of it](https://paulrobertlloyd.com/2025/087/a1/bored/)
+- [Apple’s AI isn’t a letdown. AI is the letdown](https://amp.cnn.com/cnn/2025/03/27/tech/apple-ai-artificial-intelligence)
+- [MetaFilter activity stats](https://mefist.at/?site=all&time=all)
 - [2025-W12: Mop](https://lostfocus.de/2025/03/23/2025-w12-mop/)
 - [Reimagining Toxic by Britney Spears as SHOEGAZE](https://www.youtube.com/watch?v=ijxroSGlcE8)
 - [Improving My Journal](https://kevquirk.com/blog/improving-my-journal)
 - [Enshittification as a matter of taste](https://daverupert.com/2025/03/enshittification-has-a-flavor/)
 - [Bill Burr &lpar;extended interview&rpar; | Fresh Air](https://www.youtube.com/watch?v=hXHsmnOrWAk)
 - [Just a little test.](https://lostfocus.de/2025/03/18/just-a-little-test/)
-- [There’s a private project with a strict deadline on Sunday. Not a silly arbitrary one like at work but something that has to be done be then, no alternative possible. It will take me a couple of days to finish and I do have the time right now.](https://lostfocus.de/2025/03/18/theres-a-private-project-with-a-strict-deadline-on-sunday-not-a-silly-arbitrary-one-like-at-work-but-something-that-has-to-be-done-be-then-no-alternative-possible-it-will-take-me-a-couple-of-days/)
-- [That latest episode of The White Lotus is quite something.](https://lostfocus.de/2025/03/17/234454/)
-- [Irgendwann möchte ich auch diesen Level an Erleuchtung erreichen.](https://lostfocus.de/2025/03/16/234443/)
-- [2025-W11: Knowledge!](https://lostfocus.de/2025/03/16/2025-w11-knowledge/)
 <!-- POST-LIST:END -->
 
 <!--
