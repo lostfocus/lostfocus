@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Hahaha, I didn&#39;t do a single thing off my list from two years ago. &lpar;Two…](https://lostfocus.de/2025/04/03/234492/)
 - [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
 - [2025-W13: Bienvenue en Alsace](https://lostfocus.de/2025/03/30/2025-w13-bienvenue-en-alsace/)
 - [Ted Danson Thinks Marc Maron Should Run For Office](https://www.youtube.com/watch?v=X5tkJvVQ8Ts)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W12: Mop](https://lostfocus.de/2025/03/23/2025-w12-mop/)
 - [Reimagining Toxic by Britney Spears as SHOEGAZE](https://www.youtube.com/watch?v=ijxroSGlcE8)
 - [Improving My Journal](https://kevquirk.com/blog/improving-my-journal)
-- [Enshittification as a matter of taste](https://daverupert.com/2025/03/enshittification-has-a-flavor/)
 <!-- POST-LIST:END -->
 
 <!--
