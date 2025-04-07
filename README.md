@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W14: Sun](https://lostfocus.de/2025/04/06/2025-w14-sun/)
 - [Poisoning Well](https://heydonworks.com/article/poisoning-well/)
 - [Hahaha, I didn&#39;t do a single thing off my list from two years ago. &lpar;Two…](https://lostfocus.de/2025/04/03/234492/)
 - [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Apple’s AI isn’t a letdown. AI is the letdown](https://amp.cnn.com/cnn/2025/03/27/tech/apple-ai-artificial-intelligence)
 - [MetaFilter activity stats](https://mefist.at/?site=all&time=all)
 - [2025-W12: Mop](https://lostfocus.de/2025/03/23/2025-w12-mop/)
-- [Reimagining Toxic by Britney Spears as SHOEGAZE](https://www.youtube.com/watch?v=ijxroSGlcE8)
 <!-- POST-LIST:END -->
 
 <!--
