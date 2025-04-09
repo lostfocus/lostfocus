@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Bluesky’s Quest to Build Nontoxic Social Media](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media)
 - [The White Lotus: Season 3](https://lostfocus.de/2025/04/07/the-white-lotus-season-3/)
 - [2025-W14: Sun](https://lostfocus.de/2025/04/06/2025-w14-sun/)
 - [Poisoning Well](https://heydonworks.com/article/poisoning-well/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Ted Danson Thinks Marc Maron Should Run For Office](https://www.youtube.com/watch?v=X5tkJvVQ8Ts)
 - [Bored of it](https://paulrobertlloyd.com/2025/087/a1/bored/)
 - [Apple’s AI isn’t a letdown. AI is the letdown](https://amp.cnn.com/cnn/2025/03/27/tech/apple-ai-artificial-intelligence)
-- [MetaFilter activity stats](https://mefist.at/?site=all&time=all)
 <!-- POST-LIST:END -->
 
 <!--
