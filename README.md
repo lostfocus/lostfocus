@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Lately I&#39;ve been very displeased with everything and frankly, I need to find something that…](https://lostfocus.de/2025/04/17/234532/)
+- [House and Indie Dance on a Tuktuk | Rui Tang](https://www.youtube.com/watch?v=_PHmOG6hdwk)
 - [3 rules for life: James Hoffmann](https://www.youtube.com/watch?v=72yeeuFjtSk)
 - [2025-W15: Ch-Ch-Changes](https://lostfocus.de/2025/04/13/2025-w15-ch-ch-changes/)
 - [Bluesky’s Quest to Build Nontoxic Social Media](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Poisoning Well](https://heydonworks.com/article/poisoning-well/)
 - [Hahaha, I didn&#39;t do a single thing off my list from two years ago. &lpar;Two…](https://lostfocus.de/2025/04/03/234492/)
 - [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
-- [2025-W13: Bienvenue en Alsace](https://lostfocus.de/2025/03/30/2025-w13-bienvenue-en-alsace/)
-- [Ted Danson Thinks Marc Maron Should Run For Office](https://www.youtube.com/watch?v=X5tkJvVQ8Ts)
 <!-- POST-LIST:END -->
 
 <!--
