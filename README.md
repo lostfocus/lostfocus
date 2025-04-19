@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [SABAI SABAI : Chill Thai Mix by JIRA](https://www.youtube.com/watch?v=RiKc3X3NY0k)
 - [Lately I&#39;ve been very displeased with everything and frankly, I need to find something that…](https://lostfocus.de/2025/04/17/234532/)
 - [House and Indie Dance on a Tuktuk | Rui Tang](https://www.youtube.com/watch?v=_PHmOG6hdwk)
 - [3 rules for life: James Hoffmann](https://www.youtube.com/watch?v=72yeeuFjtSk)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W14: Sun](https://lostfocus.de/2025/04/06/2025-w14-sun/)
 - [Poisoning Well](https://heydonworks.com/article/poisoning-well/)
 - [Hahaha, I didn&#39;t do a single thing off my list from two years ago. &lpar;Two…](https://lostfocus.de/2025/04/03/234492/)
-- [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
 <!-- POST-LIST:END -->
 
 <!--
