@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Ähnlich wie Markus schaue ich auch &lpar;halbwegs&rpar; regelmäßig in meine alten Blogposts. Ich bin oft…](https://lostfocus.de/2025/04/21/234545/)
 - [2025-W16: Blaze The Eggs](https://lostfocus.de/2025/04/20/2025-w16-blaze-the-eggs/)
 - [SABAI SABAI : Chill Thai Mix by JIRA](https://www.youtube.com/watch?v=RiKc3X3NY0k)
 - [Lately I&#39;ve been very displeased with everything and frankly, I need to find something that…](https://lostfocus.de/2025/04/17/234532/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Bluesky’s Quest to Build Nontoxic Social Media](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media)
 - [The White Lotus: Season 3](https://lostfocus.de/2025/04/07/the-white-lotus-season-3/)
 - [2025-W14: Sun](https://lostfocus.de/2025/04/06/2025-w14-sun/)
-- [Poisoning Well](https://heydonworks.com/article/poisoning-well/)
 <!-- POST-LIST:END -->
 
 <!--
