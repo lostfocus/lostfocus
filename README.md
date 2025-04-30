@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I just realized that maybe &lpar;just maybe&rpar; the reason for the fact that I&#39;m unhappy,…](https://lostfocus.de/2025/04/29/234570/)
 - [2025-W17: Oh Well](https://lostfocus.de/2025/04/27/2025-w17-oh-well/)
 - [After the little screen time thing on my phone told me at 9am already that…](https://lostfocus.de/2025/04/23/234555/)
 - [The mighty YouTube recommendation algorithm decided to hit me over the head with a good…](https://lostfocus.de/2025/04/22/234550/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Lately I&#39;ve been very displeased with everything and frankly, I need to find something that…](https://lostfocus.de/2025/04/17/234532/)
 - [House and Indie Dance on a Tuktuk | Rui Tang](https://www.youtube.com/watch?v=_PHmOG6hdwk)
 - [3 rules for life: James Hoffmann](https://www.youtube.com/watch?v=72yeeuFjtSk)
-- [2025-W15: Ch-Ch-Changes](https://lostfocus.de/2025/04/13/2025-w15-ch-ch-changes/)
 <!-- POST-LIST:END -->
 
 <!--
