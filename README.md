@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [adding [type of post] to rss titles](https://winnielim.org/notes/adding-type-of-post-to-rss-titles/)
+- [places.pub](https://socialwebfoundation.org/2025/04/29/places-pub/)
 - [I just realized that maybe &lpar;just maybe&rpar; the reason for the fact that I&#39;m unhappy,…](https://lostfocus.de/2025/04/29/234570/)
 - [2025-W17: Oh Well](https://lostfocus.de/2025/04/27/2025-w17-oh-well/)
 - [After the little screen time thing on my phone told me at 9am already that…](https://lostfocus.de/2025/04/23/234555/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W16: Blaze The Eggs](https://lostfocus.de/2025/04/20/2025-w16-blaze-the-eggs/)
 - [SABAI SABAI : Chill Thai Mix by JIRA](https://www.youtube.com/watch?v=RiKc3X3NY0k)
 - [Lately I&#39;ve been very displeased with everything and frankly, I need to find something that…](https://lostfocus.de/2025/04/17/234532/)
-- [House and Indie Dance on a Tuktuk | Rui Tang](https://www.youtube.com/watch?v=_PHmOG6hdwk)
-- [3 rules for life: James Hoffmann](https://www.youtube.com/watch?v=72yeeuFjtSk)
 <!-- POST-LIST:END -->
 
 <!--
