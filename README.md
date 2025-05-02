@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I’ve watched “The Wire” years after it has been out and a lot of the…](https://lostfocus.de/2025/05/01/234575/)
+- [State of Devs: A Survey for Every Developer](https://css-tricks.com/state-of-devs-a-survey-for-every-developer/)
+- [The interim pope is a guy called Kevin. Why do people find that funny?](https://www.theguardian.com/commentisfree/2025/apr/28/the-interim-pope-is-a-guy-called-kevin-why-do-people-find-that-funny)
+- [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
 - [adding [type of post] to rss titles](https://winnielim.org/notes/adding-type-of-post-to-rss-titles/)
 - [places.pub](https://socialwebfoundation.org/2025/04/29/places-pub/)
 - [I just realized that maybe &lpar;just maybe&rpar; the reason for the fact that I&#39;m unhappy,…](https://lostfocus.de/2025/04/29/234570/)
 - [2025-W17: Oh Well](https://lostfocus.de/2025/04/27/2025-w17-oh-well/)
 - [After the little screen time thing on my phone told me at 9am already that…](https://lostfocus.de/2025/04/23/234555/)
 - [The mighty YouTube recommendation algorithm decided to hit me over the head with a good…](https://lostfocus.de/2025/04/22/234550/)
-- [Ähnlich wie Markus schaue ich auch &lpar;halbwegs&rpar; regelmäßig in meine alten Blogposts. Ich bin oft…](https://lostfocus.de/2025/04/21/234545/)
-- [2025-W16: Blaze The Eggs](https://lostfocus.de/2025/04/20/2025-w16-blaze-the-eggs/)
-- [SABAI SABAI : Chill Thai Mix by JIRA](https://www.youtube.com/watch?v=RiKc3X3NY0k)
-- [Lately I&#39;ve been very displeased with everything and frankly, I need to find something that…](https://lostfocus.de/2025/04/17/234532/)
 <!-- POST-LIST:END -->
 
 <!--
