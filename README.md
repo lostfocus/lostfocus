@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W18: Success!](https://lostfocus.de/2025/05/04/2025-w18-success/)
 - [Good god, computers are shit, aren’t they? Because reasons I wanted to spin up a…](https://lostfocus.de/2025/05/03/234582/)
 - [I’ve watched “The Wire” years after it has been out and a lot of the…](https://lostfocus.de/2025/05/01/234575/)
 - [State of Devs: A Survey for Every Developer](https://css-tricks.com/state-of-devs-a-survey-for-every-developer/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [places.pub](https://socialwebfoundation.org/2025/04/29/places-pub/)
 - [I just realized that maybe &lpar;just maybe&rpar; the reason for the fact that I&#39;m unhappy,…](https://lostfocus.de/2025/04/29/234570/)
 - [2025-W17: Oh Well](https://lostfocus.de/2025/04/27/2025-w17-oh-well/)
-- [After the little screen time thing on my phone told me at 9am already that…](https://lostfocus.de/2025/04/23/234555/)
 <!-- POST-LIST:END -->
 
 <!--
