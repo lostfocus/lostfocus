@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W19: Expectations](https://lostfocus.de/2025/05/11/2025-w19-expectations/)
 - [Sometimes I play through these little scenarios in my mind. Like: should I maybe sell…](https://lostfocus.de/2025/05/09/234601/)
 - [Story woman arrested after raccoon named chewy found meth](https://abcnews.go.com/US/woman-arrested-after-raccoon-named-chewy-found-meth/story?id=121546807)
 - [2025-W18: Success!](https://lostfocus.de/2025/05/04/2025-w18-success/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The interim pope is a guy called Kevin. Why do people find that funny?](https://www.theguardian.com/commentisfree/2025/apr/28/the-interim-pope-is-a-guy-called-kevin-why-do-people-find-that-funny)
 - [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
 - [adding [type of post] to rss titles](https://winnielim.org/notes/adding-type-of-post-to-rss-titles/)
-- [places.pub](https://socialwebfoundation.org/2025/04/29/places-pub/)
 <!-- POST-LIST:END -->
 
 <!--
