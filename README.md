@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [ChatGPT &#39;Reads&#39; Photo of Coffee Cup and Tells Woman Her Husband is Cheating](https://petapixel.com/2025/05/14/chatgpt-reads-photo-of-coffee-cup-and-tells-woman-her-husband-is-cheating/)
 - [The Missing Piece in Conversations about “Cultural Decline”](https://culture.ghost.io/the-missing-piece-in-conversations-about-cultural-decline/)
 - [The Mystery Of Silent Partner, The Artist Behind The YouTube Premiere Song](https://uproxx.com/music/silent-partner-youtube-premiere-song/)
 - [I bought a comically large soap in France the other day. It’s easily twice the…](https://lostfocus.de/2025/05/12/234613/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W18: Success!](https://lostfocus.de/2025/05/04/2025-w18-success/)
 - [Good god, computers are shit, aren’t they? Because reasons I wanted to spin up a…](https://lostfocus.de/2025/05/03/234582/)
 - [I’ve watched “The Wire” years after it has been out and a lot of the…](https://lostfocus.de/2025/05/01/234575/)
-- [State of Devs: A Survey for Every Developer](https://css-tricks.com/state-of-devs-a-survey-for-every-developer/)
 <!-- POST-LIST:END -->
 
 <!--
