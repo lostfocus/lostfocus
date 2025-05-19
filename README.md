@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2024-W20: Wasted Love](https://lostfocus.de/2025/05/18/2024-w20-wasted-love/)
+- [I just tried to install Marked 2 and I got hit with a little message…](https://lostfocus.de/2025/05/18/234623/)
+- [Hallucinating.](https://ethanmarcotte.com/wrote/hallucinating/)
+- [How AI is killing joy](https://leah.is/posts/ai_is_killing_joy/)
 - [ChatGPT &#39;Reads&#39; Photo of Coffee Cup and Tells Woman Her Husband is Cheating](https://petapixel.com/2025/05/14/chatgpt-reads-photo-of-coffee-cup-and-tells-woman-her-husband-is-cheating/)
 - [The Missing Piece in Conversations about “Cultural Decline”](https://culture.ghost.io/the-missing-piece-in-conversations-about-cultural-decline/)
 - [The Mystery Of Silent Partner, The Artist Behind The YouTube Premiere Song](https://uproxx.com/music/silent-partner-youtube-premiere-song/)
 - [I bought a comically large soap in France the other day. It’s easily twice the…](https://lostfocus.de/2025/05/12/234613/)
 - [2025-W19: Expectations](https://lostfocus.de/2025/05/11/2025-w19-expectations/)
 - [Sometimes I play through these little scenarios in my mind. Like: should I maybe sell…](https://lostfocus.de/2025/05/09/234601/)
-- [Story woman arrested after raccoon named chewy found meth](https://abcnews.go.com/US/woman-arrested-after-raccoon-named-chewy-found-meth/story?id=121546807)
-- [2025-W18: Success!](https://lostfocus.de/2025/05/04/2025-w18-success/)
-- [Good god, computers are shit, aren’t they? Because reasons I wanted to spin up a…](https://lostfocus.de/2025/05/03/234582/)
-- [I’ve watched “The Wire” years after it has been out and a lot of the…](https://lostfocus.de/2025/05/01/234575/)
 <!-- POST-LIST:END -->
 
 <!--
