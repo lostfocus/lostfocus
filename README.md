@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [It’s One of the Weirdest Mistakes in Movie History. I Spent Months Investigating How It All Went Wrong.](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html)
 - [2024-W20: Wasted Love](https://lostfocus.de/2025/05/18/2024-w20-wasted-love/)
 - [I just tried to install Marked 2 and I got hit with a little message…](https://lostfocus.de/2025/05/18/234623/)
 - [Hallucinating.](https://ethanmarcotte.com/wrote/hallucinating/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The Mystery Of Silent Partner, The Artist Behind The YouTube Premiere Song](https://uproxx.com/music/silent-partner-youtube-premiere-song/)
 - [I bought a comically large soap in France the other day. It’s easily twice the…](https://lostfocus.de/2025/05/12/234613/)
 - [2025-W19: Expectations](https://lostfocus.de/2025/05/11/2025-w19-expectations/)
-- [Sometimes I play through these little scenarios in my mind. Like: should I maybe sell…](https://lostfocus.de/2025/05/09/234601/)
 <!-- POST-LIST:END -->
 
 <!--
