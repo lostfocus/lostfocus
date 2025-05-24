@@ -9,7 +9,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Can Directories Rise Again? - The History of the Web](https://thehistoryoftheweb.com/can-directories-rise-again/)
 - [Cursed Knowledge | Immich](https://immich.app/cursed-knowledge/)
 - [It’s One of the Weirdest Mistakes in Movie History. I Spent Months Investigating How It All Went Wrong.](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html)
-- [2024-W20: Wasted Love](https://lostfocus.de/2025/05/18/2024-w20-wasted-love/)
+- [2025-W20: Wasted Love](https://lostfocus.de/2025/05/18/2024-w20-wasted-love/)
 - [I just tried to install Marked 2 and I got hit with a little message…](https://lostfocus.de/2025/05/18/234623/)
 - [Hallucinating.](https://ethanmarcotte.com/wrote/hallucinating/)
 - [How AI is killing joy](https://leah.is/posts/ai_is_killing_joy/)
