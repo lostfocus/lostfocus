@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W21: Dismantling](https://lostfocus.de/2025/05/25/2025-w21-dismantling/)
 - [Pocket, One of the Only Apps I Ever Liked, Is Shutting Down](https://www.404media.co/pocket-app-shutting-down-mozilla/)
 - [Can Directories Rise Again? - The History of the Web](https://thehistoryoftheweb.com/can-directories-rise-again/)
 - [Cursed Knowledge | Immich](https://immich.app/cursed-knowledge/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Hallucinating.](https://ethanmarcotte.com/wrote/hallucinating/)
 - [How AI is killing joy](https://leah.is/posts/ai_is_killing_joy/)
 - [ChatGPT &#39;Reads&#39; Photo of Coffee Cup and Tells Woman Her Husband is Cheating](https://petapixel.com/2025/05/14/chatgpt-reads-photo-of-coffee-cup-and-tells-woman-her-husband-is-cheating/)
-- [The Missing Piece in Conversations about “Cultural Decline”](https://culture.ghost.io/the-missing-piece-in-conversations-about-cultural-decline/)
 <!-- POST-LIST:END -->
 
 <!--
