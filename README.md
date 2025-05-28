@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Scientists just made guinea pigs listen to Adele for seven days… and the results are both surprising and worrying](https://www.musicradar.com/music-tech/scientists-just-made-guinea-pigs-listen-to-adele-for-seven-days-and-the-results-are-both-surprising-and-worrying)
 - [Zedd: “Clarity” to “The Middle” Unlocking His Hit Song Production SECRETS](https://www.youtube.com/watch?v=UM2zJ9NNjho)
 - [There And Back Again](https://lostfocus.de/2025/05/26/there-and-back-again/)
 - [pathological demand avoidance](https://winnielim.org/journal/pathological-demand-avoidance/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Cursed Knowledge | Immich](https://immich.app/cursed-knowledge/)
 - [It’s One of the Weirdest Mistakes in Movie History. I Spent Months Investigating How It All Went Wrong.](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html)
 - [2025-W20: Wasted Love](https://lostfocus.de/2025/05/18/2024-w20-wasted-love/)
-- [I just tried to install Marked 2 and I got hit with a little message…](https://lostfocus.de/2025/05/18/234623/)
 <!-- POST-LIST:END -->
 
 <!--
