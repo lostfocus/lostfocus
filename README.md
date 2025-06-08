@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I am well aware that it is only early June. But I&#39;m very much pondering…](https://lostfocus.de/2025/06/07/234728/)
 - [Square Eyes](https://lostfocus.de/2025/06/03/square-eyes/)
 - [Tony Hawk - What&#39;s In My Bag?](https://www.youtube.com/watch?v=l4zSZtYPPlo)
 - [powRSS - Feed the web](https://powrss.com/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W22: Summer!](https://lostfocus.de/2025/06/01/2025-w22-summer/)
 - [Proof that Patrick Stewart exists in the Star Trek universe](https://ironicsans.ghost.io/proof-that-patrick-stewart-exists-in-the-star-trek-universe/)
 - [Scientists just made guinea pigs listen to Adele for seven days… and the results are both surprising and worrying](https://www.musicradar.com/music-tech/scientists-just-made-guinea-pigs-listen-to-adele-for-seven-days-and-the-results-are-both-surprising-and-worrying)
-- [Zedd: “Clarity” to “The Middle” Unlocking His Hit Song Production SECRETS](https://www.youtube.com/watch?v=UM2zJ9NNjho)
 <!-- POST-LIST:END -->
 
 <!--
