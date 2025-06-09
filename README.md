@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W23: No Sleep](https://lostfocus.de/2025/06/08/2025-w23-no-sleep/)
 - [I am well aware that it is only early June. But I&#39;m very much pondering…](https://lostfocus.de/2025/06/07/234728/)
 - [Square Eyes](https://lostfocus.de/2025/06/03/square-eyes/)
 - [Tony Hawk - What&#39;s In My Bag?](https://www.youtube.com/watch?v=l4zSZtYPPlo)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [You&#39;ve Never Seen a DJ Set Like This! | On a Boat in Bangkok](https://www.youtube.com/watch?v=z-t1rsnF-xM)
 - [2025-W22: Summer!](https://lostfocus.de/2025/06/01/2025-w22-summer/)
 - [Proof that Patrick Stewart exists in the Star Trek universe](https://ironicsans.ghost.io/proof-that-patrick-stewart-exists-in-the-star-trek-universe/)
-- [Scientists just made guinea pigs listen to Adele for seven days… and the results are both surprising and worrying](https://www.musicradar.com/music-tech/scientists-just-made-guinea-pigs-listen-to-adele-for-seven-days-and-the-results-are-both-surprising-and-worrying)
 <!-- POST-LIST:END -->
 
 <!--
