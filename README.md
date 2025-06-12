@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Using OwnTracks to add PoIs to OpenStreetMap](https://lostfocus.de/2025/06/11/using-owntracks-to-add-pois-to-openstreetmap/)
 - [2025-W23: No Sleep](https://lostfocus.de/2025/06/08/2025-w23-no-sleep/)
 - [I am well aware that it is only early June. But I&#39;m very much pondering…](https://lostfocus.de/2025/06/07/234728/)
 - [Square Eyes](https://lostfocus.de/2025/06/03/square-eyes/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Weeknotes in other places](https://lostfocus.de/2025/06/02/weeknotes-in-other-places/)
 - [You&#39;ve Never Seen a DJ Set Like This! | On a Boat in Bangkok](https://www.youtube.com/watch?v=z-t1rsnF-xM)
 - [2025-W22: Summer!](https://lostfocus.de/2025/06/01/2025-w22-summer/)
-- [Proof that Patrick Stewart exists in the Star Trek universe](https://ironicsans.ghost.io/proof-that-patrick-stewart-exists-in-the-star-trek-universe/)
 <!-- POST-LIST:END -->
 
 <!--
