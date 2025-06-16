@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W24: Summer Sun](https://lostfocus.de/2025/06/15/2025-w24-summer-sun/)
+- [With Pocket being sunsetted &lpar;good grief, Mozilla&rpar; I switched to Raindrop as my read-it-later service.Alas…](https://lostfocus.de/2025/06/15/234778/)
+- [Rubenerd: How to make StackExchange &lpar;and others&rpar; more fun](https://rubenerd.com/how-to-make-stackexhange-more-fun/)
 - [Using OwnTracks to add PoIs to OpenStreetMap](https://lostfocus.de/2025/06/11/using-owntracks-to-add-pois-to-openstreetmap/)
 - [2025-W23: No Sleep](https://lostfocus.de/2025/06/08/2025-w23-no-sleep/)
 - [I am well aware that it is only early June. But I&#39;m very much pondering…](https://lostfocus.de/2025/06/07/234728/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Tony Hawk - What&#39;s In My Bag?](https://www.youtube.com/watch?v=l4zSZtYPPlo)
 - [powRSS - Feed the web](https://powrss.com/)
 - [If you’ve been following this blog on Mastodon you might have noticed that I started…](https://lostfocus.de/2025/06/02/234686/)
-- [Weeknotes in other places](https://lostfocus.de/2025/06/02/weeknotes-in-other-places/)
-- [You&#39;ve Never Seen a DJ Set Like This! | On a Boat in Bangkok](https://www.youtube.com/watch?v=z-t1rsnF-xM)
-- [2025-W22: Summer!](https://lostfocus.de/2025/06/01/2025-w22-summer/)
 <!-- POST-LIST:END -->
 
 <!--
