@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I just realized I can use that random selfie stick that I have sitting around…](https://lostfocus.de/2025/06/20/234802/)
 - [the web as a space to be explored](https://roytang.net/2025/06/web-explorer/)
 - [Enough With The Bullshit](https://beew.me/enough-with-the-bullshit/)
 - [I’ve made it to over two decades in my working life until I suddenly ended…](https://lostfocus.de/2025/06/16/234798/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Using OwnTracks to add PoIs to OpenStreetMap](https://lostfocus.de/2025/06/11/using-owntracks-to-add-pois-to-openstreetmap/)
 - [2025-W23: No Sleep](https://lostfocus.de/2025/06/08/2025-w23-no-sleep/)
 - [I am well aware that it is only early June. But I&#39;m very much pondering…](https://lostfocus.de/2025/06/07/234728/)
-- [Square Eyes](https://lostfocus.de/2025/06/03/square-eyes/)
 <!-- POST-LIST:END -->
 
 <!--
