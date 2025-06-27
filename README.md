@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Rather tempted to add a new category to the blog: sleep reviews.](https://lostfocus.de/2025/06/26/234820/)
 - [platforms, attention spans, paragraphs](https://winnielim.org/notes/platforms-attention-spans-paragraphs/)
 - [The warmongers were wrong about Iraq, Afghanistan and Libya. Now watch them make the same mistake about Iran | Owen Jones](https://www.theguardian.com/commentisfree/2025/jun/18/iraq-afghanistan-libya-warmongers-always-wrong-iran-attacks-nothing-change-minds)
 - [2025-W25: Fan](https://lostfocus.de/2025/06/22/2025-w25-fan/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Enough With The Bullshit](https://beew.me/enough-with-the-bullshit/)
 - [I’ve made it to over two decades in my working life until I suddenly ended…](https://lostfocus.de/2025/06/16/234798/)
 - [2025-W24: Summer Sun](https://lostfocus.de/2025/06/15/2025-w24-summer-sun/)
-- [With Pocket being sunsetted &lpar;good grief, Mozilla&rpar; I switched to Raindrop as my read-it-later service.Alas…](https://lostfocus.de/2025/06/15/234778/)
 <!-- POST-LIST:END -->
 
 <!--
