@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The grindification of hobbies](https://www.youtube.com/watch?v=UHAqhP8EeYQ)
+- [‘We just want to stop people being murdered’: Kneecap on Palestine, protest and provocation](https://www.theguardian.com/music/2025/jun/27/kneecap-on-palestine-protest-and-their-satirical-intent)
 - [Rather tempted to add a new category to the blog: sleep reviews.](https://lostfocus.de/2025/06/26/234820/)
 - [platforms, attention spans, paragraphs](https://winnielim.org/notes/platforms-attention-spans-paragraphs/)
 - [The warmongers were wrong about Iraq, Afghanistan and Libya. Now watch them make the same mistake about Iran | Owen Jones](https://www.theguardian.com/commentisfree/2025/jun/18/iraq-afghanistan-libya-warmongers-always-wrong-iran-attacks-nothing-change-minds)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I just realized I can use that random selfie stick that I have sitting around…](https://lostfocus.de/2025/06/20/234802/)
 - [the web as a space to be explored](https://roytang.net/2025/06/web-explorer/)
 - [Enough With The Bullshit](https://beew.me/enough-with-the-bullshit/)
-- [I’ve made it to over two decades in my working life until I suddenly ended…](https://lostfocus.de/2025/06/16/234798/)
-- [2025-W24: Summer Sun](https://lostfocus.de/2025/06/15/2025-w24-summer-sun/)
 <!-- POST-LIST:END -->
 
 <!--
