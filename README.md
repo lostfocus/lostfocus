@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [20 Jahre live.hackr!](https://lostfocus.de/2025/07/01/234843/)
+- [Substack Did Not See That Coming](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
+- [Morning Earworm #38: Dreams Come True](https://lostfocus.de/2025/07/01/morning-earworm-38-dreams-come-true/)
 - [Effortless Software Development with Anna Filina at Nerdearla 2023](https://www.youtube.com/watch?v=sF_Q20LS21A)
 - [2025-W26: Midpoint](https://lostfocus.de/2025/06/29/2025-w26-midpoint/)
 - [Jeff Bezos alters Venice wedding plans after threat of inflatable crocodiles](https://www.theguardian.com/technology/2025/jun/24/jeff-bezos-lauren-sanchez-change-wedding-reception-location-in-venice-after-threatened-protest)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [‘We just want to stop people being murdered’: Kneecap on Palestine, protest and provocation](https://www.theguardian.com/music/2025/jun/27/kneecap-on-palestine-protest-and-their-satirical-intent)
 - [Rather tempted to add a new category to the blog: sleep reviews.](https://lostfocus.de/2025/06/26/234820/)
 - [platforms, attention spans, paragraphs](https://winnielim.org/notes/platforms-attention-spans-paragraphs/)
-- [The warmongers were wrong about Iraq, Afghanistan and Libya. Now watch them make the same mistake about Iran | Owen Jones](https://www.theguardian.com/commentisfree/2025/jun/18/iraq-afghanistan-libya-warmongers-always-wrong-iran-attacks-nothing-change-minds)
-- [2025-W25: Fan](https://lostfocus.de/2025/06/22/2025-w25-fan/)
-- [Personal blogs are the best, I love yours and I’ll try and tell you why - Nothing Original Here](https://nothingoriginalhere.com/posts/personal-blogs-are-the-best-i-love-yours-and-ill-try-and-tell-you-why)
 <!-- POST-LIST:END -->
 
 <!--
