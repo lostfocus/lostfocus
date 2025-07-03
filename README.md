@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Thought Leadership](https://lostfocus.de/2025/07/02/thought-leadership/)
 - [20 Jahre live.hackr!](https://lostfocus.de/2025/07/01/234843/)
 - [Substack Did Not See That Coming](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
 - [Morning Earworm #38: Dreams Come True](https://lostfocus.de/2025/07/01/morning-earworm-38-dreams-come-true/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The grindification of hobbies](https://www.youtube.com/watch?v=UHAqhP8EeYQ)
 - [‘We just want to stop people being murdered’: Kneecap on Palestine, protest and provocation](https://www.theguardian.com/music/2025/jun/27/kneecap-on-palestine-protest-and-their-satirical-intent)
 - [Rather tempted to add a new category to the blog: sleep reviews.](https://lostfocus.de/2025/06/26/234820/)
-- [platforms, attention spans, paragraphs](https://winnielim.org/notes/platforms-attention-spans-paragraphs/)
 <!-- POST-LIST:END -->
 
 <!--
