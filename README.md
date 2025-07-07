@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Most of my “serious” computing happens on pretty small screens - my work 15” MacBook…](https://lostfocus.de/2025/07/06/234872/)
+- [2025-W27: I’m On A Boat](https://lostfocus.de/2025/07/06/2025-w27-im-on-a-boat/)
+- [Morning Earworm #39: Obsesión](https://lostfocus.de/2025/07/06/morning-earworm-39-obsesion/)
 - [Thought Leadership](https://lostfocus.de/2025/07/02/thought-leadership/)
 - [20 Jahre live.hackr!](https://lostfocus.de/2025/07/01/234843/)
 - [Substack Did Not See That Coming](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Effortless Software Development with Anna Filina at Nerdearla 2023](https://www.youtube.com/watch?v=sF_Q20LS21A)
 - [2025-W26: Midpoint](https://lostfocus.de/2025/06/29/2025-w26-midpoint/)
 - [Jeff Bezos alters Venice wedding plans after threat of inflatable crocodiles](https://www.theguardian.com/technology/2025/jun/24/jeff-bezos-lauren-sanchez-change-wedding-reception-location-in-venice-after-threatened-protest)
-- [The grindification of hobbies](https://www.youtube.com/watch?v=UHAqhP8EeYQ)
-- [‘We just want to stop people being murdered’: Kneecap on Palestine, protest and provocation](https://www.theguardian.com/music/2025/jun/27/kneecap-on-palestine-protest-and-their-satirical-intent)
-- [Rather tempted to add a new category to the blog: sleep reviews.](https://lostfocus.de/2025/06/26/234820/)
 <!-- POST-LIST:END -->
 
 <!--
