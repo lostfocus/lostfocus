@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I’m typing this on my MacBook and I’m cautiously optimistic that it keeps working while…](https://lostfocus.de/2025/07/07/234885/)
+- [macOS Icon History — Basic Apple Guy](https://basicappleguy.com/basicappleblog/macos-icon-history)
+- [What the hell, mate - how is it suddenly autumn? I had to turn on…](https://lostfocus.de/2025/07/07/234880/)
 - [Most of my “serious” computing happens on pretty small screens - my work 15” MacBook…](https://lostfocus.de/2025/07/06/234872/)
 - [2025-W27: I’m On A Boat](https://lostfocus.de/2025/07/06/2025-w27-im-on-a-boat/)
 - [Morning Earworm #39: Obsesión](https://lostfocus.de/2025/07/06/morning-earworm-39-obsesion/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [20 Jahre live.hackr!](https://lostfocus.de/2025/07/01/234843/)
 - [Substack Did Not See That Coming](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
 - [Morning Earworm #38: Dreams Come True](https://lostfocus.de/2025/07/01/morning-earworm-38-dreams-come-true/)
-- [Effortless Software Development with Anna Filina at Nerdearla 2023](https://www.youtube.com/watch?v=sF_Q20LS21A)
-- [2025-W26: Midpoint](https://lostfocus.de/2025/06/29/2025-w26-midpoint/)
-- [Jeff Bezos alters Venice wedding plans after threat of inflatable crocodiles](https://www.theguardian.com/technology/2025/jun/24/jeff-bezos-lauren-sanchez-change-wedding-reception-location-in-venice-after-threatened-protest)
 <!-- POST-LIST:END -->
 
 <!--
