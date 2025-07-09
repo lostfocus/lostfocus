@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [If it cites em dashes as proof, it came from a tool.](https://www.scottsmitelli.com/articles/em-dash-tool/)
 - [I’m typing this on my MacBook and I’m cautiously optimistic that it keeps working while…](https://lostfocus.de/2025/07/07/234885/)
 - [macOS Icon History — Basic Apple Guy](https://basicappleguy.com/basicappleblog/macos-icon-history)
 - [What the hell, mate - how is it suddenly autumn? I had to turn on…](https://lostfocus.de/2025/07/07/234880/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Thought Leadership](https://lostfocus.de/2025/07/02/thought-leadership/)
 - [20 Jahre live.hackr!](https://lostfocus.de/2025/07/01/234843/)
 - [Substack Did Not See That Coming](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
-- [Morning Earworm #38: Dreams Come True](https://lostfocus.de/2025/07/01/morning-earworm-38-dreams-come-true/)
 <!-- POST-LIST:END -->
 
 <!--
