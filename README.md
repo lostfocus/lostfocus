@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Why Designers Sound Negative &lpar;And Why That’s a Good Thing&rpar; | Andy Budd](https://www.andybudd.com/archives/2025/07/why-designers-sound-negative-and-why-that-s-a-good-thing)
+- [Glass Beams at Primavera Sound Barcelona 2025](https://www.youtube.com/watch?v=jWLt5ZnHho8)
 - [If it cites em dashes as proof, it came from a tool.](https://www.scottsmitelli.com/articles/em-dash-tool/)
 - [I’m typing this on my MacBook and I’m cautiously optimistic that it keeps working while…](https://lostfocus.de/2025/07/07/234885/)
 - [macOS Icon History — Basic Apple Guy](https://basicappleguy.com/basicappleblog/macos-icon-history)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W27: I’m On A Boat](https://lostfocus.de/2025/07/06/2025-w27-im-on-a-boat/)
 - [Morning Earworm #39: Obsesión](https://lostfocus.de/2025/07/06/morning-earworm-39-obsesion/)
 - [Thought Leadership](https://lostfocus.de/2025/07/02/thought-leadership/)
-- [20 Jahre live.hackr!](https://lostfocus.de/2025/07/01/234843/)
-- [Substack Did Not See That Coming](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
 <!-- POST-LIST:END -->
 
 <!--
