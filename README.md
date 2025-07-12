@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
+- [I didn&#39;t want to like the new Blackpink song, but it&#39;s quite a banger.](https://lostfocus.de/2025/07/11/234905/)
 - [I talked about alcohol and addiction with a friend a few days ago and how…](https://lostfocus.de/2025/07/10/234901/)
 - [Turns out: When you update a really old post, the ActivityPub plugin will happily blast…](https://lostfocus.de/2025/07/10/234895/)
 - [Why Designers Sound Negative &lpar;And Why That’s a Good Thing&rpar; | Andy Budd](https://www.andybudd.com/archives/2025/07/why-designers-sound-negative-and-why-that-s-a-good-thing)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I’m typing this on my MacBook and I’m cautiously optimistic that it keeps working while…](https://lostfocus.de/2025/07/07/234885/)
 - [macOS Icon History — Basic Apple Guy](https://basicappleguy.com/basicappleblog/macos-icon-history)
 - [What the hell, mate - how is it suddenly autumn? I had to turn on…](https://lostfocus.de/2025/07/07/234880/)
-- [Most of my “serious” computing happens on pretty small screens - my work 15” MacBook…](https://lostfocus.de/2025/07/06/234872/)
-- [2025-W27: I’m On A Boat](https://lostfocus.de/2025/07/06/2025-w27-im-on-a-boat/)
 <!-- POST-LIST:END -->
 
 <!--
