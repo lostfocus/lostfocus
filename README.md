@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I&#39;d be lying if I said I didn&#39;t know why the YouTube algorithm shows me…](https://lostfocus.de/2025/07/14/234923/)
 - [2025-W28: Sniffles](https://lostfocus.de/2025/07/13/2025-w28-sniffles/)
 - [I feel a wee bit restless lately. &lpar;Probably no surprise to people reading this blog…](https://lostfocus.de/2025/07/12/234910/)
 - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Why Designers Sound Negative &lpar;And Why That’s a Good Thing&rpar; | Andy Budd](https://www.andybudd.com/archives/2025/07/why-designers-sound-negative-and-why-that-s-a-good-thing)
 - [Glass Beams at Primavera Sound Barcelona 2025](https://www.youtube.com/watch?v=jWLt5ZnHho8)
 - [If it cites em dashes as proof, it came from a tool.](https://www.scottsmitelli.com/articles/em-dash-tool/)
-- [I’m typing this on my MacBook and I’m cautiously optimistic that it keeps working while…](https://lostfocus.de/2025/07/07/234885/)
 <!-- POST-LIST:END -->
 
 <!--
