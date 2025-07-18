@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Sticky](https://lostfocus.de/2025/07/17/sticky/)
+- [Remember how my MacBook wouldn&#39;t start and then started again after an Apple Store employee…](https://lostfocus.de/2025/07/17/234927/)
+- [Kuala Lumpur Attractions: An Informal List – Planet Doug](https://planetdoug.life/2025/07/17/kuala-lumpur-attractions-an-informal-list/)
 - [I&#39;d be lying if I said I didn&#39;t know why the YouTube algorithm shows me…](https://lostfocus.de/2025/07/14/234923/)
 - [2025-W28: Sniffles](https://lostfocus.de/2025/07/13/2025-w28-sniffles/)
 - [I feel a wee bit restless lately. &lpar;Probably no surprise to people reading this blog…](https://lostfocus.de/2025/07/12/234910/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I didn&#39;t want to like the new Blackpink song, but it&#39;s quite a banger.](https://lostfocus.de/2025/07/11/234905/)
 - [I talked about alcohol and addiction with a friend a few days ago and how…](https://lostfocus.de/2025/07/10/234901/)
 - [Turns out: When you update a really old post, the ActivityPub plugin will happily blast…](https://lostfocus.de/2025/07/10/234895/)
-- [Why Designers Sound Negative &lpar;And Why That’s a Good Thing&rpar; | Andy Budd](https://www.andybudd.com/archives/2025/07/why-designers-sound-negative-and-why-that-s-a-good-thing)
-- [Glass Beams at Primavera Sound Barcelona 2025](https://www.youtube.com/watch?v=jWLt5ZnHho8)
-- [If it cites em dashes as proof, it came from a tool.](https://www.scottsmitelli.com/articles/em-dash-tool/)
 <!-- POST-LIST:END -->
 
 <!--
