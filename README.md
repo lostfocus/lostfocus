@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Usually when I&#39;m still up this late, it is revenge bedtime procrastination. Tonight it&#39;s just…](https://lostfocus.de/2025/07/22/234956/)
+- [‘Ballad of a Small Player’ First Look: Colin Farrell Is a Gambler on the Run in Edward Berger’s Latest](https://www.indiewire.com/news/general-news/ballad-of-a-small-player-first-look-colin-farrell-1235138975/)
+- [It&#39;s rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
+- [A policy that has been serving me well: When a post in my feed reader…](https://lostfocus.de/2025/07/21/234949/)
 - [Data Hoarding](https://lostfocus.de/2025/07/20/data-hoarding/)
 - [2025-W29: Spite](https://lostfocus.de/2025/07/20/2025-w29-spite/)
 - [Sticky](https://lostfocus.de/2025/07/17/sticky/)
 - [Remember how my MacBook wouldn&#39;t start and then started again after an Apple Store employee…](https://lostfocus.de/2025/07/17/234927/)
 - [Kuala Lumpur Attractions: An Informal List – Planet Doug](https://planetdoug.life/2025/07/17/kuala-lumpur-attractions-an-informal-list/)
 - [I&#39;d be lying if I said I didn&#39;t know why the YouTube algorithm shows me…](https://lostfocus.de/2025/07/14/234923/)
-- [2025-W28: Sniffles](https://lostfocus.de/2025/07/13/2025-w28-sniffles/)
-- [I feel a wee bit restless lately. &lpar;Probably no surprise to people reading this blog…](https://lostfocus.de/2025/07/12/234910/)
-- [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
-- [I didn&#39;t want to like the new Blackpink song, but it&#39;s quite a banger.](https://lostfocus.de/2025/07/11/234905/)
 <!-- POST-LIST:END -->
 
 <!--
