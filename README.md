@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I&#39;m sending some stuff to one of those refurbishing companies and for delivery, I chose…](https://lostfocus.de/2025/07/24/234972/)
 - [Usually when I&#39;m still up this late, it is revenge bedtime procrastination. Tonight it&#39;s just…](https://lostfocus.de/2025/07/22/234956/)
 - [‘Ballad of a Small Player’ First Look: Colin Farrell Is a Gambler on the Run in Edward Berger’s Latest](https://www.indiewire.com/news/general-news/ballad-of-a-small-player-first-look-colin-farrell-1235138975/)
 - [It&#39;s rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Sticky](https://lostfocus.de/2025/07/17/sticky/)
 - [Remember how my MacBook wouldn&#39;t start and then started again after an Apple Store employee…](https://lostfocus.de/2025/07/17/234927/)
 - [Kuala Lumpur Attractions: An Informal List – Planet Doug](https://planetdoug.life/2025/07/17/kuala-lumpur-attractions-an-informal-list/)
-- [I&#39;d be lying if I said I didn&#39;t know why the YouTube algorithm shows me…](https://lostfocus.de/2025/07/14/234923/)
 <!-- POST-LIST:END -->
 
 <!--
