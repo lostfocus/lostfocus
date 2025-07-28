@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W30: Idle](https://lostfocus.de/2025/07/27/2025-w30-idle/)
+- [Being optimistic for technology](https://rubenerd.com/being-optimistic-for-technology/)
 - [I&#39;m sending some stuff to one of those refurbishing companies and for delivery, I chose…](https://lostfocus.de/2025/07/24/234972/)
 - [Usually when I&#39;m still up this late, it is revenge bedtime procrastination. Tonight it&#39;s just…](https://lostfocus.de/2025/07/22/234956/)
 - [‘Ballad of a Small Player’ First Look: Colin Farrell Is a Gambler on the Run in Edward Berger’s Latest](https://www.indiewire.com/news/general-news/ballad-of-a-small-player-first-look-colin-farrell-1235138975/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Data Hoarding](https://lostfocus.de/2025/07/20/data-hoarding/)
 - [2025-W29: Spite](https://lostfocus.de/2025/07/20/2025-w29-spite/)
 - [Sticky](https://lostfocus.de/2025/07/17/sticky/)
-- [Remember how my MacBook wouldn&#39;t start and then started again after an Apple Store employee…](https://lostfocus.de/2025/07/17/234927/)
-- [Kuala Lumpur Attractions: An Informal List – Planet Doug](https://planetdoug.life/2025/07/17/kuala-lumpur-attractions-an-informal-list/)
 <!-- POST-LIST:END -->
 
 <!--
