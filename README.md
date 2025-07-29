@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Lumix S9 should have been MICRO FOUR THIRDS, DAMMIT](https://www.youtube.com/watch?v=uU1oA86xbfE)
+- [The absolutely shameless incompetence inherent in the phrase &quot;I asked ChatGPT and…&quot; is staggering. When…](https://lostfocus.de/2025/07/28/234992/)
 - [2025-W30: Idle](https://lostfocus.de/2025/07/27/2025-w30-idle/)
 - [Being optimistic for technology](https://rubenerd.com/being-optimistic-for-technology/)
 - [I&#39;m sending some stuff to one of those refurbishing companies and for delivery, I chose…](https://lostfocus.de/2025/07/24/234972/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [It&#39;s rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
 - [A policy that has been serving me well: When a post in my feed reader…](https://lostfocus.de/2025/07/21/234949/)
 - [Data Hoarding](https://lostfocus.de/2025/07/20/data-hoarding/)
-- [2025-W29: Spite](https://lostfocus.de/2025/07/20/2025-w29-spite/)
-- [Sticky](https://lostfocus.de/2025/07/17/sticky/)
 <!-- POST-LIST:END -->
 
 <!--
