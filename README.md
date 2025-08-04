@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W31: In tents](https://lostfocus.de/2025/08/03/2025-w31-in-tents/)
 - [The Lumix S9 should have been MICRO FOUR THIRDS, DAMMIT](https://www.youtube.com/watch?v=uU1oA86xbfE)
 - [The absolutely shameless incompetence inherent in the phrase &quot;I asked ChatGPT and…&quot; is staggering. When…](https://lostfocus.de/2025/07/28/234992/)
 - [2025-W30: Idle](https://lostfocus.de/2025/07/27/2025-w30-idle/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [‘Ballad of a Small Player’ First Look: Colin Farrell Is a Gambler on the Run in Edward Berger’s Latest](https://www.indiewire.com/news/general-news/ballad-of-a-small-player-first-look-colin-farrell-1235138975/)
 - [It&#39;s rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
 - [A policy that has been serving me well: When a post in my feed reader…](https://lostfocus.de/2025/07/21/234949/)
-- [Data Hoarding](https://lostfocus.de/2025/07/20/data-hoarding/)
 <!-- POST-LIST:END -->
 
 <!--
