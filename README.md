@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [SALVAGED dot NU](https://salvaged.nu/)
 - [2025-W32: Looping](https://lostfocus.de/2025/08/10/2025-w32-looping/)
 - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 - [Pikachu almost got breasts over fears Pokémon was &quot;too cute&quot;](https://www.nme.com/news/gaming-news/pokemon-pikachu-breasts-too-cute-us-audiences-3883412)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W30: Idle](https://lostfocus.de/2025/07/27/2025-w30-idle/)
 - [Being optimistic for technology](https://rubenerd.com/being-optimistic-for-technology/)
 - [I&#39;m sending some stuff to one of those refurbishing companies and for delivery, I chose…](https://lostfocus.de/2025/07/24/234972/)
-- [Usually when I&#39;m still up this late, it is revenge bedtime procrastination. Tonight it&#39;s just…](https://lostfocus.de/2025/07/22/234956/)
 <!-- POST-LIST:END -->
 
 <!--
