@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [宮尾&lpar;10th anniversary ver.&rpar; / 新しい学校のリーダーズ × 青春音楽部 幻の楽曲初の生バンドセッション【個性独創パフォーマンスシリーズ③/5】](https://www.youtube.com/watch?v=tttOZJBidl4)
 - [SALVAGED dot NU](https://salvaged.nu/)
 - [2025-W32: Looping](https://lostfocus.de/2025/08/10/2025-w32-looping/)
 - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The absolutely shameless incompetence inherent in the phrase &quot;I asked ChatGPT and…&quot; is staggering. When…](https://lostfocus.de/2025/07/28/234992/)
 - [2025-W30: Idle](https://lostfocus.de/2025/07/27/2025-w30-idle/)
 - [Being optimistic for technology](https://rubenerd.com/being-optimistic-for-technology/)
-- [I&#39;m sending some stuff to one of those refurbishing companies and for delivery, I chose…](https://lostfocus.de/2025/07/24/234972/)
 <!-- POST-LIST:END -->
 
 <!--
