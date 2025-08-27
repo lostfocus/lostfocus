@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [SMOOTH BRAIN GIRLY | BAILE FUNK, JERSEY, SPEED HOUSE | Midnights, Elevator Music](https://www.youtube.com/watch?v=DOW44yNW6GQ)
+- [2025-W34: Huh.](https://lostfocus.de/2025/08/26/2025-w34-huh/)
+- [A new item in my email client feels like a task. A new item in…](https://lostfocus.de/2025/08/26/235033/)
 - [It finally happened: I have a morning earworm that is too embarrassing to share. &lpar;Even…](https://lostfocus.de/2025/08/25/235028/)
 - [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 - [2025-W33: Tea and Coffee](https://lostfocus.de/2025/08/18/2025-w33-tea-and-coffee/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [SALVAGED dot NU](https://salvaged.nu/)
 - [2025-W32: Looping](https://lostfocus.de/2025/08/10/2025-w32-looping/)
 - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
-- [Pikachu almost got breasts over fears Pokémon was &quot;too cute&quot;](https://www.nme.com/news/gaming-news/pokemon-pikachu-breasts-too-cute-us-audiences-3883412)
-- [2025-W31: In tents](https://lostfocus.de/2025/08/03/2025-w31-in-tents/)
-- [The Lumix S9 should have been MICRO FOUR THIRDS, DAMMIT](https://www.youtube.com/watch?v=uU1oA86xbfE)
 <!-- POST-LIST:END -->
 
 <!--
