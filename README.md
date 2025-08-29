@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I Am An AI Hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
+- [I think what annoys me most about overcast days is the fact that I can&#39;t…](https://lostfocus.de/2025/08/28/235044/)
 - [SMOOTH BRAIN GIRLY | BAILE FUNK, JERSEY, SPEED HOUSE | Midnights, Elevator Music](https://www.youtube.com/watch?v=DOW44yNW6GQ)
 - [2025-W34: Huh.](https://lostfocus.de/2025/08/26/2025-w34-huh/)
 - [A new item in my email client feels like a task. A new item in…](https://lostfocus.de/2025/08/26/235033/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W33: Tea and Coffee](https://lostfocus.de/2025/08/18/2025-w33-tea-and-coffee/)
 - [宮尾&lpar;10th anniversary ver.&rpar; / 新しい学校のリーダーズ × 青春音楽部 幻の楽曲初の生バンドセッション【個性独創パフォーマンスシリーズ③/5】](https://www.youtube.com/watch?v=tttOZJBidl4)
 - [SALVAGED dot NU](https://salvaged.nu/)
-- [2025-W32: Looping](https://lostfocus.de/2025/08/10/2025-w32-looping/)
-- [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 <!-- POST-LIST:END -->
 
 <!--
