@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [At some point some algorithm told me to have a look at the Australian panel…](https://lostfocus.de/2025/09/01/235072/)
+- [Crosstalk](https://lostfocus.de/2025/09/01/crosstalk/)
+- [you spend hours building a scalable system, modular if possible, having to solve little problems…](https://lostfocus.de/2025/09/01/235059/)
 - [2025-W35: Liminal](https://lostfocus.de/2025/08/31/2025-w35-liminal/)
 - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
 - [I Am An AI Hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [SMOOTH BRAIN GIRLY | BAILE FUNK, JERSEY, SPEED HOUSE | Midnights, Elevator Music](https://www.youtube.com/watch?v=DOW44yNW6GQ)
 - [2025-W34: Huh.](https://lostfocus.de/2025/08/26/2025-w34-huh/)
 - [A new item in my email client feels like a task. A new item in…](https://lostfocus.de/2025/08/26/235033/)
-- [It finally happened: I have a morning earworm that is too embarrassing to share. &lpar;Even…](https://lostfocus.de/2025/08/25/235028/)
-- [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
-- [2025-W33: Tea and Coffee](https://lostfocus.de/2025/08/18/2025-w33-tea-and-coffee/)
 <!-- POST-LIST:END -->
 
 <!--
