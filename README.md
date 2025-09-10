@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Morning Earworm #40: Breathe](https://lostfocus.de/2025/09/09/morning-earworm-40-breathe/)
 - [Every time the weather is a bit grey and rainy as it is now, the…](https://lostfocus.de/2025/09/08/235107/)
 - [Knowledge](https://lostfocus.de/2025/09/08/knowledge/)
 - [I think activitypub.space is the first time I see a properly well-setup NodeBB instance that…](https://lostfocus.de/2025/09/08/235096/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Crosstalk](https://lostfocus.de/2025/09/01/crosstalk/)
 - [you spend hours building a scalable system, modular if possible, having to solve little problems…](https://lostfocus.de/2025/09/01/235059/)
 - [2025-W35: Liminal](https://lostfocus.de/2025/08/31/2025-w35-liminal/)
-- [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
 <!-- POST-LIST:END -->
 
 <!--
