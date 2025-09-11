@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Xbox producer suggests laid-off staff use AI to deal with emotions](https://www.bbc.com/news/articles/ckglzxy389zo)
+- [Francis Galton](https://lostfocus.de/2025/09/10/francis-galton/)
+- [How Tim Cook sold out Steve Jobs](https://www.anildash.com//2025/09/09/how-tim-cook-sold-out-steve-jobs/)
 - [Morning Earworm #40: Breathe](https://lostfocus.de/2025/09/09/morning-earworm-40-breathe/)
 - [Every time the weather is a bit grey and rainy as it is now, the…](https://lostfocus.de/2025/09/08/235107/)
 - [Knowledge](https://lostfocus.de/2025/09/08/knowledge/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [An ode to “via”](https://multiline.co/mment/2023/12/ode-to-via/)
 - [2025-W36: Boo](https://lostfocus.de/2025/09/07/2025-w36-boo/)
 - [At some point some algorithm told me to have a look at the Australian panel…](https://lostfocus.de/2025/09/01/235072/)
-- [Crosstalk](https://lostfocus.de/2025/09/01/crosstalk/)
-- [you spend hours building a scalable system, modular if possible, having to solve little problems…](https://lostfocus.de/2025/09/01/235059/)
-- [2025-W35: Liminal](https://lostfocus.de/2025/08/31/2025-w35-liminal/)
 <!-- POST-LIST:END -->
 
 <!--
