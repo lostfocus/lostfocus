@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W37: Evenings](https://lostfocus.de/2025/09/14/2025-w37-evenings/)
 - [I went to bed earlier than usual yesterday. So of course I am sleepier than…](https://lostfocus.de/2025/09/11/235134/)
 - [Xbox producer suggests laid-off staff use AI to deal with emotions](https://www.bbc.com/news/articles/ckglzxy389zo)
 - [Francis Galton](https://lostfocus.de/2025/09/10/francis-galton/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Knowledge](https://lostfocus.de/2025/09/08/knowledge/)
 - [I think activitypub.space is the first time I see a properly well-setup NodeBB instance that…](https://lostfocus.de/2025/09/08/235096/)
 - [An ode to “via”](https://multiline.co/mment/2023/12/ode-to-via/)
-- [2025-W36: Boo](https://lostfocus.de/2025/09/07/2025-w36-boo/)
 <!-- POST-LIST:END -->
 
 <!--
