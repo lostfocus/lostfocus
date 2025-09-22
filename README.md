@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W38: People](https://lostfocus.de/2025/09/21/2025-w38-people/)
+- [Our obsession with efficiency is costing us our humanity](https://www.vogue.com.au/culture/features/reintroducing-friction/news-story/af80aeac433d7b465c10e3d5de870225)
+- [How modern life makes us sick – and what to do about it](https://www.theguardian.com/books/2025/sep/21/how-modern-life-makes-us-sick-and-what-to-do-about-it)
 - [2025-W37: Evenings](https://lostfocus.de/2025/09/14/2025-w37-evenings/)
 - [I went to bed earlier than usual yesterday. So of course I am sleepier than…](https://lostfocus.de/2025/09/11/235134/)
 - [Xbox producer suggests laid-off staff use AI to deal with emotions](https://www.bbc.com/news/articles/ckglzxy389zo)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [How Tim Cook sold out Steve Jobs](https://www.anildash.com//2025/09/09/how-tim-cook-sold-out-steve-jobs/)
 - [Morning Earworm #40: Breathe](https://lostfocus.de/2025/09/09/morning-earworm-40-breathe/)
 - [Every time the weather is a bit grey and rainy as it is now, the…](https://lostfocus.de/2025/09/08/235107/)
-- [Knowledge](https://lostfocus.de/2025/09/08/knowledge/)
-- [I think activitypub.space is the first time I see a properly well-setup NodeBB instance that…](https://lostfocus.de/2025/09/08/235096/)
-- [An ode to “via”](https://multiline.co/mment/2023/12/ode-to-via/)
 <!-- POST-LIST:END -->
 
 <!--
