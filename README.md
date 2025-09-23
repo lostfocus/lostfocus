@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws](https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html)
 - [2025-W38: People](https://lostfocus.de/2025/09/21/2025-w38-people/)
 - [Our obsession with efficiency is costing us our humanity](https://www.vogue.com.au/culture/features/reintroducing-friction/news-story/af80aeac433d7b465c10e3d5de870225)
 - [How modern life makes us sick – and what to do about it](https://www.theguardian.com/books/2025/sep/21/how-modern-life-makes-us-sick-and-what-to-do-about-it)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Francis Galton](https://lostfocus.de/2025/09/10/francis-galton/)
 - [How Tim Cook sold out Steve Jobs](https://www.anildash.com//2025/09/09/how-tim-cook-sold-out-steve-jobs/)
 - [Morning Earworm #40: Breathe](https://lostfocus.de/2025/09/09/morning-earworm-40-breathe/)
-- [Every time the weather is a bit grey and rainy as it is now, the…](https://lostfocus.de/2025/09/08/235107/)
 <!-- POST-LIST:END -->
 
 <!--
