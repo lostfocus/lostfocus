@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W39: myweek.wad](https://lostfocus.de/2025/09/28/2025-w39-myweek-wad/)
 - [AI-Generated “Workslop” Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity?utm_medium=email&utm_source=newsletter_various&utm_campaign=specialrec_Active&deliveryName=NL_HBRRecommends_20250925)
 - [OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws](https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html)
 - [2025-W38: People](https://lostfocus.de/2025/09/21/2025-w38-people/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I went to bed earlier than usual yesterday. So of course I am sleepier than…](https://lostfocus.de/2025/09/11/235134/)
 - [Xbox producer suggests laid-off staff use AI to deal with emotions](https://www.bbc.com/news/articles/ckglzxy389zo)
 - [Francis Galton](https://lostfocus.de/2025/09/10/francis-galton/)
-- [How Tim Cook sold out Steve Jobs](https://www.anildash.com//2025/09/09/how-tim-cook-sold-out-steve-jobs/)
 <!-- POST-LIST:END -->
 
 <!--
