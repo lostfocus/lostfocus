@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W43: Salsiccia](https://lostfocus.de/2025/10/26/2025-w43-salsiccia/)
 - [2025-W42: Meat and Potatoes](https://lostfocus.de/2025/10/19/2025-w42-meat-and-potatoes/)
 - [2025-W41: Mountains](https://lostfocus.de/2025/10/14/2025-w41-mountains/)
 - [Every time I play around with ActivityPub I get a bit of an headache. And…](https://lostfocus.de/2025/10/05/235240/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Alien: Earth](https://lostfocus.de/2025/10/04/alien-earth/)
 - [With Friday having been a public holiday I start to realise how much better things…](https://lostfocus.de/2025/10/04/235195/)
 - [23](https://lostfocus.de/2025/10/02/235184/)
-- [Hm.](https://lostfocus.de/2025/10/01/235166/)
 <!-- POST-LIST:END -->
 
 <!--
