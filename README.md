@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Jules-Verne-Trophy](https://lostfocus.de/2025/10/31/jules-verne-trophy/)
 - [WordPress Post-ID to Permalink](https://lostfocus.de/2025/10/28/wordpress-post-id-to-permalink/)
 - [2025-W43: Salsiccia](https://lostfocus.de/2025/10/26/2025-w43-salsiccia/)
 - [2025-W42: Meat and Potatoes](https://lostfocus.de/2025/10/19/2025-w42-meat-and-potatoes/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [If you like waffles &lpar;sorry!&rpar; you can follow this blog on Bluesky now.](https://lostfocus.de/2025/10/04/235214/)
 - [Alien](https://typesetinthefuture.com/2014/12/01/alien/)
 - [Alien: Earth](https://lostfocus.de/2025/10/04/alien-earth/)
-- [With Friday having been a public holiday I start to realise how much better things…](https://lostfocus.de/2025/10/04/235195/)
 <!-- POST-LIST:END -->
 
 <!--
