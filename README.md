@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [You Don&#39;t Need an Outro](https://roytang.net/2025/11/outro/)
 - [2025-W44: Dice](https://lostfocus.de/2025/11/02/2025-w43-dice/)
 - [Jules-Verne-Trophy](https://lostfocus.de/2025/10/31/jules-verne-trophy/)
 - [WordPress Post-ID to Permalink](https://lostfocus.de/2025/10/28/wordpress-post-id-to-permalink/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Every time I play around with ActivityPub I get a bit of an headache. And…](https://lostfocus.de/2025/10/05/235240/)
 - [2025-W40](https://lostfocus.de/2025/10/05/2025-w40/)
 - [If you like waffles &lpar;sorry!&rpar; you can follow this blog on Bluesky now.](https://lostfocus.de/2025/10/04/235214/)
-- [Alien](https://typesetinthefuture.com/2014/12/01/alien/)
 <!-- POST-LIST:END -->
 
 <!--
