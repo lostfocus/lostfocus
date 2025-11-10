@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W45: Forty-Five](https://lostfocus.de/2025/11/09/2025-w45-forty-five/)
 - [You Don&#39;t Need an Outro](https://roytang.net/2025/11/outro/)
 - [2025-W44: Dice](https://lostfocus.de/2025/11/02/2025-w43-dice/)
 - [Jules-Verne-Trophy](https://lostfocus.de/2025/10/31/jules-verne-trophy/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W41: Mountains](https://lostfocus.de/2025/10/14/2025-w41-mountains/)
 - [Every time I play around with ActivityPub I get a bit of an headache. And…](https://lostfocus.de/2025/10/05/235240/)
 - [2025-W40](https://lostfocus.de/2025/10/05/2025-w40/)
-- [If you like waffles &lpar;sorry!&rpar; you can follow this blog on Bluesky now.](https://lostfocus.de/2025/10/04/235214/)
 <!-- POST-LIST:END -->
 
 <!--
