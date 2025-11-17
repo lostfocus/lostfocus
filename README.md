@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Two weeks into the SailNavSim Jules Verne Trophy the field starts to spread out. Something…](https://lostfocus.de/2025/11/16/237614/)
+- [2025-W46: Desaturated](https://lostfocus.de/2025/11/16/2025-w46-desaturated/)
 - [2025-W45: Forty-Five](https://lostfocus.de/2025/11/09/2025-w45-forty-five/)
 - [You Don&#39;t Need an Outro](https://roytang.net/2025/11/outro/)
 - [2025-W44: Dice](https://lostfocus.de/2025/11/02/2025-w43-dice/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W43: Salsiccia](https://lostfocus.de/2025/10/26/2025-w43-salsiccia/)
 - [2025-W42: Meat and Potatoes](https://lostfocus.de/2025/10/19/2025-w42-meat-and-potatoes/)
 - [2025-W41: Mountains](https://lostfocus.de/2025/10/14/2025-w41-mountains/)
-- [Every time I play around with ActivityPub I get a bit of an headache. And…](https://lostfocus.de/2025/10/05/235240/)
-- [2025-W40](https://lostfocus.de/2025/10/05/2025-w40/)
 <!-- POST-LIST:END -->
 
 <!--
