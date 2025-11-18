@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Manhunt](https://lostfocus.de/2025/11/17/manhunt/)
 - [Two weeks into the SailNavSim Jules Verne Trophy the field starts to spread out. Something…](https://lostfocus.de/2025/11/16/237614/)
 - [2025-W46: Desaturated](https://lostfocus.de/2025/11/16/2025-w46-desaturated/)
 - [2025-W45: Forty-Five](https://lostfocus.de/2025/11/09/2025-w45-forty-five/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [WordPress Post-ID to Permalink](https://lostfocus.de/2025/10/28/wordpress-post-id-to-permalink/)
 - [2025-W43: Salsiccia](https://lostfocus.de/2025/10/26/2025-w43-salsiccia/)
 - [2025-W42: Meat and Potatoes](https://lostfocus.de/2025/10/19/2025-w42-meat-and-potatoes/)
-- [2025-W41: Mountains](https://lostfocus.de/2025/10/14/2025-w41-mountains/)
 <!-- POST-LIST:END -->
 
 <!--
