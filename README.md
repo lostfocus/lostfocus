@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Down the Self-Hosting Rabbit Hole](https://mb.esamecar.net/2025/11/25/down-the-selfhosting-rabbit-hole.html)
+- [2025-W48: 🕯️](https://lostfocus.de/2025/11/30/2025-w48-%f0%9f%95%af%ef%b8%8f/)
 - [Sleep Review, November 25th to to 26th, 2025: Weird, as it has been the last…](https://lostfocus.de/2025/11/26/239381/)
 - [Github Account Handling](https://lostfocus.de/2025/11/24/github-account-handling/)
 - [2025-W47: Vectors](https://lostfocus.de/2025/11/23/2025-w47-vectors/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Manhunt](https://lostfocus.de/2025/11/17/manhunt/)
 - [Two weeks into the SailNavSim Jules Verne Trophy the field starts to spread out. Something…](https://lostfocus.de/2025/11/16/237614/)
 - [2025-W46: Desaturated](https://lostfocus.de/2025/11/16/2025-w46-desaturated/)
-- [2025-W45: Forty-Five](https://lostfocus.de/2025/11/09/2025-w45-forty-five/)
-- [You Don&#39;t Need an Outro](https://roytang.net/2025/11/outro/)
 <!-- POST-LIST:END -->
 
 <!--
