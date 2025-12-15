@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Are we stuck with the same Desktop UX forever? | Ubuntu Summit 25.10](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
+- [2025-W50: 🕯️ 🕯️ 🕯️](https://lostfocus.de/2025/12/14/2025-w50-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f/)
 - [2025-W49: 🕯️ 🕯️](https://lostfocus.de/2025/12/07/2025-w49-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f/)
 - [On open protocols – Manu](https://manuelmoreale.com/thoughts/on-open-protocols)
 - [The case for taking the same holiday again and again](https://www.bbc.com/travel/article/20251204-the-surprising-joy-of-going-back-to-the-same-place)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W48: 🕯️](https://lostfocus.de/2025/11/30/2025-w48-%f0%9f%95%af%ef%b8%8f/)
 - [Sleep Review, November 25th to to 26th, 2025: Weird, as it has been the last…](https://lostfocus.de/2025/11/26/239381/)
 - [Github Account Handling](https://lostfocus.de/2025/11/24/github-account-handling/)
-- [2025-W47: Vectors](https://lostfocus.de/2025/11/23/2025-w47-vectors/)
-- [Composerize](https://www.composerize.com/)
 <!-- POST-LIST:END -->
 
 <!--
