@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Sleep review, December 14th to December 15th 2025: &lpar;Note to self: Don&#39;t only write these…](https://lostfocus.de/2025/12/15/243115/)
 - [Are we stuck with the same Desktop UX forever? | Ubuntu Summit 25.10](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
 - [2025-W50: 🕯️ 🕯️ 🕯️](https://lostfocus.de/2025/12/14/2025-w50-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f/)
 - [2025-W49: 🕯️ 🕯️](https://lostfocus.de/2025/12/07/2025-w49-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Down the Self-Hosting Rabbit Hole](https://mb.esamecar.net/2025/11/25/down-the-selfhosting-rabbit-hole.html)
 - [2025-W48: 🕯️](https://lostfocus.de/2025/11/30/2025-w48-%f0%9f%95%af%ef%b8%8f/)
 - [Sleep Review, November 25th to to 26th, 2025: Weird, as it has been the last…](https://lostfocus.de/2025/11/26/239381/)
-- [Github Account Handling](https://lostfocus.de/2025/11/24/github-account-handling/)
 <!-- POST-LIST:END -->
 
 <!--
