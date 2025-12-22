@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2025-W51: 🕯️ 🕯️ 🕯️ 🕯️](https://lostfocus.de/2025/12/21/2025-w51-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f/)
 - [The Hydrant Directory](https://www.dayroselane.com/hydrants)
 - [How are you? If you’re German, like me, you might struggle to answer](https://www.theguardian.com/commentisfree/2025/dec/16/how-are-you-german-germany-cultural-aversion)
 - [Sleep review, December 14th to December 15th 2025: &lpar;Note to self: Don&#39;t only write these…](https://lostfocus.de/2025/12/15/243115/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [On open protocols – Manu](https://manuelmoreale.com/thoughts/on-open-protocols)
 - [The case for taking the same holiday again and again](https://www.bbc.com/travel/article/20251204-the-surprising-joy-of-going-back-to-the-same-place)
 - [Sleep Review, November December 1st to November December 2nd, 2025: Don&#39;t even ask. Turns out…](https://lostfocus.de/2025/12/02/240532/)
-- [Down the Self-Hosting Rabbit Hole](https://mb.esamecar.net/2025/11/25/down-the-selfhosting-rabbit-hole.html)
 <!-- POST-LIST:END -->
 
 <!--
