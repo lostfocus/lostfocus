@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [To be quite honest: I could use roughly two to fifty-two weeks for my own…](https://lostfocus.de/2026/01/04/246690/)
 - [Fuck it, let’s do pink](https://lostfocus.de/2026/01/01/fuck-it-lets-do-pink/)
 - [2025-W52: 🎄](https://lostfocus.de/2025/12/28/2025-w52-%f0%9f%8e%84/)
 - [...](https://lostfocus.de/2025/12/24/merry-christmas-2/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The Hydrant Directory](https://www.dayroselane.com/hydrants)
 - [How are you? If you’re German, like me, you might struggle to answer](https://www.theguardian.com/commentisfree/2025/dec/16/how-are-you-german-germany-cultural-aversion)
 - [Sleep review, December 14th to December 15th 2025: &lpar;Note to self: Don&#39;t only write these…](https://lostfocus.de/2025/12/15/243115/)
-- [Are we stuck with the same Desktop UX forever? | Ubuntu Summit 25.10](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
 <!-- POST-LIST:END -->
 
 <!--
