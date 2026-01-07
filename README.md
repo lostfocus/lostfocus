@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The last three episodes of Roderick On The Line &lpar;607: Buffalo Sober, 608: Texting Bitch…](https://lostfocus.de/2026/01/06/247222/)
 - [Unstructured tidbits from my trip, part one](https://lostfocus.de/2026/01/04/unstructured-tidbits-from-my-trip-part-one/)
 - [2026-W01: Reflections](https://lostfocus.de/2026/01/04/2026-w01-reflections/)
 - [Advice for notable people who hate their Wikipedia photo](https://www.claudinec.net/posts/2025-12-23-wikimedia-photos/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2025-W52: 🎄](https://lostfocus.de/2025/12/28/2025-w52-%f0%9f%8e%84/)
 - [...](https://lostfocus.de/2025/12/24/merry-christmas-2/)
 - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
-- [Meet the man archiving Bangkok’s fading history, one YouTube video at a time](https://www.timeout.com/bangkok/museums/meet-the-man-archiving-bangkoks-fading-history-one-youtube-video-at-a-time)
 <!-- POST-LIST:END -->
 
 <!--
