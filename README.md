@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [If I&#39;m completely honest, I&#39;d really like to be one of those people who build…](https://lostfocus.de/2026/01/18/250228/)
+- [2026-W03: Float](https://lostfocus.de/2026/01/18/2026-w03-float/)
 - [Oh, the first 24h race of the year is this weekend. The Dubai one is…](https://lostfocus.de/2026/01/16/249342/)
 - [2026-W02: Thermal Shock](https://lostfocus.de/2026/01/11/2026-w02-thermal-shock/)
 - [I managed to reach the finish line in 4th place. Only 20 days after the…](https://lostfocus.de/2026/01/09/247610/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Unstructured tidbits from my trip, part one](https://lostfocus.de/2026/01/04/unstructured-tidbits-from-my-trip-part-one/)
 - [2026-W01: Reflections](https://lostfocus.de/2026/01/04/2026-w01-reflections/)
 - [Advice for notable people who hate their Wikipedia photo](https://www.claudinec.net/posts/2025-12-23-wikimedia-photos/)
-- [A Website To End All Websites | Henry From Online](https://henry.codes/writing/a-website-to-destroy-all-websites/)
-- [To be quite honest: I could use roughly two to fifty-two weeks for my own…](https://lostfocus.de/2026/01/04/246690/)
 <!-- POST-LIST:END -->
 
 <!--
