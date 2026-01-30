@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Do blogs need to be so lonely?](https://thehistoryoftheweb.com/do-blogs-need-to-be-so-lonely/)
+- [Morning Earworm #42: It’s That Time](https://lostfocus.de/2026/01/29/morning-earworm-42-its-that-time/)
 - [2026-W04: Float Redux](https://lostfocus.de/2026/01/25/2026-w04-float-redux/)
 - [Click](https://lostfocus.de/2026/01/25/click/)
 - [If I&#39;m completely honest, I&#39;d really like to be one of those people who build…](https://lostfocus.de/2026/01/18/250228/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W02: Thermal Shock](https://lostfocus.de/2026/01/11/2026-w02-thermal-shock/)
 - [I managed to reach the finish line in 4th place. Only 20 days after the…](https://lostfocus.de/2026/01/09/247610/)
 - [Morning Earworm #41: Sailor, Sail On](https://lostfocus.de/2026/01/07/morning-earworm-41-sailor-sail-on/)
-- [The last three episodes of Roderick On The Line &lpar;607: Buffalo Sober, 608: Texting Bitch…](https://lostfocus.de/2026/01/06/247222/)
-- [Unstructured tidbits from my trip, part one](https://lostfocus.de/2026/01/04/unstructured-tidbits-from-my-trip-part-one/)
 <!-- POST-LIST:END -->
 
 <!--
