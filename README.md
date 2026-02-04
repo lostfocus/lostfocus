@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [TIL: RTFM or rather RTFC - if you&#39;re using DDEV for your WordPress project and…](https://lostfocus.de/2026/02/03/250609/)
+- [Linkblog workflow](https://lostfocus.de/2026/02/03/linkblog-workflow/)
+- [The first social network you can trust](https://wedium.social/)
+- [Baby Sauropods Were the Potato Chips of the Jurassic Era](https://nautil.us/baby-sauropods-were-the-potato-chips-of-the-jurassic-era-1265298/)
+- [Firefox will soon let you block all of its generative AI features | TechCrunch](https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/)
+- [charmbracelet/glow: Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)
+- [Last night I played around with some infrastructure as code for my &lpar;too many&rpar; little…](https://lostfocus.de/2026/02/03/250592/)
+- [You know how I notice that I don&#39;t have good nap/sleep hygiene lately? I just…](https://lostfocus.de/2026/02/03/250588/)
 - [2026-W05: Nap Hygiene](https://lostfocus.de/2026/02/01/2026-w05-nap-hygiene/)
 - [Do blogs need to be so lonely?](https://thehistoryoftheweb.com/do-blogs-need-to-be-so-lonely/)
-- [Morning Earworm #42: It’s That Time](https://lostfocus.de/2026/01/29/morning-earworm-42-its-that-time/)
-- [2026-W04: Float Redux](https://lostfocus.de/2026/01/25/2026-w04-float-redux/)
-- [Click](https://lostfocus.de/2026/01/25/click/)
-- [If I&#39;m completely honest, I&#39;d really like to be one of those people who build…](https://lostfocus.de/2026/01/18/250228/)
-- [2026-W03: Float](https://lostfocus.de/2026/01/18/2026-w03-float/)
-- [Oh, the first 24h race of the year is this weekend. The Dubai one is…](https://lostfocus.de/2026/01/16/249342/)
-- [2026-W02: Thermal Shock](https://lostfocus.de/2026/01/11/2026-w02-thermal-shock/)
-- [I managed to reach the finish line in 4th place. Only 20 days after the…](https://lostfocus.de/2026/01/09/247610/)
 <!-- POST-LIST:END -->
 
 <!--
