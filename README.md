@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [My blog shows likes and reposts again. Nice.](https://lostfocus.de/2026/02/05/250642/)
+- [Introduction to the new HTML element](https://www.matuzo.at/blog/2026/geolocation-element)
+- [Ad Blockers didn’t help kill the open web](https://manuelmoreale.com/thoughts/ad-blockers-didn-t-help-kill-the-open-web)
 - [The Wonderful World of Malaysian Food](https://ikanmas.in/)
 - [TIL: RTFM or rather RTFC - if you&#39;re using DDEV for your WordPress project and…](https://lostfocus.de/2026/02/03/250609/)
 - [Linkblog workflow](https://lostfocus.de/2026/02/03/linkblog-workflow/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Baby Sauropods Were the Potato Chips of the Jurassic Era](https://nautil.us/baby-sauropods-were-the-potato-chips-of-the-jurassic-era-1265298/)
 - [Firefox will soon let you block all of its generative AI features | TechCrunch](https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/)
 - [charmbracelet/glow: Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)
-- [Last night I played around with some infrastructure as code for my &lpar;too many&rpar; little…](https://lostfocus.de/2026/02/03/250592/)
-- [You know how I notice that I don&#39;t have good nap/sleep hygiene lately? I just…](https://lostfocus.de/2026/02/03/250588/)
-- [2026-W05: Nap Hygiene](https://lostfocus.de/2026/02/01/2026-w05-nap-hygiene/)
 <!-- POST-LIST:END -->
 
 <!--
