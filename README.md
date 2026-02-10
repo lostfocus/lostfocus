@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Italian Photographer Makes Pinhole Camera Out of Fresh Pasta](https://petapixel.com/2026/02/09/italian-photographer-makes-pinhole-camera-out-of-fresh-pasta/)
+- [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/)
 - [A Stupidly Simple PHP Dependency Injection Container](https://oddevan.com/2023/08/31/a-stupidly-simple.html)
 - [2026-W06: Links, Links, Links](https://lostfocus.de/2026/02/08/2026-w06-links-links-links/)
 - [My blog shows likes and reposts again. Nice.](https://lostfocus.de/2026/02/05/250642/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The Wonderful World of Malaysian Food](https://ikanmas.in/)
 - [TIL: RTFM or rather RTFC - if you&#39;re using DDEV for your WordPress project and…](https://lostfocus.de/2026/02/03/250609/)
 - [Linkblog workflow](https://lostfocus.de/2026/02/03/linkblog-workflow/)
-- [The first social network you can trust](https://wedium.social/)
-- [Baby Sauropods Were the Potato Chips of the Jurassic Era](https://nautil.us/baby-sauropods-were-the-potato-chips-of-the-jurassic-era-1265298/)
 <!-- POST-LIST:END -->
 
 <!--
