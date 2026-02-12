@@ -5,16 +5,16 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Discord Leadership Only People On Planet Who Think Adding Age Verification To Discord A Good Idea](https://aftermath.site/discord-age-verification/)
+- [fedi-journal-plugin](https://repos.mxhdr.net/maxheadroom/fedi-journal-plugin)
+- [Day 1 Highlights | 2026 Bahrain Pre-Season Testing](https://www.youtube.com/watch?v=M532UHeOcV4)
+- [Friend?](https://lostfocus.de/2026/02/11/friend/)
+- [Mexicans are refusing to spend this 50-peso bill](https://www.msn.com/en-us/society-culture-and-history/general/mexicans-are-refusing-to-spend-this-50-peso-bill/ar-AA1VW2lw)
 - [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
 - [Italian Photographer Makes Pinhole Camera Out of Fresh Pasta](https://petapixel.com/2026/02/09/italian-photographer-makes-pinhole-camera-out-of-fresh-pasta/)
 - [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/)
 - [A Stupidly Simple PHP Dependency Injection Container](https://oddevan.com/2023/08/31/a-stupidly-simple.html)
 - [2026-W06: Links, Links, Links](https://lostfocus.de/2026/02/08/2026-w06-links-links-links/)
-- [My blog shows likes and reposts again. Nice.](https://lostfocus.de/2026/02/05/250642/)
-- [Introduction to the new HTML element](https://www.matuzo.at/blog/2026/geolocation-element)
-- [Ad Blockers didn’t help kill the open web](https://manuelmoreale.com/thoughts/ad-blockers-didn-t-help-kill-the-open-web)
-- [The Wonderful World of Malaysian Food](https://ikanmas.in/)
-- [TIL: RTFM or rather RTFC - if you&#39;re using DDEV for your WordPress project and…](https://lostfocus.de/2026/02/03/250609/)
 <!-- POST-LIST:END -->
 
 <!--
