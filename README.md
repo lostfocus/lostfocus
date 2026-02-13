@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Delusions](https://lostfocus.de/2026/02/12/delusions/)
 - [Discord Leadership Only People On Planet Who Think Adding Age Verification To Discord A Good Idea](https://aftermath.site/discord-age-verification/)
 - [fedi-journal-plugin](https://repos.mxhdr.net/maxheadroom/fedi-journal-plugin)
 - [Day 1 Highlights | 2026 Bahrain Pre-Season Testing](https://www.youtube.com/watch?v=M532UHeOcV4)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Italian Photographer Makes Pinhole Camera Out of Fresh Pasta](https://petapixel.com/2026/02/09/italian-photographer-makes-pinhole-camera-out-of-fresh-pasta/)
 - [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/)
 - [A Stupidly Simple PHP Dependency Injection Container](https://oddevan.com/2023/08/31/a-stupidly-simple.html)
-- [2026-W06: Links, Links, Links](https://lostfocus.de/2026/02/08/2026-w06-links-links-links/)
 <!-- POST-LIST:END -->
 
 <!--
