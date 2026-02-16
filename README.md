@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Sharon Zheng](https://sharonzheng.com/)
+- [2026-W07: Small Experiments](https://lostfocus.de/2026/02/15/2026-w07-small-experiments/)
 - [Friday Night DevOps](https://lostfocus.de/2026/02/13/friday-night-devops/)
 - [The Best Thing on YouTube Is This UK Gameshow](https://www.youtube.com/watch?v=YMmOMfu6znk)
 - [git recent: what branch did I work on?](https://remysharp.com/2026/02/12/git-recent)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Discord Leadership Only People On Planet Who Think Adding Age Verification To Discord A Good Idea](https://aftermath.site/discord-age-verification/)
 - [fedi-journal-plugin](https://repos.mxhdr.net/maxheadroom/fedi-journal-plugin)
 - [Day 1 Highlights | 2026 Bahrain Pre-Season Testing](https://www.youtube.com/watch?v=M532UHeOcV4)
-- [Friend?](https://lostfocus.de/2026/02/11/friend/)
-- [Mexicans are refusing to spend this 50-peso bill](https://www.msn.com/en-us/society-culture-and-history/general/mexicans-are-refusing-to-spend-this-50-peso-bill/ar-AA1VW2lw)
 <!-- POST-LIST:END -->
 
 <!--
