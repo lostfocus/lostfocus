@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [GUI &gt; CLI](https://lostfocus.de/2026/02/17/gui-cli/)
+- [AI Agent Lands PRs in Major OSS Projects, Targets Maintainer...](https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach)
+- [Video in Apple Podcasts - all the details](https://podnews.net/article/video-apple-podcasts-details)
 - [Sharon Zheng](https://sharonzheng.com/)
 - [2026-W07: Small Experiments](https://lostfocus.de/2026/02/15/2026-w07-small-experiments/)
 - [Friday Night DevOps](https://lostfocus.de/2026/02/13/friday-night-devops/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [git recent: what branch did I work on?](https://remysharp.com/2026/02/12/git-recent)
 - [Roman Empire](https://lostfocus.de/2026/02/13/roman-empire/)
 - [Delusions](https://lostfocus.de/2026/02/12/delusions/)
-- [Discord Leadership Only People On Planet Who Think Adding Age Verification To Discord A Good Idea](https://aftermath.site/discord-age-verification/)
-- [fedi-journal-plugin](https://repos.mxhdr.net/maxheadroom/fedi-journal-plugin)
-- [Day 1 Highlights | 2026 Bahrain Pre-Season Testing](https://www.youtube.com/watch?v=M532UHeOcV4)
 <!-- POST-LIST:END -->
 
 <!--
