@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [A programmer&#39;s loss of identity](https://ratfactor.com/tech-nope2)
 - [GUI &gt; CLI](https://lostfocus.de/2026/02/17/gui-cli/)
 - [AI Agent Lands PRs in Major OSS Projects, Targets Maintainer...](https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach)
 - [Video in Apple Podcasts - all the details](https://podnews.net/article/video-apple-podcasts-details)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The Best Thing on YouTube Is This UK Gameshow](https://www.youtube.com/watch?v=YMmOMfu6znk)
 - [git recent: what branch did I work on?](https://remysharp.com/2026/02/12/git-recent)
 - [Roman Empire](https://lostfocus.de/2026/02/13/roman-empire/)
-- [Delusions](https://lostfocus.de/2026/02/12/delusions/)
 <!-- POST-LIST:END -->
 
 <!--
