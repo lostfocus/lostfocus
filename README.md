@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Psychology of Xennials &lpar;1976 - 1985&rpar;](https://www.youtube.com/watch?v=Pqs0PokPDqo)
+- [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/)
+- [2026-W08: Alaaf, I guess](https://lostfocus.de/2026/02/22/2026-w08-alaaf-i-guess/)
 - [Citroen DS3 WRC: The fastest rally car ever!](https://www.youtube.com/watch?v=vRjgFf5_vPQ)
 - [15+ years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 - [Current](https://lostfocus.de/2026/02/20/current/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I’m Tired Of These Useless Jackasses Making The Computer Expensive](https://aftermath.site/ram-prices-hdd-prices-ai-bubble-computer-expensive/)
 - [A programmer&#39;s loss of identity](https://ratfactor.com/tech-nope2)
 - [GUI &gt; CLI](https://lostfocus.de/2026/02/17/gui-cli/)
-- [AI Agent Lands PRs in Major OSS Projects, Targets Maintainer...](https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach)
-- [Video in Apple Podcasts - all the details](https://podnews.net/article/video-apple-podcasts-details)
-- [Sharon Zheng](https://sharonzheng.com/)
 <!-- POST-LIST:END -->
 
 <!--
