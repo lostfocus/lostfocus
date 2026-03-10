@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2026-W10: Sneeze](https://lostfocus.de/2026/03/09/2026-w10-sneeze/)
 - [Pollen!](https://lostfocus.de/2026/03/04/pollen/)
 - [Time zone shenanigans](https://lostfocus.de/2026/03/02/time-zone-shenanigans/)
 - [Leading thoughts, by Paul Ford](https://www.ftrain.com/leading-thoughts)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [The Mountain](https://lostfocus.de/2026/02/27/the-mountain/)
 - [Psychology of Xennials &lpar;1976 - 1985&rpar;](https://www.youtube.com/watch?v=Pqs0PokPDqo)
 - [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/)
-- [2026-W08: Alaaf, I guess](https://lostfocus.de/2026/02/22/2026-w08-alaaf-i-guess/)
 <!-- POST-LIST:END -->
 
 <!--
