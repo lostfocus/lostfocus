@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Blogroll](https://lostfocus.de/2026/03/12/blogroll-3/)
 - [Captain of Industry - Update 4 Launch Trailer](https://www.youtube.com/watch?v=dbaGnGAly6E)
 - [2026-W10: Sneeze](https://lostfocus.de/2026/03/09/2026-w10-sneeze/)
 - [Pollen!](https://lostfocus.de/2026/03/04/pollen/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Firefox AI Killswitch](https://kevquirk.com/firefox-ai-killswitch)
 - [People and Blogs: Dominik Schwind](https://manuelmoreale.com/interview/dominik-schwind)
 - [The Mountain](https://lostfocus.de/2026/02/27/the-mountain/)
-- [Psychology of Xennials &lpar;1976 - 1985&rpar;](https://www.youtube.com/watch?v=Pqs0PokPDqo)
 <!-- POST-LIST:END -->
 
 <!--
