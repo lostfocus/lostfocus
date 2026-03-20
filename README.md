@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [How Beer Conquered the World &lpar;Twice&rpar;: From Cavemen to Craft Breweries](https://www.youtube.com/watch?v=ds5rl3EsQBQ)
 - [Hypnotize Catch Catch Bang Bang](https://lostfocus.de/2026/03/17/hypnotize-catch-catch-bang-bang/)
 - [2026-W11: Rain](https://lostfocus.de/2026/03/15/2026-w11-rain/)
 - [Baker Boy covers BLACKPINK’s ‘JUMP’ for Like A Version](https://www.youtube.com/watch?v=82_refRrG6E)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W10: Sneeze](https://lostfocus.de/2026/03/09/2026-w10-sneeze/)
 - [Pollen!](https://lostfocus.de/2026/03/04/pollen/)
 - [Time zone shenanigans](https://lostfocus.de/2026/03/02/time-zone-shenanigans/)
-- [Leading thoughts, by Paul Ford](https://www.ftrain.com/leading-thoughts)
 <!-- POST-LIST:END -->
 
 <!--
