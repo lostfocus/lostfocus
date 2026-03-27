@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [dancer.json](https://lostfocus.de/2026/03/26/dancer-json/)
 - [Grievances](https://lostfocus.de/2026/03/25/grievances/)
 - [2026-W12: This and That](https://lostfocus.de/2026/03/23/2026-w12-this-and-that/)
 - [How Beer Conquered the World &lpar;Twice&rpar;: From Cavemen to Craft Breweries](https://www.youtube.com/watch?v=ds5rl3EsQBQ)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #43: Entre Dos Tierras](https://lostfocus.de/2026/03/13/morning-earworm-43-entre-dos-tierras/)
 - [Blogroll](https://lostfocus.de/2026/03/12/blogroll-3/)
 - [Captain of Industry - Update 4 Launch Trailer](https://www.youtube.com/watch?v=dbaGnGAly6E)
-- [2026-W10: Sneeze](https://lostfocus.de/2026/03/09/2026-w10-sneeze/)
 <!-- POST-LIST:END -->
 
 <!--
