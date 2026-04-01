@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [‘Succulent Chinese meal’ speech added to Australia’s National Film and Sound Archive](https://www.theguardian.com/music/2026/mar/31/democracy-manifest-succulent-chinese-meal-speech-australia-national-film-sound-archive)
 - [2026-W13: Eclair](https://lostfocus.de/2026/03/30/2026-w13-eclair/)
 - [MrBeast Is What Marx Warned Us About](https://www.youtube.com/watch?v=-Hv-be_KdE0)
 - [dancer.json](https://lostfocus.de/2026/03/26/dancer-json/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Hypnotize Catch Catch Bang Bang](https://lostfocus.de/2026/03/17/hypnotize-catch-catch-bang-bang/)
 - [2026-W11: Rain](https://lostfocus.de/2026/03/15/2026-w11-rain/)
 - [Baker Boy covers BLACKPINK’s ‘JUMP’ for Like A Version](https://www.youtube.com/watch?v=82_refRrG6E)
-- [Morning Earworm #43: Entre Dos Tierras](https://lostfocus.de/2026/03/13/morning-earworm-43-entre-dos-tierras/)
 <!-- POST-LIST:END -->
 
 <!--
