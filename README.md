@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2026-W15: Of Course](https://lostfocus.de/2026/04/12/2026-w15-of-course/)
 - [FR#158 – What is Mastodon for?](https://connectedplaces.online/reports/fr158-what-is-mastodon-for/)
 - [Random morning notes](https://lostfocus.de/2026/04/07/random-morning-notes-2/)
 - [2026-W14: Oeuf](https://lostfocus.de/2026/04/06/2026-w14-oeuf/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [MrBeast Is What Marx Warned Us About](https://www.youtube.com/watch?v=-Hv-be_KdE0)
 - [dancer.json](https://lostfocus.de/2026/03/26/dancer-json/)
 - [Grievances](https://lostfocus.de/2026/03/25/grievances/)
-- [2026-W12: This and That](https://lostfocus.de/2026/03/23/2026-w12-this-and-that/)
 <!-- POST-LIST:END -->
 
 <!--
