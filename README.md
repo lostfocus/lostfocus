@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Bubbles](https://lostfocus.de/2026/04/22/251439/)
+- [South Korea fighter jets collided due to pilots snapping pictures, report finds](https://www.bbc.com/news/articles/czjwz8we1zzo)
 - [Finnish Air Force reprimands cadet pilots for penis-shaped flight patterns](https://yle.fi/a/74-20221623)
 - [2026-W16: Short Runway](https://lostfocus.de/2026/04/21/2026-w16-short-runway/)
 - [新しい学校はすゝむツアー / Full Show](https://www.youtube.com/watch?v=C24PoMiffcM)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Sleep Review](https://lostfocus.de/2026/04/14/sleep-review/)
 - [2026-W15: Of Course](https://lostfocus.de/2026/04/12/2026-w15-of-course/)
 - [FR#158 – What is Mastodon for?](https://connectedplaces.online/reports/fr158-what-is-mastodon-for/)
-- [Random morning notes](https://lostfocus.de/2026/04/07/random-morning-notes-2/)
-- [2026-W14: Oeuf](https://lostfocus.de/2026/04/06/2026-w14-oeuf/)
 <!-- POST-LIST:END -->
 
 <!--
