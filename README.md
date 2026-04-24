@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Side projects](https://lostfocus.de/2026/04/23/side-projects/)
+- [Banter is the last thing I want from a coffee machine. Yet here we are](https://www.theguardian.com/lifeandstyle/commentisfree/2026/apr/23/my-old-coffee-machine-was-great-i-just-wish-my-new-one-would-shut-up)
 - [Bubbles](https://lostfocus.de/2026/04/22/251439/)
 - [South Korea fighter jets collided due to pilots snapping pictures, report finds](https://www.bbc.com/news/articles/czjwz8we1zzo)
 - [Finnish Air Force reprimands cadet pilots for penis-shaped flight patterns](https://yle.fi/a/74-20221623)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Malaysian Cuisine: Making Sense of Southeast Asia&#39;s Most Complicated Food Culture&lpar;s&rpar;](https://www.youtube.com/watch?v=0BScF_gdj8g)
 - [Sleep review, addendum](https://lostfocus.de/2026/04/14/sleep-review-addendum/)
 - [Sleep Review](https://lostfocus.de/2026/04/14/sleep-review/)
-- [2026-W15: Of Course](https://lostfocus.de/2026/04/12/2026-w15-of-course/)
-- [FR#158 – What is Mastodon for?](https://connectedplaces.online/reports/fr158-what-is-mastodon-for/)
 <!-- POST-LIST:END -->
 
 <!--
