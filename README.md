@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Alternative thoughts](https://dbushell.com/2026/04/28/alternative-thoughts/)
 - [re: Who knows that you blog?](https://lostfocus.de/2026/05/01/re-who-knows-that-you-blog/)
 - [How Chinese Food Changed Forever in Malaysia&#39;s Tin Mines](https://www.youtube.com/watch?v=UjAyo2q4Gvs)
 - [2026-W17: Spring](https://lostfocus.de/2026/04/26/2026-w17-spring/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Bubbles](https://lostfocus.de/2026/04/22/251439/)
 - [South Korea fighter jets collided due to pilots snapping pictures, report finds](https://www.bbc.com/news/articles/czjwz8we1zzo)
 - [Finnish Air Force reprimands cadet pilots for penis-shaped flight patterns](https://yle.fi/a/74-20221623)
-- [2026-W16: Short Runway](https://lostfocus.de/2026/04/21/2026-w16-short-runway/)
 <!-- POST-LIST:END -->
 
 <!--
