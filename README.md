@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [What I’m Hearing About Cognitive Debt &lpar;So Far&rpar;](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
 - [Some children are drawing on fake moustaches to bypass online age checks, report finds](https://www.aol.com/articles/children-drawing-fake-moustaches-bypass-142603362.html)
 - [AIDHD - AI coding workflow as an exclusion machine](https://thomasorus.com/aidhd-ai-coding-workflow-as-an-exclusion-machine)
 - [2026-W18: Labor](https://lostfocus.de/2026/05/03/2026-w18-labor/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [How Chinese Food Changed Forever in Malaysia&#39;s Tin Mines](https://www.youtube.com/watch?v=UjAyo2q4Gvs)
 - [2026-W17: Spring](https://lostfocus.de/2026/04/26/2026-w17-spring/)
 - [Did NASA’s Artemis II mission really do lunar science or go to the Moon for all humanity?](https://jatan.space/moon-monday-issue-271/)
-- [Side projects](https://lostfocus.de/2026/04/23/side-projects/)
 <!-- POST-LIST:END -->
 
 <!--
