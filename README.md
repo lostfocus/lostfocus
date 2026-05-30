@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
+- [70s Thai molam Lukthung Disco Mix](https://www.youtube.com/watch?v=TP05jzlQRCY)
 - [Revenge of The Business Idiot](https://www.wheresyoured.at/the-revenge-of-the-business-idiot/)
 - [Could the Outdoor Industry Finally Have an Answer to Its Nylon Problem?](https://www.carryology.com/liking/could-the-outdoor-industry-finally-have-an-answer-to-its-nylon-problem/)
 - [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W21: Blueberry](https://lostfocus.de/2026/05/24/2026-w21-blueberry/)
 - [delphitools](https://delphi.tools/)
 - [100.000](https://lostfocus.de/2026/05/20/100-000/)
-- [Great](https://lostfocus.de/2026/05/19/great-2/)
-- [Week notes](https://lostfocus.de/2026/05/18/week-notes/)
 <!-- POST-LIST:END -->
 
 <!--
