@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2026-W22: Classics](https://lostfocus.de/2026/05/31/2026-w22-classics/)
+- [Iron Core](https://lostfocus.de/2026/05/31/iron-core/)
 - [Six Characters](https://ajitem.com/blog/iron-core-part-2-six-characters/)
 - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 - [70s Thai molam Lukthung Disco Mix](https://www.youtube.com/watch?v=TP05jzlQRCY)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
 - [The Untold Story About W Social: Unconventional Beginnings, Strategic Pitches and Conflicting Signals](https://blog.elenarossini.com/the-untold-story-about-w-social-unconventional-beginnings-strategic-pitches-conflicting-signals/)
 - [Ep. 626: &quot;Chili Dog Meetup&quot; - Roderick on the Line](https://www.merlinmann.com/roderick/ep-626-chili-dog-meetup.html)
-- [2026-W21: Blueberry](https://lostfocus.de/2026/05/24/2026-w21-blueberry/)
-- [delphitools](https://delphi.tools/)
 <!-- POST-LIST:END -->
 
 <!--
