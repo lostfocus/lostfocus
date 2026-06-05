@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I Must Attempt to Explain the LEGO Scandal Rocking YouTube, Entire State of Utah](https://www.404media.co/the-lego-bricks-and-minifigs-reckless-benyoutube-scandal-has-broken-containment-can-no-longer-be-ignored/)
+- [Geocoding is complicated](https://lostfocus.de/2026/06/04/geocoding-is-complicated/)
+- [Getting old](https://lostfocus.de/2026/06/04/getting-old/)
 - [Rooting Home Assistant through MeshCore: XSS attacks with a LoRa node name](https://mxsasha.eu/posts/meshcore-xss-home-assistant/)
 - [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](https://jackmaguire.org/blog/ai-job-grief/)
 - [2026-W22: Classics](https://lostfocus.de/2026/05/31/2026-w22-classics/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Six Characters](https://ajitem.com/blog/iron-core-part-2-six-characters/)
 - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 - [70s Thai molam Lukthung Disco Mix](https://www.youtube.com/watch?v=TP05jzlQRCY)
-- [Revenge of The Business Idiot](https://www.wheresyoured.at/the-revenge-of-the-business-idiot/)
-- [Could the Outdoor Industry Finally Have an Answer to Its Nylon Problem?](https://www.carryology.com/liking/could-the-outdoor-industry-finally-have-an-answer-to-its-nylon-problem/)
-- [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
 <!-- POST-LIST:END -->
 
 <!--
