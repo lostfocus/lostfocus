@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2026-W23: Nap Time](https://lostfocus.de/2026/06/07/2026-w23-nap-time/)
 - [I Must Attempt to Explain the LEGO Scandal Rocking YouTube, Entire State of Utah](https://www.404media.co/the-lego-bricks-and-minifigs-reckless-benyoutube-scandal-has-broken-containment-can-no-longer-be-ignored/)
 - [Geocoding is complicated](https://lostfocus.de/2026/06/04/geocoding-is-complicated/)
 - [Getting old](https://lostfocus.de/2026/06/04/getting-old/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Iron Core](https://lostfocus.de/2026/05/31/iron-core/)
 - [Six Characters](https://ajitem.com/blog/iron-core-part-2-six-characters/)
 - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
-- [70s Thai molam Lukthung Disco Mix](https://www.youtube.com/watch?v=TP05jzlQRCY)
 <!-- POST-LIST:END -->
 
 <!--
