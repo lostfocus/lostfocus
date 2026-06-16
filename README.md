@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Man Who&#39;s Spent a Lifetime Making One, Giant Map](https://www.youtube.com/watch?v=Is8N7B9b0GQ)
 - [2026-W24: Endurance](https://lostfocus.de/2026/06/14/2026-w24-endurance/)
 - [Hashtag Motorsport](https://lostfocus.de/2026/06/11/hashtag-motorsport/)
 - [Disney World has now officially replaced Aerosmith with The Muppets covering Blur](https://www.nme.com/news/music/disney-world-has-now-officially-replaced-aerosmith-with-the-muppets-covering-blur-3949641)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Geocoding is complicated](https://lostfocus.de/2026/06/04/geocoding-is-complicated/)
 - [Getting old](https://lostfocus.de/2026/06/04/getting-old/)
 - [Rooting Home Assistant through MeshCore: XSS attacks with a LoRa node name](https://mxsasha.eu/posts/meshcore-xss-home-assistant/)
-- [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](https://jackmaguire.org/blog/ai-job-grief/)
 <!-- POST-LIST:END -->
 
 <!--
