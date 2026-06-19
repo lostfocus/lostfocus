@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [W Social, Public Institutions and the Theater of European Digital Sovereignty](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
+- [Morning Earworm #45: Senza Una Donna](https://lostfocus.de/2026/06/18/morning-earworm-45-senza-una-donna/)
+- [Incogni are sharing their private customer data with podcast directories](https://podnews.net/article/incogni-private-public)
 - [The Man Who&#39;s Spent a Lifetime Making One, Giant Map](https://www.youtube.com/watch?v=Is8N7B9b0GQ)
 - [2026-W24: Endurance](https://lostfocus.de/2026/06/14/2026-w24-endurance/)
 - [Hashtag Motorsport](https://lostfocus.de/2026/06/11/hashtag-motorsport/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [On Generative AI and LLMs](https://roytang.net/2026/06/genai/)
 - [2026-W23: Nap Time](https://lostfocus.de/2026/06/07/2026-w23-nap-time/)
 - [I Must Attempt to Explain the LEGO Scandal Rocking YouTube, Entire State of Utah](https://www.404media.co/the-lego-bricks-and-minifigs-reckless-benyoutube-scandal-has-broken-containment-can-no-longer-be-ignored/)
-- [Geocoding is complicated](https://lostfocus.de/2026/06/04/geocoding-is-complicated/)
-- [Getting old](https://lostfocus.de/2026/06/04/getting-old/)
-- [Rooting Home Assistant through MeshCore: XSS attacks with a LoRa node name](https://mxsasha.eu/posts/meshcore-xss-home-assistant/)
 <!-- POST-LIST:END -->
 
 <!--
