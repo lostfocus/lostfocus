@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Progressive Web Apps for Firefox](https://pwasforfirefox.filips.si/)
 - [Passing of the torch](https://manuelmoreale.com/thoughts/passing-of-the-torch)
 - [All tomorrows parties](https://ethanmarcotte.com/wrote/all-tomorrows-parties/)
 - [W Social, Public Institutions and the Theater of European Digital Sovereignty](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W24: Endurance](https://lostfocus.de/2026/06/14/2026-w24-endurance/)
 - [Hashtag Motorsport](https://lostfocus.de/2026/06/11/hashtag-motorsport/)
 - [Disney World has now officially replaced Aerosmith with The Muppets covering Blur](https://www.nme.com/news/music/disney-world-has-now-officially-replaced-aerosmith-with-the-muppets-covering-blur-3949641)
-- [On Generative AI and LLMs](https://roytang.net/2026/06/genai/)
 <!-- POST-LIST:END -->
 
 <!--
