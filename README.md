@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I Could&#39;ve Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](https://bobdahacker.com/blog/fifa-hack)
+- [2026-W25: Transport and Sandwiches](https://lostfocus.de/2026/06/21/2026-w25-transport-and-sandwiches/)
+- [Burst: a free &lpar;no ads&rpar; bubble shooter game for iPhone](https://mijndertstuij.nl/posts/created-free-iphone-game-burst/)
 - [Progressive Web Apps for Firefox](https://pwasforfirefox.filips.si/)
 - [Passing of the torch](https://manuelmoreale.com/thoughts/passing-of-the-torch)
 - [All tomorrows parties](https://ethanmarcotte.com/wrote/all-tomorrows-parties/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #45: Senza Una Donna](https://lostfocus.de/2026/06/18/morning-earworm-45-senza-una-donna/)
 - [Incogni are sharing their private customer data with podcast directories](https://podnews.net/article/incogni-private-public)
 - [The Man Who&#39;s Spent a Lifetime Making One, Giant Map](https://www.youtube.com/watch?v=Is8N7B9b0GQ)
-- [2026-W24: Endurance](https://lostfocus.de/2026/06/14/2026-w24-endurance/)
-- [Hashtag Motorsport](https://lostfocus.de/2026/06/11/hashtag-motorsport/)
-- [Disney World has now officially replaced Aerosmith with The Muppets covering Blur](https://www.nme.com/news/music/disney-world-has-now-officially-replaced-aerosmith-with-the-muppets-covering-blur-3949641)
 <!-- POST-LIST:END -->
 
 <!--
