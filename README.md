@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Sea to Sky Hard Enduro 2025 | Mountain Race | Dieter Rudolf Full Race](https://www.youtube.com/watch?v=Jbqf4x7rmTM)
 - [I Could&#39;ve Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](https://bobdahacker.com/blog/fifa-hack)
 - [2026-W25: Transport and Sandwiches](https://lostfocus.de/2026/06/21/2026-w25-transport-and-sandwiches/)
 - [Burst: a free &lpar;no ads&rpar; bubble shooter game for iPhone](https://mijndertstuij.nl/posts/created-free-iphone-game-burst/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [W Social, Public Institutions and the Theater of European Digital Sovereignty](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
 - [Morning Earworm #45: Senza Una Donna](https://lostfocus.de/2026/06/18/morning-earworm-45-senza-una-donna/)
 - [Incogni are sharing their private customer data with podcast directories](https://podnews.net/article/incogni-private-public)
-- [The Man Who&#39;s Spent a Lifetime Making One, Giant Map](https://www.youtube.com/watch?v=Is8N7B9b0GQ)
 <!-- POST-LIST:END -->
 
 <!--
