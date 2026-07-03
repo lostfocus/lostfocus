@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Fan](https://lostfocus.de/2026/07/02/fan/)
+- [Too Personal](https://lostfocus.de/2026/07/02/too-personal/)
 - [2026-W26: Mute](https://lostfocus.de/2026/06/28/2026-w26-mute/)
 - [Farming is Why Humanity is Fucked](https://brennan.day/farming-is-why-humanity-is-fucked/)
 - [The Golden Triangle](https://lostfocus.de/2026/06/24/the-golden-triangle/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W25: Transport and Sandwiches](https://lostfocus.de/2026/06/21/2026-w25-transport-and-sandwiches/)
 - [Burst: a free &lpar;no ads&rpar; bubble shooter game for iPhone](https://mijndertstuij.nl/posts/created-free-iphone-game-burst/)
 - [Progressive Web Apps for Firefox](https://pwasforfirefox.filips.si/)
-- [Passing of the torch](https://manuelmoreale.com/thoughts/passing-of-the-torch)
-- [All tomorrows parties](https://ethanmarcotte.com/wrote/all-tomorrows-parties/)
 <!-- POST-LIST:END -->
 
 <!--
