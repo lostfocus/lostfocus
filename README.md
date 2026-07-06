@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2026-W27: Blur](https://lostfocus.de/2026/07/05/2026-w27-blur/)
 - [Fan](https://lostfocus.de/2026/07/02/fan/)
 - [Too Personal](https://lostfocus.de/2026/07/02/too-personal/)
 - [2026-W26: Mute](https://lostfocus.de/2026/06/28/2026-w26-mute/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [I Could&#39;ve Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](https://bobdahacker.com/blog/fifa-hack)
 - [2026-W25: Transport and Sandwiches](https://lostfocus.de/2026/06/21/2026-w25-transport-and-sandwiches/)
 - [Burst: a free &lpar;no ads&rpar; bubble shooter game for iPhone](https://mijndertstuij.nl/posts/created-free-iphone-game-burst/)
-- [Progressive Web Apps for Firefox](https://pwasforfirefox.filips.si/)
 <!-- POST-LIST:END -->
 
 <!--
