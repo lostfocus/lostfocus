@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Homesick for virtual places](https://lostfocus.de/2026/07/06/homesick-for-virtual-places/)
 - [2026-W27: Blur](https://lostfocus.de/2026/07/05/2026-w27-blur/)
 - [Fan](https://lostfocus.de/2026/07/02/fan/)
 - [Too Personal](https://lostfocus.de/2026/07/02/too-personal/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Sea to Sky Hard Enduro 2025 | Mountain Race | Dieter Rudolf Full Race](https://www.youtube.com/watch?v=Jbqf4x7rmTM)
 - [I Could&#39;ve Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](https://bobdahacker.com/blog/fifa-hack)
 - [2026-W25: Transport and Sandwiches](https://lostfocus.de/2026/06/21/2026-w25-transport-and-sandwiches/)
-- [Burst: a free &lpar;no ads&rpar; bubble shooter game for iPhone](https://mijndertstuij.nl/posts/created-free-iphone-game-burst/)
 <!-- POST-LIST:END -->
 
 <!--
