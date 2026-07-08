@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Ze Frank: Get Uncomfortable](https://overcast.fm/+ABXblDu9mR4)
+- [Agent](https://lostfocus.de/2026/07/07/agent/)
 - [Homesick for virtual places](https://lostfocus.de/2026/07/06/homesick-for-virtual-places/)
 - [2026-W27: Blur](https://lostfocus.de/2026/07/05/2026-w27-blur/)
 - [Fan](https://lostfocus.de/2026/07/02/fan/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Farming is Why Humanity is Fucked](https://brennan.day/farming-is-why-humanity-is-fucked/)
 - [The Golden Triangle](https://lostfocus.de/2026/06/24/the-golden-triangle/)
 - [Sea to Sky Hard Enduro 2025 | Mountain Race | Dieter Rudolf Full Race](https://www.youtube.com/watch?v=Jbqf4x7rmTM)
-- [I Could&#39;ve Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](https://bobdahacker.com/blog/fifa-hack)
-- [2026-W25: Transport and Sandwiches](https://lostfocus.de/2026/06/21/2026-w25-transport-and-sandwiches/)
 <!-- POST-LIST:END -->
 
 <!--
