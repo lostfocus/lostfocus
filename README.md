@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 - [2026-W28: Passages](https://lostfocus.de/2026/07/14/2026-w28-passages/)
 - [Morning Earworm #45: I Can’t Stop Me](https://lostfocus.de/2026/07/12/morning-earworm-45-i-cant-stop-me/)
 - [Dinosaurs of the Wild West | Official Kickstarter Trailer &lpar;4K&rpar;](https://www.youtube.com/watch?v=OfsgDuvv_t0)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W27: Blur](https://lostfocus.de/2026/07/05/2026-w27-blur/)
 - [Fan](https://lostfocus.de/2026/07/02/fan/)
 - [Too Personal](https://lostfocus.de/2026/07/02/too-personal/)
-- [2026-W26: Mute](https://lostfocus.de/2026/06/28/2026-w26-mute/)
 <!-- POST-LIST:END -->
 
 <!--
