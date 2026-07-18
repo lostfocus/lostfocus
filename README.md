@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Gojira drummer Mario pulls out of US tour due to &quot;visa issues&quot; – replaced with man named Luigi](https://www.nme.com/news/music/gojira-drummer-mario-pulls-out-of-us-tour-due-to-visa-issues-replaced-with-man-named-luigi-3957623)
 - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 - [2026-W28: Passages](https://lostfocus.de/2026/07/14/2026-w28-passages/)
 - [Morning Earworm #45: I Can’t Stop Me](https://lostfocus.de/2026/07/12/morning-earworm-45-i-cant-stop-me/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Homesick for virtual places](https://lostfocus.de/2026/07/06/homesick-for-virtual-places/)
 - [2026-W27: Blur](https://lostfocus.de/2026/07/05/2026-w27-blur/)
 - [Fan](https://lostfocus.de/2026/07/02/fan/)
-- [Too Personal](https://lostfocus.de/2026/07/02/too-personal/)
 <!-- POST-LIST:END -->
 
 <!--
