@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Blade Runner 2099 - Official Teaser | Prime Video](https://www.youtube.com/watch?v=0Dr8I_RyRCg)
 - [Worrying Signs of Getting Old](https://lostfocus.de/2026/07/21/worrying-signs-of-getting-old/)
 - [Twttr](https://lostfocus.de/2026/07/20/twttr/)
 - [2026-W29: Journey](https://lostfocus.de/2026/07/19/2026-w29-journey/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Morning Earworm #45: I Can’t Stop Me](https://lostfocus.de/2026/07/12/morning-earworm-45-i-cant-stop-me/)
 - [Dinosaurs of the Wild West | Official Kickstarter Trailer &lpar;4K&rpar;](https://www.youtube.com/watch?v=OfsgDuvv_t0)
 - [Ze Frank: Get Uncomfortable](https://overcast.fm/+ABXblDu9mR4)
-- [Agent](https://lostfocus.de/2026/07/07/agent/)
 <!-- POST-LIST:END -->
 
 <!--
