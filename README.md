@@ -5,6 +5,9 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Cyberpunk](https://lostfocus.de/2026/07/26/cyberpunk/)
+- [2026-W30: Rewind](https://lostfocus.de/2026/07/26/2026-w30-rewind/)
+- [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 - [Blade Runner 2099 - Official Teaser | Prime Video](https://www.youtube.com/watch?v=0Dr8I_RyRCg)
 - [Worrying Signs of Getting Old](https://lostfocus.de/2026/07/21/worrying-signs-of-getting-old/)
 - [Twttr](https://lostfocus.de/2026/07/20/twttr/)
@@ -12,9 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Gojira drummer Mario pulls out of US tour due to &quot;visa issues&quot; – replaced with man named Luigi](https://www.nme.com/news/music/gojira-drummer-mario-pulls-out-of-us-tour-due-to-visa-issues-replaced-with-man-named-luigi-3957623)
 - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 - [2026-W28: Passages](https://lostfocus.de/2026/07/14/2026-w28-passages/)
-- [Morning Earworm #45: I Can’t Stop Me](https://lostfocus.de/2026/07/12/morning-earworm-45-i-cant-stop-me/)
-- [Dinosaurs of the Wild West | Official Kickstarter Trailer &lpar;4K&rpar;](https://www.youtube.com/watch?v=OfsgDuvv_t0)
-- [Ze Frank: Get Uncomfortable](https://overcast.fm/+ABXblDu9mR4)
 <!-- POST-LIST:END -->
 
 <!--
