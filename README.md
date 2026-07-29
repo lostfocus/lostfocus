@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Viral New Zealand metal gig ruined by &quot;mess of shit, just completely spread all in the mosh pit&quot;](https://www.nme.com/news/music/viral-new-zealand-metal-gig-ruined-by-mess-of-shit-just-completely-spread-all-in-the-mosh-pit-3959454)
 - [Cyberpunk](https://lostfocus.de/2026/07/26/cyberpunk/)
 - [2026-W30: Rewind](https://lostfocus.de/2026/07/26/2026-w30-rewind/)
 - [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W29: Journey](https://lostfocus.de/2026/07/19/2026-w29-journey/)
 - [Gojira drummer Mario pulls out of US tour due to &quot;visa issues&quot; – replaced with man named Luigi](https://www.nme.com/news/music/gojira-drummer-mario-pulls-out-of-us-tour-due-to-visa-issues-replaced-with-man-named-luigi-3957623)
 - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
-- [2026-W28: Passages](https://lostfocus.de/2026/07/14/2026-w28-passages/)
 <!-- POST-LIST:END -->
 
 <!--
