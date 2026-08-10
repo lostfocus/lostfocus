@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2026-W32: Chase](https://lostfocus.de/2026/08/09/2026-w32-chase/)
 - [Man arrested after dressing as Grim Reaper on hospital roof and staring at patients](https://www.independent.co.uk/news/uk/home-news/grim-reaper-wales-hospital-denbighshire-b3027735.html)
 - [The Hank Green Situation is Weird and Sad](https://www.youtube.com/watch?v=TtvICev9sBE)
 - [2026-W31: Technology](https://lostfocus.de/2026/08/02/2026-w31-technology/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W30: Rewind](https://lostfocus.de/2026/07/26/2026-w30-rewind/)
 - [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 - [Blade Runner 2099 - Official Teaser | Prime Video](https://www.youtube.com/watch?v=0Dr8I_RyRCg)
-- [Worrying Signs of Getting Old](https://lostfocus.de/2026/07/21/worrying-signs-of-getting-old/)
 <!-- POST-LIST:END -->
 
 <!--
