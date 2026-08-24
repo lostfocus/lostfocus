@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Where are your Labubus now?](https://www.youtube.com/watch?v=B-gWe6faCAo)
+- [2026-W34: Watch this](https://lostfocus.de/2026/08/23/2026-w34-watch-this/)
 - [B.C. swimmer crosses the Strait of Georgia in under nine hours](https://www.cbc.ca/radio/asithappens/b-c-swimmer-crosses-strait-of-georgia-under-nine-hours-9.7316260)
 - [Basic geo tag](https://lostfocus.de/2026/08/22/basic-geo-tag/)
 - [September Looming](https://lostfocus.de/2026/08/21/september-looming/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid](https://www.youtube.com/watch?v=T5SGUWvYfqY)
 - [Air France Closes Paris Lounge Sauna After Passengers Apparently Turned It Into A Sex Den](https://liveandletsfly.com/air-france-lounge-sauna-closed/)
 - [WebSub](https://lostfocus.de/2026/08/17/websub/)
-- [loupe-php/loupe: A full text search engine with tokenization, stemming, typo tolerance, filters and geo support based on only PHP and SQLite.](https://github.com/loupe-php/loupe)
-- [2026-W33: Eclipse](https://lostfocus.de/2026/08/16/2026-w33-eclipse/)
 <!-- POST-LIST:END -->
 
 <!--
