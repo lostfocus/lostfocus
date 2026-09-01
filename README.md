@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Replacing gift cards with hóngbāo](https://www.rubenerd.au/its-time-to-replace-gift-cards-with-hongbao/)
 - [Nerd-snipe](https://lostfocus.de/2026/08/30/nerd-snipe/)
 - [2026-W35: Sleep](https://lostfocus.de/2026/08/30/2026-w35-sleep/)
 - [This interactive atlas captures more than a thousand literary journeys.](https://lithub.com/this-interactive-atlas-captures-more-than-a-thousand-literary-journeys/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [B.C. swimmer crosses the Strait of Georgia in under nine hours](https://www.cbc.ca/radio/asithappens/b-c-swimmer-crosses-strait-of-georgia-under-nine-hours-9.7316260)
 - [Basic geo tag](https://lostfocus.de/2026/08/22/basic-geo-tag/)
 - [September Looming](https://lostfocus.de/2026/08/21/september-looming/)
-- [Inside the Jeselnik Book Club: How Anthony Jeselnik is making reading cool](https://www.latimes.com/entertainment-arts/books/story/2026-08-05/anthony-jeselnik-book-club)
 <!-- POST-LIST:END -->
 
 <!--
