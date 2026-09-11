@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Automattic CEO Matt Mullenweg Put on &#39;Leave of Absence&#39;](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
 - [2026-W36: Experiment](https://lostfocus.de/2026/09/06/2026-w36-experiment/)
 - [Replacing gift cards with hóngbāo](https://www.rubenerd.au/its-time-to-replace-gift-cards-with-hongbao/)
 - [Nerd-snipe](https://lostfocus.de/2026/08/30/nerd-snipe/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Where are your Labubus now?](https://www.youtube.com/watch?v=B-gWe6faCAo)
 - [2026-W34: Watch this](https://lostfocus.de/2026/08/23/2026-w34-watch-this/)
 - [B.C. swimmer crosses the Strait of Georgia in under nine hours](https://www.cbc.ca/radio/asithappens/b-c-swimmer-crosses-strait-of-georgia-under-nine-hours-9.7316260)
-- [Basic geo tag](https://lostfocus.de/2026/08/22/basic-geo-tag/)
 <!-- POST-LIST:END -->
 
 <!--
