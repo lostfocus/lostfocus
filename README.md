@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Singapore is paying people to read books – can it fix the reading crisis?](https://www.theguardian.com/books/2026/sep/18/singapore-paid-reading-scheme)
+- [Inside a Saigon Studio Bringing Lion Dance Costumes to Life](https://saigoneer.com/saigon-culture/29220-inside-a-saigon-studio-bringing-lion-dance-costumes-to-life)
 - [The Vibes Are Off](https://lostfocus.de/2026/09/17/the-vibes-are-off/)
 - [2026-W37: Tedium](https://lostfocus.de/2026/09/13/2026-w37-tedium/)
 - [Automattic CEO Matt Mullenweg Put on &#39;Leave of Absence&#39;](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Nerd-snipe](https://lostfocus.de/2026/08/30/nerd-snipe/)
 - [2026-W35: Sleep](https://lostfocus.de/2026/08/30/2026-w35-sleep/)
 - [This interactive atlas captures more than a thousand literary journeys.](https://lithub.com/this-interactive-atlas-captures-more-than-a-thousand-literary-journeys/)
-- [OM System Teases New Pen Series Camera Launch on September 9](https://petapixel.com/2026/08/26/om-system-teases-new-pen-series-camera-launch-on-september-9/)
-- [Where are your Labubus now?](https://www.youtube.com/watch?v=B-gWe6faCAo)
 <!-- POST-LIST:END -->
 
 <!--
