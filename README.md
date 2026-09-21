@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Nish Kumar Names His Celebrity Nemeses](https://www.youtube.com/watch?v=bBLeQVdfOdI)
+- [2026-W38: Some Chuckles, Some Not So Much](https://lostfocus.de/2026/09/20/2026-w38-some-chuckles-some-not-so-much/)
 - [Singapore is paying people to read books – can it fix the reading crisis?](https://www.theguardian.com/books/2026/sep/18/singapore-paid-reading-scheme)
 - [Inside a Saigon Studio Bringing Lion Dance Costumes to Life](https://saigoneer.com/saigon-culture/29220-inside-a-saigon-studio-bringing-lion-dance-costumes-to-life)
 - [The Vibes Are Off](https://lostfocus.de/2026/09/17/the-vibes-are-off/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W36: Experiment](https://lostfocus.de/2026/09/06/2026-w36-experiment/)
 - [Replacing gift cards with hóngbāo](https://www.rubenerd.au/its-time-to-replace-gift-cards-with-hongbao/)
 - [Nerd-snipe](https://lostfocus.de/2026/08/30/nerd-snipe/)
-- [2026-W35: Sleep](https://lostfocus.de/2026/08/30/2026-w35-sleep/)
-- [This interactive atlas captures more than a thousand literary journeys.](https://lithub.com/this-interactive-atlas-captures-more-than-a-thousand-literary-journeys/)
 <!-- POST-LIST:END -->
 
 <!--
