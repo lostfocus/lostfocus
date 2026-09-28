@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2026-W39: Burn](https://lostfocus.de/2026/09/27/2026-w39-burn/)
 - [Live DJ Mix In An Airbus A320 | JET SET 2 | 2010 Trance Edits](https://youtu.be/rJQpBM-bzjE)
 - [Nish Kumar Names His Celebrity Nemeses](https://www.youtube.com/watch?v=bBLeQVdfOdI)
 - [2026-W38: Some Chuckles, Some Not So Much](https://lostfocus.de/2026/09/20/2026-w38-some-chuckles-some-not-so-much/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W37: Tedium](https://lostfocus.de/2026/09/13/2026-w37-tedium/)
 - [Automattic CEO Matt Mullenweg Put on &#39;Leave of Absence&#39;](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
 - [2026-W36: Experiment](https://lostfocus.de/2026/09/06/2026-w36-experiment/)
-- [Replacing gift cards with hóngbāo](https://www.rubenerd.au/its-time-to-replace-gift-cards-with-hongbao/)
 <!-- POST-LIST:END -->
 
 <!--
