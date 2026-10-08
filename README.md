@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Terry Pratchett and his Discworld](https://shows.acast.com/do-go-on/episodes/572-terry-pratchett-and-his-discworld)
+- [A 24-Hour Food Crawl of the &quot;Melbourne of Indonesia&quot;](https://www.youtube.com/watch?v=t9prHQdFqAk)
 - [“I’m Embarrassed on Behalf of the Tech Industry”](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/)
 - [Sex, AI, and the Apocalypse](https://iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 - [2026-W40: Out](https://lostfocus.de/2026/10/04/2026-w40-out/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Nish Kumar Names His Celebrity Nemeses](https://www.youtube.com/watch?v=bBLeQVdfOdI)
 - [2026-W38: Some Chuckles, Some Not So Much](https://lostfocus.de/2026/09/20/2026-w38-some-chuckles-some-not-so-much/)
 - [Singapore is paying people to read books – can it fix the reading crisis?](https://www.theguardian.com/books/2026/sep/18/singapore-paid-reading-scheme)
-- [Inside a Saigon Studio Bringing Lion Dance Costumes to Life](https://saigoneer.com/saigon-culture/29220-inside-a-saigon-studio-bringing-lion-dance-costumes-to-life)
-- [The Vibes Are Off](https://lostfocus.de/2026/09/17/the-vibes-are-off/)
 <!-- POST-LIST:END -->
 
 <!--
