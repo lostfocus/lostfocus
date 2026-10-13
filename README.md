@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [I Too Shall Pass](https://odeliachan.com/i-too-shall-pass/)
 - [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
 - [2026-W41: Executive Dysfunction](https://lostfocus.de/2026/10/11/2026-w41-executive-dysfunction/)
 - [Oh, no.](https://lostfocus.de/2026/10/10/oh-no/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Sex, AI, and the Apocalypse](https://iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 - [2026-W40: Out](https://lostfocus.de/2026/10/04/2026-w40-out/)
 - [2026-W39: Burn](https://lostfocus.de/2026/09/27/2026-w39-burn/)
-- [Live DJ Mix In An Airbus A320 | JET SET 2 | 2010 Trance Edits](https://youtu.be/rJQpBM-bzjE)
 <!-- POST-LIST:END -->
 
 <!--
