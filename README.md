@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [“Please do not understand me too quickly.”](https://piperhaywood.com/please-do-not-understand-me-too-quickly/)
 - [I Too Shall Pass](https://odeliachan.com/i-too-shall-pass/)
 - [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
 - [2026-W41: Executive Dysfunction](https://lostfocus.de/2026/10/11/2026-w41-executive-dysfunction/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [“I’m Embarrassed on Behalf of the Tech Industry”](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/)
 - [Sex, AI, and the Apocalypse](https://iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 - [2026-W40: Out](https://lostfocus.de/2026/10/04/2026-w40-out/)
-- [2026-W39: Burn](https://lostfocus.de/2026/09/27/2026-w39-burn/)
 <!-- POST-LIST:END -->
 
 <!--
