@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Winners of the 2026 Epson International Pano Awards](https://www.theatlantic.com/photography/2026/10/winners-2026-epson-international-pano-awards/689074/)
 - [2026-W42: Low-Hanging Clouds](https://lostfocus.de/2026/10/19/2026-w42-low-hanging-clouds/)
 - [“Please do not understand me too quickly.”](https://piperhaywood.com/please-do-not-understand-me-too-quickly/)
 - [I Too Shall Pass](https://odeliachan.com/i-too-shall-pass/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Terry Pratchett and his Discworld](https://shows.acast.com/do-go-on/episodes/572-terry-pratchett-and-his-discworld)
 - [A 24-Hour Food Crawl of the &quot;Melbourne of Indonesia&quot;](https://www.youtube.com/watch?v=t9prHQdFqAk)
 - [“I’m Embarrassed on Behalf of the Tech Industry”](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/)
-- [Sex, AI, and the Apocalypse](https://iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 <!-- POST-LIST:END -->
 
 <!--
