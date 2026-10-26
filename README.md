@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2026-W43: Beam Me Up](https://lostfocus.de/2026/10/25/2026-w43-beam-me-up/)
 - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 - [Winners of the 2026 Epson International Pano Awards](https://www.theatlantic.com/photography/2026/10/winners-2026-epson-international-pano-awards/689074/)
 - [2026-W42: Low-Hanging Clouds](https://lostfocus.de/2026/10/19/2026-w42-low-hanging-clouds/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [2026-W41: Executive Dysfunction](https://lostfocus.de/2026/10/11/2026-w41-executive-dysfunction/)
 - [Oh, no.](https://lostfocus.de/2026/10/10/oh-no/)
 - [Terry Pratchett and his Discworld](https://shows.acast.com/do-go-on/episodes/572-terry-pratchett-and-his-discworld)
-- [A 24-Hour Food Crawl of the &quot;Melbourne of Indonesia&quot;](https://www.youtube.com/watch?v=t9prHQdFqAk)
 <!-- POST-LIST:END -->
 
 <!--
