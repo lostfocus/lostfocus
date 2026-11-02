@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [2026-W44: Mechanisms](https://lostfocus.de/2026/11/02/2026-w44-mechanisms/)
 - [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 - [October 29th to October 30th](https://lostfocus.de/2026/10/30/october-29th-to-october-30th/)
 - [Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning](https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Seagull](https://lostfocus.de/2026/10/26/seagull/)
 - [2026-W43: Beam Me Up](https://lostfocus.de/2026/10/25/2026-w43-beam-me-up/)
 - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
-- [Winners of the 2026 Epson International Pano Awards](https://www.theatlantic.com/photography/2026/10/winners-2026-epson-international-pano-awards/689074/)
 <!-- POST-LIST:END -->
 
 <!--
