@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [The Endless Museum - 3D Wikipedia Game](https://theendlessmuseum.com/)
+- [Writing](https://lostfocus.de/2026/11/07/writing/)
 - [2026-W44: Mechanisms](https://lostfocus.de/2026/11/02/2026-w44-mechanisms/)
 - [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 - [October 29th to October 30th](https://lostfocus.de/2026/10/30/october-29th-to-october-30th/)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Team](https://lostfocus.de/2026/10/28/team/)
 - [‘Falllout&#39;s ‘Big Brother’-inspired spin-off gets 2027 release date](https://www.nme.com/news/tv/falllout-big-brother-spin-off-release-date-shelter-experiment-3974244)
 - [Seagull](https://lostfocus.de/2026/10/26/seagull/)
-- [2026-W43: Beam Me Up](https://lostfocus.de/2026/10/25/2026-w43-beam-me-up/)
-- [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 <!-- POST-LIST:END -->
 
 <!--
