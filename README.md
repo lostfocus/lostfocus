@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [POIs and POI categories](https://lostfocus.de/2026/11/12/pois-and-poi-categories/)
 - [Something watched you this week.](https://www.watched.earth/)
 - [2026-W45: Aged Like Milk](https://lostfocus.de/2026/11/08/2026-w45-aged-like-milk/)
 - [Why GTA5 Hides Its Best Details](https://www.youtube.com/watch?v=B399N-gqjR0)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 - [October 29th to October 30th](https://lostfocus.de/2026/10/30/october-29th-to-october-30th/)
 - [Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning](https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/)
-- [Digital Sovereignty Is Written in PHP](https://thephp.foundation/blog/2026/09/02/digital-sovereignty-is-written-in-php/)
 <!-- POST-LIST:END -->
 
 <!--
