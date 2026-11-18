@@ -5,6 +5,7 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [Content](https://lostfocus.de/2026/11/17/content/)
 - [New James Bond announced ... and the name’s Pattinson, Robert Pattinson](https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson)
 - [U2: Carnaval de Luz review – rousing, restorative rock from a band ready to take on the world again](https://www.theguardian.com/music/2026/nov/09/u2-carnaval-de-luz-review)
 - [2026-W46: Time flies. So does fruit.](https://lostfocus.de/2026/11/15/2026-w46-time-flies-so-does-fruit/)
@@ -14,7 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [James Acaster Tribute Act Craig Simons Talks Being Mistaken for the Real James Acaster &lpar;Extended&rpar;](https://www.youtube.com/watch?v=29n12lidtSo)
 - [POIs and POI categories](https://lostfocus.de/2026/11/12/pois-and-poi-categories/)
 - [Something watched you this week.](https://www.watched.earth/)
-- [2026-W45: Aged Like Milk](https://lostfocus.de/2026/11/08/2026-w45-aged-like-milk/)
 <!-- POST-LIST:END -->
 
 <!--
