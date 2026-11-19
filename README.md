@@ -5,6 +5,8 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 --- 
 
 <!-- POST-LIST:START -->
+- [last.fm API](https://lostfocus.de/2026/11/18/last-fm-api/)
+- [Still burning](https://lostfocus.de/2026/11/18/still-burning/)
 - [Content](https://lostfocus.de/2026/11/17/content/)
 - [New James Bond announced ... and the name’s Pattinson, Robert Pattinson](https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson)
 - [U2: Carnaval de Luz review – rousing, restorative rock from a band ready to take on the world again](https://www.theguardian.com/music/2026/nov/09/u2-carnaval-de-luz-review)
@@ -13,8 +15,6 @@ I _really_ should clean out my repos, shouldn't I? Looks all a bit old and dusty
 - [Underworld Live at EDC Las Vegas 2026 &lpar;Official Full Set&rpar;](https://www.youtube.com/watch?v=4wzyC3J6-NU)
 - [Over The Hill Is Also A Game For Drivers, Not Racers](https://aftermath.site/over-the-hill-is-also-a-game-for-drivers-not-racers/)
 - [James Acaster Tribute Act Craig Simons Talks Being Mistaken for the Real James Acaster &lpar;Extended&rpar;](https://www.youtube.com/watch?v=29n12lidtSo)
-- [POIs and POI categories](https://lostfocus.de/2026/11/12/pois-and-poi-categories/)
-- [Something watched you this week.](https://www.watched.earth/)
 <!-- POST-LIST:END -->
 
 <!--
